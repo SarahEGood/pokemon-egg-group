@@ -34,32 +34,70 @@ get_shortest_path <- function(df, start_pkmn, finish_pkmn) {
   finish <- finish[nzchar(finish)]
   # Set up while loop
   steps <- 1
-  paths <- c()
+  paths <- c(list(start))
   overlap_flag <- FALSE
-  # If groups don't immediately overlap, search for path
-  while (!overlap_flag) {
-    # Get groups not in current set
-    for (g in single_groups[[1]]) {
-      # Only Evaluate if egg group not in path already
-      if (!(g %in% path)) {
-        # Check if egg group overlaps has pokemon attached
-        possible_path <- unlist(c(start, g))
-        path_length <- length(possible_path)
-        print(possible_path)
-        group1 <- possible_path[[path_length]]
-        group2 <- possible_path[[path_length-1]]
-        bridge_group1 <- unlist(sort(c(group1, group2)))
-        print(bridge_group1)
-        pokemon_bridge_group <- df[(df$EggGroupI == bridge_group1[[1]] & df$EggGroupII == bridge_group1[[2]])
-                                   | (df$EggGroupI == bridge_group1[[2]] & df$EggGroupII == bridge_group1[[1]]), 'Pokemon']
-        if (length(pokemon_bridge_group) > 0) {
-          paths <- append(paths, bridge_group1)
-        }
-        # Iterate to account for dual groups (if list has more than 2 entries)
-      }
-    }
+  # Check if groups overlap; skip entire loop if true
+  if (length(unique(unlist(c(start, finish)))) < length(unlist(c(start, finish)))) {
     overlap_flag <- TRUE
   }
+  # If groups don't immediately overlap, search for path
+  while (!overlap_flag) {
+    # Init new paths var (so as not to duplicate shorter paths)
+    new_paths <- c()
+    # Loop over existing paths
+    for (s in paths) {
+      # Get groups not in current set
+      for (g in single_groups[[1]]) {
+        possible_path <- unlist(c(s, g))
+        path_length <- length(possible_path)
+        print(possible_path)
+        # Only Evaluate if egg group not in path already
+        if (!(g %in% s)) {
+          # Check if egg group overlaps has pokemon attached
+          group1 <- possible_path[[path_length]]
+          group2 <- possible_path[[path_length-1]]
+          bridge_group1 <- unlist(sort(c(group1, group2)))
+          pokemon_bridge_group <- df[(df$EggGroupI == bridge_group1[[1]] & df$EggGroupII == bridge_group1[[2]])
+                                     | (df$EggGroupI == bridge_group1[[2]] & df$EggGroupII == bridge_group1[[1]]), 'Pokemon']
+          if (length(pokemon_bridge_group) > 0) {
+            new_paths <- c(new_paths, list(possible_path))
+            print(new_paths)
+            if (g %in% finish) {
+              overlap_flag <- TRUE
+            }
+          }
+          # Iterate to account for dual groups (if list has more than 2 entries)
+          else if (length(possible_path) > 2) {
+            group1 <- possible_path[[path_length]]
+            group2 <- possible_path[[path_length-2]]
+            bridge_group2 <- unlist(sort(c(group1, group2)))
+            pokemon_bridge_group <- df[(df$EggGroupI == bridge_group2[[1]] & df$EggGroupII == bridge_group2[[2]])
+                                       | (df$EggGroupI == bridge_group2[[2]] & df$EggGroupII == bridge_group2[[1]]), 'Pokemon']
+            if (length(pokemon_bridge_group) > 0) {
+              new_paths <- c(new_paths, list(possible_path))
+              print(new_paths)
+              if (g %in% finish) {
+                overlap_flag <- TRUE
+              }
+            }
+          }
+          # At end of loop, check overlap flag if possible paths contain finish egg group
+        }
+      }
+    }
+    # Assign new paths to main variable
+    paths <- new_paths
+    # Remove paths that contain 
+  }
+  print("Loop has broken")
+  # Remove paths except for ones that have a finishing egg group
+  print(paste("length finish: ", length(finish)))
+  if (length(finish) == 1) {
+    paths <- paths[sapply(paths, function(x) finish[[1]] %in% x)]
+  } else {
+    paths <- paths[sapply(paths, function(x) (finish[[1]] %in% x | finish[[2]] %in% x))]
+  }
+  return (paths)
 
 }
 
@@ -67,11 +105,5 @@ get_shortest_path <- function(df, start_pkmn, finish_pkmn) {
 
 df <- read.csv('pokemon.csv')
 obj <- get_egg_group_steps(df)[[1]]
-get_shortest_path(df, "Pikachu", "Geodude")
-
-# Calc shortest path between groups
-
-# e.g. Fairy to Mineral
-# Fairy -> intermediate groups -> mineral
-
+result <- get_shortest_path(df, "Pikachu", "Tentacool")
 
