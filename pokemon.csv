@@ -1,0 +1,1103 @@
+Nat,Pokemon,TypeI,TypeII,AbilityI,AbilityII,HiddenAbility,Gender,EggGroupI,EggGroupII,Catch,Evolve,Form,GenII,GenIII,GenIV,GenV,GenVI,SunMoon,ORAS,SwSh,BDSP,SV
+1,Bulbasaur,Grass,Poison,Overgrow,,Chlorophyll,M (87.5%),Monster,Grass,45,,Base,X,X,X,X,X,X,X,X,X,
+2,Ivysaur,Grass,Poison,Overgrow,,Chlorophyll,M (87.5%),Monster,Grass,45,Lv. 16,Base,X,X,X,X,X,X,X,X,X,
+3,Venusaur,Grass,Poison,Overgrow,,Chlorophyll,M (87.5%),Monster,Grass,45,Lv. 32,Base,X,X,X,X,X,X,X,X,X,
+4,Charmander,Fire,,Blaze,,Solar Power,M (87.5%),Monster,Dragon,45,,Base,X,X,X,X,X,X,X,X,X,X
+5,Charmeleon,Fire,,Blaze,,Solar Power,M (87.5%),Monster,Dragon,45,Lv. 16,Base,X,X,X,X,X,X,X,X,X,X
+6,Charizard,Fire,Flying,Blaze,,Solar Power,M (87.5%),Monster,Dragon,45,Lv. 36,Base,X,X,X,X,X,X,X,X,X,X
+7,Squirtle,Water,,Torrent,,Rain Dish,M (87.5%),Monster,Water 1,45,,Base,X,X,X,X,X,X,X,X,X,
+8,Wartortle,Water,,Torrent,,Rain Dish,M (87.5%),Monster,Water 1,45,Lv. 16,Base,X,X,X,X,X,X,X,X,X,
+9,Blastoise,Water,,Torrent,,Rain Dish,M (87.5%),Monster,Water 1,45,Lv. 36,Base,X,X,X,X,X,X,X,X,X,
+10,Caterpie,Bug,,Shield Dust,,Run Away,Neutral,Bug,,255,,Base,X,X,X,X,X,X,X,X,X,
+11,Metapod,Bug,,Shed Skin,,,Neutral,Bug,,120,Lv. 7,Base,X,X,X,X,X,X,X,X,X,
+12,Butterfree,Bug,Flying,Compoundeyes,,Tinted Lens,Neutral,Bug,,45,Lv. 10,Base,X,X,X,X,X,X,X,X,X,
+13,Weedle,Bug,Poison,Shield Dust,,Run Away,Neutral,Bug,,255,,Base,X,X,X,X,X,X,X,,X,
+14,Kakuna,Bug,Poison,Shed Skin,,,Neutral,Bug,,120,Lv. 7,Base,X,X,X,X,X,X,X,,X,
+15,Beedrill,Bug,Poison,Swarm,,Sniper,Neutral,Bug,,45,Lv. 10,Base,X,X,X,X,X,X,X,,X,
+16,Pidgey,Normal,Flying,Keen Eye,Tangled Feet,Big Pecks,Neutral,Flying,,255,,Base,X,X,X,X,X,X,X,,X,
+17,Pidgeotto,Normal,Flying,Keen Eye,Tangled Feet,Big Pecks,Neutral,Flying,,120,Lv. 18,Base,X,X,X,X,X,X,X,,X,
+18,Pidgeot,Normal,Flying,Keen Eye,Tangled Feet,Big Pecks,Neutral,Flying,,45,Lv. 36,Base,X,X,X,X,X,X,X,,X,
+19,Rattata,Normal,,Run Away,Guts,Hustle,Neutral,Field,,255,,Base,X,X,X,X,X,X,X,,X,
+19,Alolan Rattata,Dark,Normal,Gluttony,Hustle,Thick Fat,Neutral,Field,,255,,Alolan,,,,X,X,X,X,,,
+20,Raticate,Normal,,Run Away,Guts,Hustle,Neutral,Field,,127,Lv. 20,Base,X,X,X,X,X,X,X,,X,
+20,Alolan Raticate,Dark,Normal,Gluttony,Hustle,Thick Fat,Neutral,Field,,127,Level 20 (At night),Alolan,,,,,,X,X,,,
+21,Spearow,Normal,Flying,Keen Eye,,Sniper,Neutral,Flying,,255,,Base,X,X,X,X,X,X,X,,X,
+22,Fearow,Normal,Flying,Keen Eye,,Sniper,Neutral,Flying,,90,Lv. 20,Base,X,X,X,X,X,X,X,,X,
+23,Ekans,Poison,,Intimidate,Shed Skin,Unnerve,Neutral,Field,Dragon,255,,Base,X,X,X,X,X,X,X,,X,
+24,Arbok,Poison,,Intimidate,Shed Skin,Unnerve,Neutral,Field,Dragon,90,Lv. 22,Base,X,X,X,X,X,X,X,,X,
+25,Pikachu,Electric,,Static,,Lightningrod,Neutral,Field,Fairy,190,Friendship,Base,X,X,X,X,X,X,X,X,X,X
+26,Raichu,Electric,,Static,,Lightningrod,Neutral,Field,Fairy,75,Thunderstone,Base,X,X,X,X,X,X,X,X,X,X
+26,Alolan Raichu,Electric,Psychic,Surge Surfer,,,Neutral,Field,Fairy,75,Thunderstone (Alola Only),Alolan,,,,,,,,,,
+27,Sandshrew,Ground,,Sand Veil,,Sand Rush,Neutral,Field,,255,,Base,X,X,X,X,X,X,X,X,X,
+27,Alolan Sandshrew,Ice,Steel,Snow Cloak,,Slush Rush,Neutral,Field,,255,,Alolan,,,,,,X,X,X,,
+28,Sandslash,Ground,,Sand Veil,,Sand Rush,Neutral,Field,,90,Lv. 22,Base,X,X,X,X,X,X,X,X,X,
+28,Alolan Sandslash,Ice,Steel,Snow Cloak,,Slush Rush,Neutral,Field,,90,Ice Stone,Alolan,,,,,,X,X,X,,
+29,Nidoran ♀,Poison,,Poison Point,Rivalry,Hustle,F (100%),Monster,Field,235,,Base,X,X,X,X,X,X,X,X,X,
+30,Nidorina,Poison,,Poison Point,Rivalry,Hustle,F (100%),-,,120,Lv. 16,Base,X,X,X,X,X,X,X,X,X,
+31,Nidoqueen,Poison,Ground,Poison Point,Rivalry,Sheer Force,F (100%),-,,45,Moon Stone,Base,X,X,X,X,X,X,X,X,X,
+32,Nidoran ♂,Poison,,Poison Point,Rivalry,Hustle,M (100%),Monster,Field,235,,Base,X,X,X,X,X,X,X,X,X,
+33,Nidorino,Poison,,Poison Point,Rivalry,Hustle,M (100%),Monster,Field,120,Lv. 16,Base,X,X,X,X,X,X,X,X,X,
+34,Nidoking,Poison,Ground,Poison Point,Rivalry,Sheer Force,M (100%),Monster,Field,45,Moon Stone,Base,X,X,X,X,X,X,X,X,X,
+35,Clefairy,Fairy,,Cute Charm,Magic Guard,Friend Guard,F (75%),Fairy,,150,Friendship,Base,X,X,X,X,X,X,X,X,X,
+36,Clefable,Fairy,,Cute Charm,Magic Guard,Unaware,F (75%),Fairy,,25,Moon Stone,Base,X,X,X,X,X,X,X,X,X,
+37,Vulpix,Fire,,Flash Fire,,Drought,F (75%),Field,,190,,Base,X,X,X,X,X,X,X,X,X,
+37,Alolan Vulpix,Ice,Fairy,Snow Cloak,,Snow Warning,F (75%),Field,,190,,Alolan,,,,,,X,X,X,,
+38,Ninetales,Fire,,Flash Fire,,Drought,F (75%),Field,,75,Fire Stone,Base,X,X,X,X,X,X,X,X,X,
+38,Alolan Ninetales,Ice,Fairy,Snow Cloak,,Snow Warning,F (75%),Field,,75,Ice Stone,Alolan,,,,,,X,X,X,,
+39,Jigglypuff,Normal,Fairy,Cute Charm,,Friend Guard,F (75%),Fairy,,170,Friendship,Base,X,X,X,X,X,X,X,X,X,X
+40,Wigglytuff,Normal,Fairy,Cute Charm,,Frisk,F (75%),Fairy,,50,Moon Stone,Base,X,X,X,X,X,X,X,X,X,X
+41,Zubat,Poison,Flying,Inner Focus,,Infiltrator,Neutral,Flying,,255,,Base,X,X,X,X,X,X,X,X,X,
+42,Golbat,Poison,Flying,Inner Focus,,Infiltrator,Neutral,Flying,,90,Lv. 22,Base,X,X,X,X,X,X,X,X,X,
+43,Oddish,Grass,Poison,Chlorophyll,,Run Away,Neutral,Grass,,255,,Base,X,X,X,X,X,X,X,X,X,
+44,Gloom,Grass,Poison,Chlorophyll,,Stench,Neutral,Grass,,120,Lv. 22,Base,X,X,X,X,X,X,X,X,X,
+45,Vileplume,Grass,Poison,Chlorophyll,,Effect Spore,Neutral,Grass,,45,Leaf Stone,Base,X,X,X,X,X,X,X,X,X,
+46,Paras,Bug,Grass,Effect Spore,Dry Skin,Damp,Neutral,Bug,Grass,190,,Base,X,X,X,X,X,X,X,,X,
+47,Parasect,Bug,Grass,Effect Spore,Dry Skin,Damp,Neutral,Bug,Grass,75,Lv. 24,Base,X,X,X,X,X,X,X,,X,
+48,Venonat,Bug,Poison,Compoundeyes,Tinted Lens,Run Away,Neutral,Bug,,190,,Base,X,X,X,X,X,X,X,,X,X
+49,Venomoth,Bug,Poison,Shield Dust,Tinted Lens,Wonderskin,Neutral,Bug,,75,Lv. 31,Base,X,X,X,X,X,X,X,,X,X
+50,Diglett,Ground,,Sand Veil,Arena Trap,Sand Force,Neutral,Field,,255,,Base,X,X,X,X,X,X,X,X,X,X
+50,Alolan Diglett,Ground,Steel,Sand Veil,Tangling Hair,Sand Force,Neutral,Field,,255,,Alolan,,,,,,X,X,X,,X
+51,Dugtrio,Ground,,Sand Veil,Arena Trap,Sand Force,Neutral,Field,,50,Lv. 26,Base,X,X,X,X,X,X,X,X,X,X
+51,Alolan Dugtrio,Ground,Steel,Sand Veil,Tangling Hair,Sand Force,Neutral,Field,,50,Level 26,Alolan,,,,,,X,X,X,,X
+52,Meowth,Normal,,Pickup,Technician,Unnerve,Neutral,Field,,255,,Base,X,X,X,X,X,X,X,X,X,X
+52,Alolan Meowth,Dark,,Pickup,Technician,Rattled,Neutral,Field,,255,,Alolan,,,,,,X,X,X,,X
+52,Galarian Meowth,Steel,,Pickup,Tough Claws,Unnerve,Neutral,Field,,255,,Galarian,,,,,,,,X,,X
+53,Persian,Normal,,Limber,Technician,Unnerve,Neutral,Field,,90,Lv. 28,Base,X,X,X,X,X,X,X,X,X,X
+53,Alolan Persian,Dark,,Fur Coat,Technician,Rattled,Neutral,Field,,90,Level 26,Alolan,,,,,,X,X,X,,X
+54,Psyduck,Water,,Damp,Cloud Nine,Swift Swim,Neutral,Water 1,Field,190,,Base,X,X,X,X,X,X,X,X,X,X
+55,Golduck,Water,,Damp,Cloud Nine,Swift Swim,Neutral,Water 1,Field,75,Lv. 33,Base,X,X,X,X,X,X,X,X,X,X
+56,Mankey,Fighting,,Vital Spirit,Anger Point,Defiant,Neutral,Field,,190,,Base,X,X,X,X,X,X,X,,X,X
+57,Primeape,Fighting,,Vital Spirit,Anger Point,Defiant,Neutral,Field,,75,Lv. 28,Base,X,X,X,X,X,X,X,,X,X
+58,Growlithe,Fire,,Intimidate,Flash Fire,Justified,M (75%),Field,,190,,Base,X,X,X,X,X,X,X,X,X,X
+58,Hisuian Growlithe,Fire,Rock,Intimidate,Flash Fire,Justified,M (75%),Field,,190,,Hisuian,,,,,,,,,,X
+59,Arcanine,Fire,,Intimidate,Flash Fire,Justified,M (75%),Field,,75,Fire Stone,Base,X,X,X,X,X,X,X,X,X,X
+59,Hisuian Arcanine,Fire,Rock,Intimidate,Flash Fire,Justified,M (75%),Field,,75,Fire Stone,Hisuian,,,,,,,,,,X
+60,Poliwag,Water,,Water Absorb,Damp,Swift Swim,Neutral,Water 1,,255,,Base,X,X,X,X,X,X,X,X,X,
+61,Poliwhirl,Water,,Water Absorb,Damp,Swift Swim,Neutral,Water 1,,120,Lv. 25,Base,X,X,X,X,X,X,X,X,X,
+62,Poliwrath,Water,Fighting,Water Absorb,Damp,Swift Swim,Neutral,Water 1,,45,Water Stone,Base,X,X,X,X,X,X,X,X,X,
+63,Abra,Psychic,,Synchronize,Inner Focus,Magic Guard,M (75%),Human-Like,,200,,Base,X,X,X,X,X,X,X,X,X,
+64,Kadabra,Psychic,,Synchronize,Inner Focus,Magic Guard,M (75%),Human-Like,,100,Lv. 16,Base,X,X,X,X,X,X,X,X,X,
+65,Alakazam,Psychic,,Synchronize,Inner Focus,Magic Guard,M (75%),Human-Like,,50,Trade,Base,X,X,X,X,X,X,X,X,X,
+66,Machop,Fighting,,Guts,No Guard,Steadfast,M (75%),Human-Like,,180,,Base,X,X,X,X,X,X,X,X,X,
+67,Machoke,Fighting,,Guts,No Guard,Steadfast,M (75%),Human-Like,,90,Lv. 28,Base,X,X,X,X,X,X,X,X,X,
+68,Machamp,Fighting,,Guts,No Guard,Steadfast,M (75%),Human-Like,,45,Trade,Base,X,X,X,X,X,X,X,X,X,
+69,Bellsprout,Grass,Poison,Chlorophyll,,Gluttony,Neutral,Grass,,255,,Base,X,X,X,X,X,X,X,,X,
+70,Weepinbell,Grass,Poison,Chlorophyll,,Gluttony,Neutral,Grass,,120,Lv. 21,Base,X,X,X,X,X,X,X,,X,
+71,Victreebel,Grass,Poison,Chlorophyll,,Gluttony,Neutral,Grass,,45,Leaf Stone,Base,X,X,X,X,X,X,X,,X,
+72,Tentacool,Water,Poison,Clear Body,Liquid Ooze,Rain Dish,Neutral,Water 3,,190,,Base,X,X,X,X,X,X,X,X,X,
+73,Tentacruel,Water,Poison,Clear Body,Liquid Ooze,Rain Dish,Neutral,Water 3,,60,Lv. 30,Base,X,X,X,X,X,X,X,X,X,
+74,Geodude,Rock,Ground,Rock Head,Sturdy,Sand Veil,Neutral,Mineral,,255,,Base,X,X,X,X,X,X,X,,X,
+74,Alolan Geodude,Rock,Electric,Magnet Pull,Sturdy,Galvanize,Neutral,Mineral,,255,,Alolan,,,,,,X,X,,,
+75,Graveler,Rock,Ground,Rock Head,Sturdy,Sand Veil,Neutral,Mineral,,120,Lv. 25,Base,X,X,X,X,X,X,X,,X,
+75,Alolan Graveler,Rock,Electric,Magnet Pull,Sturdy,Galvanize,Neutral,Mineral,,120,Level 25,Alolan,,,,,,X,X,,,
+76,Golem,Rock,Ground,Rock Head,Sturdy,Sand Veil,Neutral,Mineral,,45,Trade,Base,X,X,X,X,X,X,X,,X,
+76,Alolan Golem,Rock,Electric,Magnet Pull,Sturdy,Galvanize,Neutral,Mineral,,45,Trade,Alolan,,,,,,X,X,,,
+77,Ponyta,Fire,,Run Away,Flash Fire,Flame Body,Neutral,Field,,190,,Base,X,X,X,X,X,X,X,X,X,
+77,Galarian Ponyta,Psychic,Fairy,Run Away,Pastel Veil,Anticipation,Neutral,Field,,190,,Galarian,,,,,,,,X,,
+78,Rapidash,Fire,,Run Away,Flash Fire,Flame Body,Neutral,Field,,60,Lv. 40,Base,X,X,X,X,X,X,X,X,X,
+78,Galarian Rapidash,Psychic,Fairy,Run Away,Pastel Veil,Anticipation,Neutral,Field,,60,Level 40,Galarian,,,,,,,,X,,
+79,Slowpoke,Water,Psychic,Oblivious,Own Tempo,Regenerator,Neutral,Monster,Water 1,190,,Base,X,X,X,X,X,X,X,X,X,X
+79,G. Slowpoke,Psychic,,Gluttony,Own Tempo,Regenerator,Neutral,Monster,Water 1,190,,Galarian,,,,,,,,X,,X
+80,Slowbro,Water,Psychic,Oblivious,Own Tempo,Regenerator,Neutral,Monster,Water 1,75,Lv. 37,Base,X,X,X,X,X,X,X,X,X,X
+80,G. Slowbro,Poison,Psychic,Quick Draw,Own Tempo,Regenerator,Neutral,Monster,Water 1,75,Galarian Cuff,Galarian,,,,,,,,X,,X
+81,Magnemite,Electric,Steel,Magnet Pull,Sturdy,Analytic,None,Mineral,,190,,Base,X,X,X,X,X,X,X,X,X,X
+82,Magneton,Electric,Steel,Magnet Pull,Sturdy,Analytic,None,Mineral,,60,Lv. 30,Base,X,X,X,X,X,X,X,X,X,X
+83,Farfetch'd,Normal,Flying,Keen Eye,Inner Focus,Defiant,Neutral,Flying,Field,45,N,Base,X,X,X,X,X,X,X,X,X,
+83,G. Farfetch'd,Fighting,,Steadfast,,Scrappy,Neutral,Flying,Field,45,,Galarian,,,,,,,,X,,
+84,Doduo,Normal,Flying,Run Away,Early Bird,Tangled Feet,Neutral,Flying,,190,,Base,X,X,X,X,X,X,X,,X,
+85,Dodrio,Normal,Flying,Run Away,Early Bird,Tangled Feet,Neutral,Flying,,45,Lv. 31,Base,X,X,X,X,X,X,X,,X,
+86,Seel,Water,,Thick Fat,Hydration,Ice Body,Neutral,Water 1,Field,190,,Base,X,X,X,X,X,X,X,,X,
+87,Dewgong,Water,Ice,Thick Fat,Hydration,Ice Body,Neutral,Water 1,Field,75,Lv. 34,Base,X,X,X,X,X,X,X,,X,
+88,Grimer,Poison,,Stench,Sticky Hold,Poison Touch,Neutral,Amorphous,,190,,Base,X,X,X,X,X,X,X,,X,X
+88,Alolan Grimer,Poison,Dark,Poison Touch,Gluttony,Power of Alchemy,Neutral,Amorphous,,190,,Alolan,,,,,,X,X,,,
+89,Muk,Poison,,Stench,Sticky Hold,Poison Touch,Neutral,Amorphous,,75,Lv. 38,Base,X,X,X,X,X,X,X,,X,X
+89,Alolan Muk,Poison,Dark,Poison Touch,Gluttony,Power of Alchemy,Neutral,Amorphous,,75,Level 38,Alolan,,,,,,X,X,,,
+90,Shellder,Water,,Shell Armor,Skill Link,Overcoat,Neutral,Water 3,,190,,Base,X,X,X,X,X,X,X,X,X,X
+91,Cloyster,Water,Ice,Shell Armor,Skill Link,Overcoat,Neutral,Water 3,,60,Water Stone,Base,X,X,X,X,X,X,X,X,X,X
+92,Gastly,Ghost,Poison,Levitate,,,Neutral,Amorphous,,190,,Base,X,X,X,X,X,X,X,X,X,X
+93,Haunter,Ghost,Poison,Levitate,,,Neutral,Amorphous,,90,Lv. 25,Base,X,X,X,X,X,X,X,X,X,X
+94,Gengar,Ghost,Poison,Cursed Body,,,Neutral,Amorphous,,45,Trade,Base,X,X,X,X,X,X,X,X,X,X
+95,Onix,Rock,Ground,Rock Head,Sturdy,Weak Armor,Neutral,Mineral,,45,,Base,X,X,X,X,X,X,X,X,X,
+96,Drowzee,Psychic,,Insomnia,Forewarn,Inner Focus,Neutral,Human-Like,,190,,Base,X,X,X,X,X,X,X,,X,X
+97,Hypno,Psychic,,Insomnia,Forewarn,Inner Focus,Neutral,Human-Like,,75,Lv. 26,Base,X,X,X,X,X,X,X,,X,X
+98,Krabby,Water,,Hyper Cutter,Shell Armor,Sheer Force,Neutral,Water 3,,225,,Base,X,X,X,X,X,X,X,X,X,
+99,Kingler,Water,,Hyper Cutter,Shell Armor,Sheer Force,Neutral,Water 3,,60,Lv. 28,Base,X,X,X,X,X,X,X,X,X,
+100,Voltorb,Electric,,Soundproof,Static,Aftermath,None,Mineral,,190,,Base,X,X,X,X,X,X,X,,X,X
+100,Hisuian Voltorb,Electric,Grass,Soundproof,Static,Aftermath,None,Mineral,,190,,Hisuian,,,,,,,,,,X
+101,Electrode,Electric,,Soundproof,Static,Aftermath,None,Mineral,,60,Lv. 30,Base,X,X,X,X,X,X,X,,X,X
+101,H. Electrode,Electric,Grass,Soundproof,Static,Aftermath,None,Mineral,,60,Leaf Stone,Hisuian,,,,,,,,,,X
+102,Exeggcute,Grass,Psychic,Chlorophyll,,Harvest,Neutral,Grass,,90,,Base,X,X,X,X,X,X,X,X,X,
+103,Exeggutor,Grass,Psychic,Chlorophyll,,Harvest,Neutral,Grass,,45,Leaf Stone,Base,X,X,X,X,X,X,X,X,X,
+103,A. Exeggutor,Grass,,Frisk,,Harvest,Neutral,Grass,,45,Leaf Stone (Alola Only),Alolan,,,,,,X,X,X,,
+104,Cubone,Ground,,Rock Head,Lightningrod,Battle Armor,Neutral,Monster,,190,,Base,X,X,X,X,X,X,X,X,X,
+105,Marowak,Ground,,Rock Head,Lightningrod,Battle Armor,Neutral,Monster,,75,Lv. 28,Base,X,X,X,X,X,X,X,X,X,
+105,A. Marowak,Ghost,Fire,Cursed Body,Lightning Rod,Rock Head,Neutral,Monster,,75,"Level 28 (Night, Alola Only)",Alolan,,,,,,X,X,X,,
+106,Hitmonlee,Fighting,,Limber,Reckless,Unburden,M (100%),Human-Like,,45,Lv. 20 (Atk>Def),Base,X,X,X,X,X,X,X,X,X,
+107,Hitmonchan,Fighting,,Keen Eye,Iron Fist,Inner Focus,M (100%),Human-Like,,45,Lv. 20 (Atk<Def),Base,X,X,X,X,X,X,X,X,X,
+108,Lickitung,Normal,,Own Tempo,Oblivious,Cloud Nine,Neutral,Monster,,45,,Base,X,X,X,X,X,X,X,X,X,
+109,Koffing,Poison,,Levitate,Neutralizing Gas,Stench,Neutral,Amorphous,,190,,Base,X,X,X,X,X,X,X,X,X,
+110,Weezing,Poison,,Levitate,Neutralizing Gas,Stench,Neutral,Amorphous,,60,Lv. 35,Base,X,X,X,X,X,X,X,X,X,
+110,G. Weezing,Poison,Fairy,Levitate,Neutralizing Gas,Misty Surge,Neutral,Amorphous,,60,Level 35 (Galar Only),Galarian,,,,,,,,X,,
+111,Rhyhorn,Ground,Rock,Lightningrod,Rock Head,Reckless,Neutral,Monster,Field,120,,Base,X,X,X,X,X,X,X,X,X,
+112,Rhydon,Ground,Rock,Lightningrod,Rock Head,Reckless,Neutral,Monster,Field,60,Lv. 42,Base,X,X,X,X,X,X,X,X,X,
+113,Chansey,Normal,,Natural Cure,Serene Grace,Healer,F (100%),Fairy,,30,Morn/Day Fr. h/ Oval Stone,Base,X,X,X,X,X,X,X,X,X,X
+114,Tangela,Grass,,Chlorophyll,Leaf Guard,Regenerator,Neutral,Grass,,45,,Base,X,X,X,X,X,X,X,X,X,
+115,Kangaskhan,Normal,,Early Bird,Scrappy,Inner Focus,F (100%),Monster,,45,N,Base,X,X,X,X,X,X,X,X,X,
+116,Horsea,Water,,Swift Swim,Sniper,Damp,Neutral,Water 1,Dragon,225,,Base,X,X,X,X,X,X,X,X,X,
+117,Seadra,Water,,Poison Point,Sniper,Damp,Neutral,Water 1,Dragon,75,Lv. 32,Base,X,X,X,X,X,X,X,X,X,
+118,Goldeen,Water,,Swift Swim,Water Veil,Lightningrod,Neutral,Water 2,,225,,Base,X,X,X,X,X,X,X,X,X,
+119,Seaking,Water,,Swift Swim,Water Veil,Lightningrod,Neutral,Water 2,,60,Lv. 33,Base,X,X,X,X,X,X,X,X,X,
+120,Staryu,Water,,Illuminate,Natural Cure,Analytic,None,Water 3,,225,,Base,X,X,X,X,X,X,X,X,X,
+121,Starmie,Water,Psychic,Illuminate,Natural Cure,Analytic,None,Water 3,,60,Water Stone,Base,X,X,X,X,X,X,X,X,X,
+122,Mr. Mime,Psychic,Fairy,Soundproof,Filter,Technician,Neutral,Human-Like,,45,Level w/ Mimic,Base,X,X,X,X,X,X,X,X,X,
+122,G. Mr. Mime,Ice,Fairy,Vital Spirit,Screen Cleaner,Ice Body,Neutral,Human-Like,,45,Knowing Mimic (Galar Only),Galarian,,,,,,,,X,,
+123,Scyther,Bug,Flying,Swarm,Technician,Steadfast,Neutral,Bug,,45,,Base,X,X,X,X,X,X,X,X,X,X
+124,Jynx,Ice,Psychic,Oblivious,Forewarn,Dry Skin,F (100%),Human-Like,,45,Lv. 30,Base,X,X,X,X,X,X,X,X,X,
+125,Electabuzz,Electric,,Static,,Vital Spirit,M (75%),Human-Like,,45,Lv. 30,Base,X,X,X,X,X,X,X,X,X,
+126,Magmar,Fire,,Flame Body,,Vital Spirit,M (75%),Human-Like,,45,Lv. 30,Base,X,X,X,X,X,X,X,X,X,
+127,Pinsir,Bug,,Hyper Cutter,Mold Breaker,Moxie,Neutral,Bug,,45,N,Base,X,X,X,X,X,X,X,X,X,
+128,Tauros,Normal,,Intimidate,Anger Point,Sheer Force,M (100%),Field,,45,N,Base,X,X,X,X,X,X,X,X,X,X
+128,P. Tauros,Fighting,,Intimidate,Anger Point,Cud Chew,M (100%),Field,,45,,Paldean,,,,,,,,,,X
+128,P. Tauros F,Fighting,Fire,Intimidate,Anger Point,Cud Chew,M (100%),Field,,45,,Paldean,,,,,,,,,,X
+128,P. Tauros W,Fighting,Water,Intimidate,Anger Point,Cud Chew,M (100%),Field,,45,,Paldean,,,,,,,,,,X
+129,Magikarp,Water,,Swift Swim,,Rattled,Neutral,Water 2,Dragon,255,,Base,X,X,X,X,X,X,X,X,X,X
+130,Gyarados,Water,Flying,Intimidate,,Moxie,Neutral,Water 2,Dragon,45,Lv. 20,Base,X,X,X,X,X,X,X,X,X,X
+131,Lapras,Water,Ice,Water Absorb,Shell Armor,Hydration,Neutral,Monster,Water 1,45,N,Base,X,X,X,X,X,X,X,X,X,
+132,Ditto,Normal,,Limber,,Imposter,None,Ditto,,35,N,Base,X,X,X,X,X,X,X,X,X,X
+133,Eevee,Normal,,Run Away,Adaptability,Anticipation,M (87.5%),Field,,45,,Base,X,X,X,X,X,X,X,X,X,X
+134,Vaporeon,Water,,Water Absorb,,Hydration,M (87.5%),Field,,45,Water Stone,Base,X,X,X,X,X,X,X,X,X,X
+135,Jolteon,Electric,,Volt Absorb,,Quick Feet,M (87.5%),Field,,45,Thunderstone,Base,X,X,X,X,X,X,X,X,X,X
+136,Flareon,Fire,,Flash Fire,,Guts,M (87.5%),Field,,45,Fire Stone,Base,X,X,X,X,X,X,X,X,X,X
+137,Porygon,Normal,,Trace,Download,Analytic,None,Mineral,,45,,Base,X,X,X,X,X,X,X,X,X,
+138,Omanyte,Rock,Water,Swift Swim,Shell Armor,Weak Armor,M (87.5%),Water 1,Water 3,45,,Base,X,X,X,X,X,X,X,X,X,
+139,Omastar,Rock,Water,Swift Swim,Shell Armor,Weak Armor,M (87.5%),Water 1,Water 3,45,Lv. 40,Base,X,X,X,X,X,X,X,X,X,
+140,Kabuto,Rock,Water,Swift Swim,Battle Armor,Weak Armor,M (87.5%),Water 1,Water 3,45,,Base,X,X,X,X,X,X,X,X,X,
+141,Kabutops,Rock,Water,Swift Swim,Battle Armor,Weak Armor,M (87.5%),Water 1,Water 3,45,Lv. 40,Base,X,X,X,X,X,X,X,X,X,
+142,Aerodactyl,Rock,Flying,Rock Head,Pressure,Unnerve,M (87.5%),Flying,,45,N,Base,X,X,X,X,X,X,X,X,X,
+143,Snorlax,Normal,,Immunity,Thick Fat,Gluttony,M (87.5%),Monster,,25,Friendship,Base,X,X,X,X,X,X,X,X,X,
+144,Articuno,Ice,Flying,Pressure,,Snow Cloak,None,-,,3,N,Base,X,X,X,X,X,X,X,X,X,X
+144,G. Articuno,Psychic,Flying,Competitive,,,None,-,,3,N,Galarian,,,,,,,,X,,X
+145,Zapdos,Electric,Flying,Pressure,,Static,None,-,,3,N,Base,X,X,X,X,X,X,X,X,X,X
+145,G. Zapdos,Fighting,Flying,Defiant,,,None,-,,3,N,Galarian,,,,,,,,X,,X
+146,Moltres,Fire,Flying,Pressure,,Flame Body,None,-,,3,N,Base,X,X,X,X,X,X,X,X,X,X
+146,G. Moltres,Dark,Flying,Berserk,,,None,-,,3,N,Galarian,,,,,,,,X,,X
+147,Dratini,Dragon,,Shed Skin,,Marvel Scale,Neutral,Water 1,Dragon,45,,Base,X,X,X,X,X,X,X,X,X,X
+148,Dragonair,Dragon,,Shed Skin,,Marvel Scale,Neutral,Water 1,Dragon,45,Lv. 30,Base,X,X,X,X,X,X,X,X,X,X
+149,Dragonite,Dragon,Flying,Inner Focus,,Multiscale,Neutral,Water 1,Dragon,45,Lv. 55,Base,X,X,X,X,X,X,X,X,X,X
+150,Mewtwo,Psychic,,Pressure,,Unnerve,None,-,,3,N,Base,X,X,X,X,X,X,X,X,X,X
+151,Mew,Psychic,,Synchronize,,,None,-,,45,N,Base,X,X,X,X,X,X,X,X,X,X
+152,Chikorita,Grass,,Overgrow,,Leaf Guard,M (87.5%),Monster,Grass,45,,Base,X,X,X,X,X,X,X,,X,
+153,Bayleef,Grass,,Overgrow,,Leaf Guard,M (87.5%),Monster,Grass,45,Lv. 16,Base,X,X,X,X,X,X,X,,X,
+154,Meganium,Grass,,Overgrow,,Leaf Guard,M (87.5%),Monster,Grass,45,Lv. 32,Base,X,X,X,X,X,X,X,,X,
+155,Cyndaquil,Fire,,Blaze,,Flash Fire,M (87.5%),Field,,45,,Base,X,X,X,X,X,X,X,,X,X
+156,Quilava,Fire,,Blaze,,Flash Fire,M (87.5%),Field,,45,Lv. 14,Base,X,X,X,X,X,X,X,,X,X
+157,Typhlosion,Fire,,Blaze,,Flash Fire,M (87.5%),Field,,45,Lv. 36,Base,X,X,X,X,X,X,X,,X,X
+157,H. Typhlosion,Ghost,Fire,Blaze,,Flash Fire,M (87.5%),Field,,45,Level 36 (Hisui Only),Hisuian,,,,,,,,,,X
+158,Totodile,Water,,Torrent,,Sheer Force,M (87.5%),Monster,Water 1,45,,Base,X,X,X,X,X,X,X,,X,
+159,Croconaw,Water,,Torrent,,Sheer Force,M (87.5%),Monster,Water 1,45,Lv. 18,Base,X,X,X,X,X,X,X,,X,
+160,Feraligatr,Water,,Torrent,,Sheer Force,M (87.5%),Monster,Water 1,45,Lv. 30,Base,X,X,X,X,X,X,X,,X,
+161,Sentret,Normal,,Run Away,Keen Eye,Frisk,Neutral,Field,,255,,Base,X,X,X,X,X,X,X,,X,
+162,Furret,Normal,,Run Away,Keen Eye,Frisk,Neutral,Field,,90,Lv. 15,Base,X,X,X,X,X,X,X,,X,
+163,Hoothoot,Normal,Flying,Insomnia,Keen Eye,Tinted Lens,Neutral,Flying,,255,,Base,X,X,X,X,X,X,X,X,X,
+164,Noctowl,Normal,Flying,Insomnia,Keen Eye,Tinted Lens,Neutral,Flying,,90,Lv. 20,Base,X,X,X,X,X,X,X,X,X,
+165,Ledyba,Bug,Flying,Swarm,Early Bird,Rattled,Neutral,Bug,,255,,Base,X,X,X,X,X,X,X,,X,
+166,Ledian,Bug,Flying,Swarm,Early Bird,Iron Fist,Neutral,Bug,,90,Lv. 18,Base,X,X,X,X,X,X,X,,X,
+167,Spinarak,Bug,Poison,Swarm,Insomnia,Sniper,Neutral,Bug,,255,,Base,X,X,X,X,X,X,X,,X,
+168,Ariados,Bug,Poison,Swarm,Insomnia,Sniper,Neutral,Bug,,90,Lv. 22,Base,X,X,X,X,X,X,X,,X,
+169,Crobat,Poison,Flying,Inner Focus,,Infiltrator,Neutral,Flying,,90,Friendship,Base,X,X,X,X,X,X,X,X,X,
+170,Chinchou,Water,Electric,Volt Absorb,Illuminate,Water Absorb,Neutral,Water 2,,190,,Base,X,X,X,X,X,X,X,X,X,
+171,Lanturn,Water,Electric,Volt Absorb,Illuminate,Water Absorb,Neutral,Water 2,,75,Lv. 27,Base,X,X,X,X,X,X,X,X,X,
+172,Pichu,Electric,,Static,,Lightningrod,Neutral,-,,190,,Base,X,X,X,X,X,X,X,X,X,X
+173,Cleffa,Fairy,,Cute Charm,Magic Guard,Friend Guard,F (75%),-,,150,,Base,X,X,X,X,X,X,X,X,X,
+174,Igglybuff,Normal,Fairy,Cute Charm,,Friend Guard,F (75%),-,,170,,Base,X,X,X,X,X,X,X,X,X,X
+175,Togepi,Fairy,,Hustle,Serene Grace,Super Luck,M (87.5%),-,,190,,Base,X,X,X,X,X,X,X,X,X,
+176,Togetic,Fairy,Flying,Hustle,Serene Grace,Super Luck,M (87.5%),Flying,Fairy,75,Friendship,Base,X,X,X,X,X,X,X,X,X,
+177,Natu,Psychic,Flying,Synchronize,Early Bird,Magic Bounce,Neutral,Flying,,190,,Base,X,X,X,X,X,X,X,X,X,
+178,Xatu,Psychic,Flying,Synchronize,Early Bird,Magic Bounce,Neutral,Flying,,75,Lv. 25,Base,X,X,X,X,X,X,X,X,X,
+179,Mareep,Electric,,Static,,Plus,Neutral,Monster,Field,235,,Base,X,X,X,X,X,X,X,,X,X
+180,Flaaffy,Electric,,Static,,Plus,Neutral,Monster,Field,120,Lv. 15,Base,X,X,X,X,X,X,X,,X,X
+181,Ampharos,Electric,,Static,,Plus,Neutral,Monster,Field,45,Lv. 30,Base,X,X,X,X,X,X,X,,X,X
+182,Bellossom,Grass,,Chlorophyll,,Healer,Neutral,Grass,,45,Sun Stone,Base,X,X,X,X,X,X,X,X,X,
+183,Marill,Water,Fairy,Thick Fat,Huge Power,Sap Sipper,Neutral,Water 1,Fairy,190,Friendship,Base,X,X,X,X,X,X,X,X,X,X
+184,Azumarill,Water,Fairy,Thick Fat,Huge Power,Sap Sipper,Neutral,Water 1,Fairy,75,Lv. 18,Base,X,X,X,X,X,X,X,X,X,X
+185,Sudowoodo,Rock,,Sturdy,Rock Head,Rattled,Neutral,Mineral,,65,Level w/ Mimic,Base,X,X,X,X,X,X,X,X,X,X
+186,Politoed,Water,,Water Absorb,Damp,Drizzle,Neutral,Water 1,,45,Trade h/ Kings Rock,Base,X,X,X,X,X,X,X,X,X,
+187,Hoppip,Grass,Flying,Chlorophyll,Leaf Guard,Infiltrator,Neutral,Fairy,Grass,255,,Base,X,X,X,X,X,X,X,,X,X
+188,Skiploom,Grass,Flying,Chlorophyll,Leaf Guard,Infiltrator,Neutral,Fairy,Grass,120,Lv. 18,Base,X,X,X,X,X,X,X,,X,X
+189,Jumpluff,Grass,Flying,Chlorophyll,Leaf Guard,Infiltrator,Neutral,Fairy,Grass,45,Lv. 27,Base,X,X,X,X,X,X,X,,X,X
+190,Aipom,Normal,,Run Away,Pickup,Skill Link,Neutral,Field,,45,,Base,X,X,X,X,X,X,X,,X,
+191,Sunkern,Grass,,Chlorophyll,Solar Power,Early Bird,Neutral,Grass,,235,,Base,X,X,X,X,X,X,X,,X,X
+192,Sunflora,Grass,,Chlorophyll,Solar Power,Early Bird,Neutral,Grass,,120,Sun Stone,Base,X,X,X,X,X,X,X,,X,X
+193,Yanma,Bug,Flying,Speed Boost,Compoundeyes,Frisk,Neutral,Bug,,75,,Base,X,X,X,X,X,X,X,,X,
+194,Wooper,Water,Ground,Damp,Water Absorb,Unaware,Neutral,Water 1,Field,255,,Base,X,X,X,X,X,X,X,X,X,X
+194,P. Wooper,Poison,Ground,Poison Point,Water Absorb,Unaware,Neutral,Water 1,Field,255,,Paldean,,,,,,,,,,X
+195,Quagsire,Water,Ground,Damp,Water Absorb,Unaware,Neutral,Water 1,Field,90,Lv. 20,Base,X,X,X,X,X,X,X,X,X,X
+196,Espeon,Psychic,,Synchronize,,Magic Bounce,M (87.5%),Field,,45,Morn/Day Friendship,Base,X,X,X,X,X,X,X,X,X,X
+197,Umbreon,Dark,,Synchronize,,Inner Focus,M (87.5%),Field,,45,Nite Friendship,Base,X,X,X,X,X,X,X,X,X,X
+198,Murkrow,Dark,Flying,Insomnia,Super Luck,Prankster,Neutral,Flying,,30,,Base,X,X,X,X,X,X,X,,X,X
+199,Slowking,Water,Psychic,Oblivious,Own Tempo,Regenerator,Neutral,Monster,Water 1,70,Trade h/ Kings Rock,Base,X,X,X,X,X,X,X,X,X,X
+199,G. Slowking,Poison,Psychic,Curious Medicine,Own Tempo,Regenerator,Neutral,Monster,Water 1,70,Galarian Wreath,Galarian,,,,,,,,X,,X
+200,Misdreavus,Ghost,,Levitate,,,Neutral,Amorphous,,45,,Base,X,X,X,X,X,X,X,,X,X
+200,Ralts,,,,,,,,,,,,,,,,,,,,,
+201,Unown,Psychic,,Levitate,,,None,-,,225,N,Base,X,X,X,X,X,X,X,,X,
+201,Kirlia,,,,,,,,,,,,,,,,,,,,,
+202,Wobbuffet,Psychic,,Shadow Tag,,Telepathy,Neutral,Amorphous,,45,Lv. 15,Base,X,X,X,X,X,X,X,X,X,
+202,Gardevoir,,,,,,,,,,,,,,,,,,,,,
+203,Girafarig,Normal,Psychic,Inner Focus,Early Bird,Sap Sipper,Neutral,Field,,60,N,Base,X,X,X,X,X,X,X,,X,X
+204,Pineco,Bug,,Sturdy,,Overcoat,Neutral,Bug,,190,,Base,X,X,X,X,X,X,X,,X,X
+205,Forretress,Bug,Steel,Sturdy,,Overcoat,Neutral,Bug,,75,Lv. 31,Base,X,X,X,X,X,X,X,,X,X
+206,Dunsparce,Normal,,Serene Grace,Run Away,Rattled,Neutral,Field,,190,N,Base,X,X,X,X,X,X,X,X,X,X
+207,Gligar,Ground,Flying,Hyper Cutter,Sand Veil,Immunity,Neutral,Bug,,60,,Base,X,X,X,X,X,X,X,,X,
+208,Steelix,Steel,Ground,Rock Head,Sturdy,Sheer Force,Neutral,Mineral,,25,Trade h/ Metal Coat,Base,X,X,X,X,X,X,X,X,X,
+209,Snubbull,Fairy,,Intimidate,Run Away,Rattled,F (75%),Field,Fairy,190,,Base,X,X,X,X,X,X,X,,X,
+210,Granbull,Fairy,,Intimidate,Quick Feet,Rattled,F (75%),Field,Fairy,75,Lv. 23,Base,X,X,X,X,X,X,X,,X,
+211,Qwilfish,Water,Poison,Poison Point,Swift Swim,Intimidate,Neutral,Water 2,,45,N,Base,X,X,X,X,X,X,X,X,X,X
+211,H. Qwilfish,Poison,Dark,Poison Point,Swift Swim,Intimidate,Neutral,Water 2,,45,,Hisuian,,,,,,,,,,X
+212,Scizor,Bug,Steel,Swarm,Technician,Light Metal,Neutral,Bug,,25,Trade h/ Metal Coat,Base,X,X,X,X,X,X,X,X,X,X
+213,Shuckle,Bug,Rock,Sturdy,Gluttony,Contrary,Neutral,Bug,,190,N,Base,X,X,X,X,X,X,X,X,X,
+214,Heracross,Bug,Fighting,Swarm,Guts,Moxie,Neutral,Bug,,45,N,Base,X,X,X,X,X,X,X,X,X,X
+215,Sneasel,Dark,Ice,Inner Focus,Keen Eye,Pickpocket,Neutral,Field,,60,,Base,X,X,X,X,X,X,X,X,X,X
+215,H. Sneasel,Poison,Fighting,Inner Focus,Keen Eye,Poison Touch,Neutral,Field,,60,,Hisuian,,,,,,,,,,X
+216,Teddiursa,Normal,,Pickup,Quick Feet,Honey Gather,Neutral,Field,,120,,Base,X,X,X,X,X,X,X,,X,X
+217,Ursaring,Normal,,Guts,Quick Feet,Unnerve,Neutral,Field,,60,Lv. 30,Base,X,X,X,X,X,X,X,,X,X
+218,Slugma,Fire,,Magma Armor,Flame Body,Weak Armor,Neutral,Amorphous,,190,,Base,X,X,X,X,X,X,X,,X,
+219,Magcargo,Fire,Rock,Magma Armor,Flame Body,Weak Armor,Neutral,Amorphous,,75,Lv. 38,Base,X,X,X,X,X,X,X,,X,
+220,Swinub,Ice,Ground,Oblivious,Snow Cloak,Thick Fat,Neutral,Field,,225,,Base,X,X,X,X,X,X,X,X,X,
+221,Piloswine,Ice,Ground,Oblivious,Snow Cloak,Thick Fat,Neutral,Field,,75,Lv. 33,Base,X,X,X,X,X,X,X,X,X,
+222,Corsola,Water,Rock,Hustle,Natural Cure,Regenerator,F (75%),Water 1,Water 3,60,N,Base,X,X,X,X,X,X,X,X,X,
+222,Galarian Corsola,Ghost,,Weak Armor,,Cursed Body,F (75%),Water 1,Water 3,60,N,Galarian,,,,,,,,X,,
+223,Remoraid,Water,,Hustle,Sniper,Moody,Neutral,Water 1,Water 2,190,,Base,X,X,X,X,X,X,X,X,X,
+224,Octillery,Water,,Suction Cups,Sniper,Moody,Neutral,Water 1,Water 2,75,Lv. 25,Base,X,X,X,X,X,X,X,X,X,
+225,Delibird,Ice,Flying,Vital Spirit,Hustle,Insomnia,Neutral,Water 1,Field,45,N,Base,X,X,X,X,X,X,X,X,X,X
+226,Mantine,Water,Flying,Swift Swim,Water Absorb,Water Veil,Neutral,Water 1,,25,Level t/ Remoraid,Base,X,X,X,X,X,X,X,X,X,
+227,Skarmory,Steel,Flying,Keen Eye,Sturdy,Weak Armor,Neutral,Flying,,25,N,Base,X,X,X,X,X,X,X,X,X,
+228,Houndour,Dark,Fire,Early Bird,Flash Fire,Unnerve,Neutral,Field,,120,,Base,X,X,X,X,X,X,X,,X,X
+229,Houndoom,Dark,Fire,Early Bird,Flash Fire,Unnerve,Neutral,Field,,45,Lv. 24,Base,X,X,X,X,X,X,X,,X,X
+230,Kingdra,Water,Dragon,Swift Swim,Sniper,Damp,Neutral,Water 1,Dragon,45,Trade h/ Dragon Scale,Base,X,X,X,X,X,X,X,X,X,
+231,Phanpy,Ground,,Pickup,,Sand Veil,Neutral,Field,,120,,Base,X,X,X,X,X,X,X,,X,X
+232,Donphan,Ground,,Sturdy,,Sand Veil,Neutral,Field,,60,Lv. 25,Base,X,X,X,X,X,X,X,,X,X
+233,Porygon2,Normal,,Trace,Download,Analytic,None,Mineral,,45,Trade w/ Up-Grade,Base,X,X,X,X,X,X,X,X,X,
+234,Stantler,Normal,,Intimidate,Frisk,Sap Sipper,Neutral,Field,,45,N,Base,X,X,X,X,X,X,X,,X,X
+235,Smeargle,Normal,,Own Tempo,Technician,Moody,Neutral,Field,,45,N,Base,X,X,X,X,X,X,X,,X,
+236,Tyrogue,Fighting,,Guts,Steadfast,Vital Spirit,M (100%),-,,75,,Base,X,X,X,X,X,X,X,X,X,
+237,Hitmontop,Fighting,,Intimidate,Technician,Steadfast,M (100%),Human-Like,,45,Lv. 20 (Atk=Def),Base,X,X,X,X,X,X,X,X,X,
+238,Smoochum,Ice,Psychic,Oblivious,Forewarn,Hydration,F (100%),-,,45,,Base,X,X,X,X,X,X,X,X,X,
+239,Elekid,Electric,,Static,,Vital Spirit,M (75%),-,,45,,Base,X,X,X,X,X,X,X,X,X,
+240,Magby,Fire,,Flame Body,,Vital Spirit,M (75%),-,,45,,Base,X,X,X,X,X,X,X,X,X,
+241,Miltank,Normal,,Thick Fat,Scrappy,Sap Sipper,F (100%),Field,,45,N,Base,X,X,X,X,X,X,X,X,X,
+242,Blissey,Normal,,Natural Cure,Serene Grace,Healer,F (100%),Fairy,,30,Friendship,Base,X,X,X,X,X,X,X,X,X,X
+243,Raikou,Electric,,Pressure,,Inner Focus,None,-,,3,N,Base,X,X,X,X,X,X,X,X,X,
+244,Entei,Fire,,Pressure,,Inner Focus,None,-,,3,N,Base,X,X,X,X,X,X,X,X,X,
+245,Suicune,Water,,Pressure,,Inner Focus,None,-,,3,N,Base,X,X,X,X,X,X,X,X,X,
+246,Larvitar,Rock,Ground,Guts,,Sand Veil,Neutral,Monster,,45,,Base,X,X,X,X,X,X,X,X,X,X
+247,Pupitar,Rock,Ground,Shed Skin,,,Neutral,Monster,,45,Lv. 30,Base,X,X,X,X,X,X,X,X,X,X
+248,Tyranitar,Rock,Dark,Sand Stream,,Unnerve,Neutral,Monster,,45,Lv. 55,Base,X,X,X,X,X,X,X,X,X,X
+249,Lugia,Psychic,Flying,Pressure,,Multiscale,None,-,,3,N,Base,X,X,X,X,X,X,X,X,X,
+250,Ho-oh,Fire,Flying,Pressure,,Regenerator,None,-,,3,N,Base,X,X,X,X,X,X,X,X,X,
+251,Celebi,Psychic,Grass,Natural Cure,,,None,-,,45,N,Base,X,X,X,X,X,X,X,X,X,
+252,Treecko,Grass,,Overgrow,,Unburden,M (87.5%),Monster,Dragon,45,,Base,,X,X,X,X,X,X,X,X,
+253,Grovyle,Grass,,Overgrow,,Unburden,M (87.5%),Monster,Dragon,45,Lv. 16,Base,,X,X,X,X,X,X,X,X,
+254,Sceptile,Grass,,Overgrow,,Unburden,M (87.5%),Monster,Dragon,45,Lv. 36,Base,,X,X,X,X,X,X,X,X,
+255,Torchic,Fire,,Blaze,,Speed Boost,M (87.5%),Field,,45,,Base,,X,X,X,X,X,X,X,X,
+256,Combusken,Fire,Fighting,Blaze,,Speed Boost,M (87.5%),Field,,45,Lv. 16,Base,,X,X,X,X,X,X,X,X,
+257,Blaziken,Fire,Fighting,Blaze,,Speed Boost,M (87.5%),Field,,45,Lv. 36,Base,,X,X,X,X,X,X,X,X,
+258,Mudkip,Water,,Torrent,,Damp,M (87.5%),Monster,Water 1,45,,Base,,X,X,X,X,X,X,X,X,
+259,Marshtomp,Water,Ground,Torrent,,Damp,M (87.5%),Monster,Water 1,45,Lv. 16,Base,,X,X,X,X,X,X,X,X,
+260,Swampert,Water,Ground,Torrent,,Damp,M (87.5%),Monster,Water 1,45,Lv. 36,Base,,X,X,X,X,X,X,X,X,
+261,Poochyena,Dark,,Run Away,Quick Feet,Rattled,Neutral,Field,,255,,Base,,X,X,X,X,X,X,,X,
+262,Mightyena,Dark,,Intimidate,Quick Feet,Moxie,Neutral,Field,,127,Lv. 18,Base,,X,X,X,X,X,X,,X,
+263,Zigzagoon,Normal,,Pickup,Gluttony,Quick Feet,Neutral,Field,,255,,Base,,X,X,X,X,X,X,X,X,
+263,G. Zigzagoon,Dark,Normal,Pickup,Gluttony,Quick Feet,Neutral,Field,,255,,Galarian,,,,,,,,X,,
+264,Linoone,Normal,,Pickup,Gluttony,Quick Feet,Neutral,Field,,90,Lv. 20,Base,,X,X,X,X,X,X,X,X,
+264,G. Linoone,Dark,Normal,Pickup,Gluttony,Quick Feet,Neutral,Field,,90,Level 20,Galarian,,,,,,,,X,,
+265,Wurmple,Bug,,Shield Dust,,Run Away,Neutral,Bug,,255,,Base,,X,X,X,X,X,X,,X,
+266,Silcoon,Bug,,Shed Skin,,,Neutral,Bug,,120,Lv. 7,Base,,X,X,X,X,X,X,,X,
+267,Beautifly,Bug,Flying,Swarm,,Rivalry,Neutral,Bug,,45,Lv. 10,Base,,X,X,X,X,X,X,,X,
+268,Cascoon,Bug,,Shed Skin,,,Neutral,Bug,,120,Lv. 7,Base,,X,X,X,X,X,X,,X,
+269,Dustox,Bug,Poison,Shield Dust,,Compound Eyes,Neutral,Bug,,45,Lv. 10,Base,,X,X,X,X,X,X,,X,
+270,Lotad,Water,Grass,Swift Swim,Rain Dish,Own Tempo,Neutral,Water 1,Grass,255,,Base,,X,X,X,X,X,X,X,X,
+271,Lombre,Water,Grass,Swift Swim,Rain Dish,Own Tempo,Neutral,Water 1,Grass,120,Lv. 14,Base,,X,X,X,X,X,X,X,X,
+272,Ludicolo,Water,Grass,Swift Swim,Rain Dish,Own Tempo,Neutral,Water 1,Grass,45,Water Stone,Base,,X,X,X,X,X,X,X,X,
+273,Seedot,Grass,,Chlorophyll,Early Bird,Pickpocket,Neutral,Field,Grass,255,,Base,,X,X,X,X,X,X,X,X,
+274,Nuzleaf,Grass,Dark,Chlorophyll,Early Bird,Pickpocket,Neutral,Field,Grass,120,Lv. 14,Base,,X,X,X,X,X,X,X,X,
+275,Shiftry,Grass,Dark,Chlorophyll,Early Bird,Pickpocket,Neutral,Field,Grass,45,Leaf Stone,Base,,X,X,X,X,X,X,X,X,
+276,Taillow,Normal,Flying,Guts,,Scrappy,Neutral,Flying,,200,,Base,,X,X,X,X,X,X,,X,
+277,Swellow,Normal,Flying,Guts,,Scrappy,Neutral,Flying,,45,Lv. 22,Base,,X,X,X,X,X,X,,X,
+278,Wingull,Water,Flying,Keen Eye,,Rain Dish,Neutral,Water 1,Flying,190,,Base,,X,X,X,X,X,X,X,X,X
+279,Pelipper,Water,Flying,Keen Eye,,Rain Dish,Neutral,Water 1,Flying,45,Lv. 25,Base,,X,X,X,X,X,X,X,X,X
+280,Ralts,Psychic,Fairy,Synchronize,Trace,Pixilate,Neutral,Amorphous,,235,,Base,,X,X,X,X,X,X,,,
+280,Ralts,Psychic,Fairy,Synchronize,Trace,Pixilate,Neutral,Human-Like,Amorphous,235,,Base,,,,,,,,X,X,X
+281,Kirlia,Psychic,Fairy,Synchronize,Trace,Pixilate,Neutral,Amorphous,,120,Lv. 20,Base,,X,X,X,X,X,X,,,
+281,Kirlia,Psychic,Fairy,Synchronize,Trace,Pixilate,Neutral,Human-Like,Amorphous,120,Lv. 20,Base,,,,,,,,X,X,X
+282,Gardevoir,Psychic,Fairy,Synchronize,Trace,Pixilate,Neutral,Amorphous,,45,Lv. 30,Base,,X,X,X,X,X,X,,,
+282,Gardevoir,Psychic,Fairy,Synchronize,Trace,Pixilate,Neutral,Human-Like,Amorphous,45,Lv. 30,Base,,,,,,,,X,X,X
+283,Surskit,Bug,Water,Swift Swim,,Rain Dish,Neutral,Water 1,Bug,200,,Base,,X,X,X,X,X,X,,X,X
+284,Masquerain,Bug,Flying,Intimidate,,Unnerve,Neutral,Water 1,Bug,75,Lv. 22,Base,,X,X,X,X,X,X,,X,X
+285,Shroomish,Grass,,Effect Spore,Poison Heal,Quick Feet,Neutral,Fairy,Grass,255,,Base,,X,X,X,X,X,X,,X,X
+286,Breloom,Grass,Fighting,Effect Spore,Poison Heal,Technician,Neutral,Fairy,Grass,90,Lv. 23,Base,,X,X,X,X,X,X,,X,X
+287,Slakoth,Normal,,Truant,,,Neutral,Field,,255,,Base,,X,X,X,X,X,X,,X,X
+288,Vigoroth,Normal,,Vital Spirit,,,Neutral,Field,,120,Lv. 18,Base,,X,X,X,X,X,X,,X,X
+289,Slaking,Normal,,Truant,,,Neutral,Field,,45,Lv. 36,Base,,X,X,X,X,X,X,,X,X
+290,Nincada,Bug,Ground,Compoundeyes,,Run Away,Neutral,Bug,,255,,Base,,X,X,X,X,X,X,X,X,
+291,Ninjask,Bug,Flying,Speed Boost,,Infiltrator,Neutral,Bug,,120,Lv. 20,Base,,X,X,X,X,X,X,X,X,
+292,Shedinja,Bug,Ghost,Wonder Guard,,,None,Mineral,,45,Lv. 20 t/ Empty Space,Base,,X,X,X,X,X,X,X,X,
+293,Whismur,Normal,,Soundproof,,Rattled,Neutral,Monster,Field,190,,Base,,X,X,X,X,X,X,X,X,
+294,Loudred,Normal,,Soundproof,,Scrappy,Neutral,Monster,Field,120,Lv. 20,Base,,X,X,X,X,X,X,X,X,
+295,Exploud,Normal,,Soundproof,,Scrappy,Neutral,Monster,Field,45,Lv. 40,Base,,X,X,X,X,X,X,X,X,
+296,Makuhita,Fighting,,Thick Fat,Guts,Sheer Force,M (75%),Human-Like,,180,,Base,,X,X,X,X,X,X,,X,X
+297,Hariyama,Fighting,,Thick Fat,Guts,Sheer Force,M (75%),Human-Like,,200,Lv. 24,Base,,X,X,X,X,X,X,,X,X
+298,Azurill,Normal,Fairy,Thick Fat,Huge Power,Sap Sipper,Neutral,-,,150,,Base,,X,X,X,X,X,X,X,X,X
+299,Nosepass,Rock,,Sturdy,Magnet Pull,Sand Force,Neutral,Mineral,,255,,Base,,X,X,X,X,X,X,,X,
+300,Skitty,Normal,,Cute Charm,Normalize,Wonder Skin,F (75%),Field,Fairy,255,,Base,,X,X,X,X,X,X,,X,
+301,Delcatty,Normal,,Cute Charm,Normalize,Wonder Skin,F (75%),Field,Fairy,60,Moon Stone,Base,,X,X,X,X,X,X,,X,
+302,Sableye,Dark,Ghost,Keen Eye,Stall,Prankster,Neutral,Human-Like,,45,N,Base,,X,X,X,X,X,X,X,X,X
+303,Mawile,Steel,Fairy,Hyper Cutter,Intimidate,Sheer Force,Neutral,Field,Fairy,45,N,Base,,X,X,X,X,X,X,X,X,
+304,Aron,Steel,Rock,Sturdy,Rock Head,Heavy Metal,Neutral,Monster,,180,,Base,,X,X,X,X,X,X,X,X,
+305,Lairon,Steel,Rock,Sturdy,Rock Head,Heavy Metal,Neutral,Monster,,90,Lv. 32,Base,,X,X,X,X,X,X,X,X,
+306,Aggron,Steel,Rock,Sturdy,Rock Head,Heavy Metal,Neutral,Monster,,45,Lv. 42,Base,,X,X,X,X,X,X,X,X,
+307,Meditite,Fighting,Psychic,Pure Power,,Telepathy,Neutral,Human-Like,,180,,Base,,X,X,X,X,X,X,,X,X
+308,Medicham,Fighting,Psychic,Pure Power,,Telepathy,Neutral,Human-Like,,90,Lv. 37,Base,,X,X,X,X,X,X,,X,X
+309,Electrike,Electric,,Static,Lightningrod,Minus,Neutral,Field,,120,,Base,,X,X,X,X,X,X,X,X,
+310,Manectric,Electric,,Static,Lightningrod,Minus,Neutral,Field,,45,Lv. 26,Base,,X,X,X,X,X,X,X,X,
+311,Plusle,Electric,,Plus,,Lightning Rod,Neutral,Fairy,,200,N,Base,,X,X,X,X,X,X,,X,
+312,Minun,Electric,,Minus,,Volt Absorb,Neutral,Fairy,,200,N,Base,,X,X,X,X,X,X,,X,
+313,Volbeat,Bug,,Illuminate,Swarm,Prankster,M (100%),Bug,Human-Like,150,N,Base,,X,X,X,X,X,X,,X,
+314,Illumise,Bug,,Oblivious,Tinted Lens,Prankster,F (100%),Bug,Human-Like,150,N,Base,,X,X,X,X,X,X,,X,
+315,Roselia,Grass,Poison,Natural Cure,Poison Point,Leaf Guard,Neutral,Fairy,Grass,150,Morn/Day Friendship,Base,,X,X,X,X,X,X,X,X,
+316,Gulpin,Poison,,Liquid Ooze,Sticky Hold,Gluttony,Neutral,Amorphous,,225,,Base,,X,X,X,X,X,X,,X,X
+317,Swalot,Poison,,Liquid Ooze,Sticky Hold,Gluttony,Neutral,Amorphous,,75,Lv. 26,Base,,X,X,X,X,X,X,,X,X
+318,Carvanha,Water,Dark,Rough Skin,,Speed Boost,Neutral,Water 2,,225,,Base,,X,X,X,X,X,X,X,X,
+319,Sharpedo,Water,Dark,Rough Skin,,Speed Boost,Neutral,Water 2,,60,Lv. 30,Base,,X,X,X,X,X,X,X,X,
+320,Wailmer,Water,,Water Veil,Oblivious,Pressure,Neutral,Field,Water 2,125,,Base,,X,X,X,X,X,X,X,X,
+321,Wailord,Water,,Water Veil,Oblivious,Pressure,Neutral,Field,Water 2,60,Lv. 40,Base,,X,X,X,X,X,X,X,X,
+322,Numel,Fire,Ground,Oblivious,Simple,Own Tempo,Neutral,Field,,255,,Base,,X,X,X,X,X,X,,X,X
+323,Camerupt,Fire,Ground,Magma Armor,Solid Rock,Anger Point,Neutral,Field,,150,Lv. 33,Base,,X,X,X,X,X,X,,X,X
+324,Torkoal,Fire,,White Smoke,Drought,Shell Armor,Neutral,Field,,90,N,Base,,X,X,X,X,X,X,X,X,X
+325,Spoink,Psychic,,Thick Fat,Own Tempo,Gluttony,Neutral,Field,,255,,Base,,X,X,X,X,X,X,,X,X
+326,Grumpig,Psychic,,Thick Fat,Own Tempo,Gluttony,Neutral,Field,,60,Lv. 32,Base,,X,X,X,X,X,X,,X,X
+327,Spinda,Normal,,Own Tempo,Tangled Feet,Contrary,Neutral,Field,Human-Like,255,N,Base,,X,X,X,X,X,X,,X,
+328,Trapinch,Ground,,Hyper Cutter,Arena Trap,Sheer Force,Neutral,Bug,,255,,Base,,X,X,X,X,X,X,,,
+328,Trapinch,Ground,,Hyper Cutter,Arena Trap,Sheer Force,Neutral,Bug,Dragon,255,,Base,,,,,,,,X,X,
+329,Vibrava,Ground,Dragon,Levitate,,,Neutral,Bug,,120,Lv. 35,Base,,X,X,X,X,X,X,,,
+329,Vibrava,Ground,Dragon,Levitate,,,Neutral,Bug,Dragon,120,Lv. 35,Base,,,,,,,,X,X,
+330,Flygon,Ground,Dragon,Levitate,,,Neutral,Bug,,45,Lv. 45,Base,,X,X,X,X,X,X,,,
+330,Flygon,Ground,Dragon,Levitate,,,Neutral,Bug,Dragon,45,Lv. 45,Base,,,,,,,,X,X,
+331,Cacnea,Grass,,Sand Veil,,Water Absorb,Neutral,Grass,Human-Like,190,,Base,,X,X,X,X,X,X,,X,X
+332,Cacturne,Grass,Dark,Sand Veil,,Water Absorb,Neutral,Grass,Human-Like,60,Lv. 32,Base,,X,X,X,X,X,X,,X,X
+333,Swablu,Normal,Flying,Natural Cure,,Cloud Nine,Neutral,Flying,Dragon,255,,Base,,X,X,X,X,X,X,X,X,X
+334,Altaria,Dragon,Flying,Natural Cure,,Cloud Nine,Neutral,Flying,Dragon,45,Lv. 35,Base,,X,X,X,X,X,X,X,X,X
+335,Zangoose,Normal,,Immunity,,Toxic Boost,Neutral,Field,,90,N,Base,,X,X,X,X,X,X,,X,X
+336,Seviper,Poison,,Shed Skin,,Infiltrator,Neutral,Field,Dragon,90,N,Base,,X,X,X,X,X,X,,X,X
+337,Lunatone,Rock,Psychic,Levitate,,,None,Mineral,,45,N,Base,,X,X,X,X,X,X,X,X,
+338,Solrock,Rock,Psychic,Levitate,,,None,Mineral,,45,N,Base,,X,X,X,X,X,X,X,X,
+339,Barboach,Water,Ground,Oblivious,Anticipate,Hydration,Neutral,Water 2,,190,,Base,,X,X,X,X,X,X,X,X,X
+340,Whiscash,Water,Ground,Oblivious,Anticipate,Hydration,Neutral,Water 2,,75,Lv. 30,Base,,X,X,X,X,X,X,X,X,X
+341,Corphish,Water,,Hyper Cutter,Shell Armor,Adaptability,Neutral,Water 1,Water 3,205,,Base,,X,X,X,X,X,X,X,X,
+342,Crawdaunt,Water,Dark,Hyper Cutter,Shell Armor,Adaptability,Neutral,Water 1,Water 3,155,Lv. 30,Base,,X,X,X,X,X,X,X,X,
+343,Baltoy,Ground,Psychic,Levitate,,,None,Mineral,,255,,Base,,X,X,X,X,X,X,X,X,
+344,Claydol,Ground,Psychic,Levitate,,,None,Mineral,,90,Lv. 36,Base,,X,X,X,X,X,X,X,X,
+345,Lileep,Rock,Grass,Suction Cups,,Storm Drain,M (87.5%),Water 3,,45,,Base,,X,X,X,X,X,X,X,X,
+346,Cradily,Rock,Grass,Suction Cups,,Storm Drain,M (87.5%),Water 3,,45,Lv. 40,Base,,X,X,X,X,X,X,X,X,
+347,Anorith,Rock,Bug,Battle Armor,,Swift Swim,M (87.5%),Water 3,,45,,Base,,X,X,X,X,X,X,X,X,
+348,Armaldo,Rock,Bug,Battle Armor,,Swift Swim,M (87.5%),Water 3,,45,Lv. 40,Base,,X,X,X,X,X,X,X,X,
+349,Feebas,Water,,Swift Swim,,Adaptability,Neutral,Water 1,Dragon,255,,Base,,X,X,X,X,X,X,X,X,
+350,Milotic,Water,,Marvel Scale,,Cute Charm,Neutral,Water 1,Dragon,60,Level w/ Max Beauty,Base,,X,X,X,X,X,X,X,X,
+351,Castform,Normal,,Forecast,,,Neutral,Fairy,Amorphous,45,N,Base,,X,X,X,X,X,X,,X,
+352,Kecleon,Normal,,Color Change,,Protean,Neutral,Field,,200,N,Base,,X,X,X,X,X,X,,X,
+353,Shuppet,Ghost,,Insomnia,Frisk,Cursed Body,Neutral,Amorphous,,225,,Base,,X,X,X,X,X,X,,X,X
+354,Banette,Ghost,,Insomnia,Frisk,Cursed Body,Neutral,Amorphous,,45,Lv. 37,Base,,X,X,X,X,X,X,,X,X
+355,Duskull,Ghost,,Levitate,,Frisk,Neutral,Amorphous,,190,,Base,,X,X,X,X,X,X,X,X,
+356,Dusclops,Ghost,,Pressure,,Frisk,Neutral,Amorphous,,90,Lv. 37,Base,,X,X,X,X,X,X,X,X,
+357,Tropius,Grass,Flying,Chlorophyll,Solar Power,Harvest,Neutral,Monster,Grass,200,N,Base,,X,X,X,X,X,X,,X,X
+358,Chimecho,Psychic,,Levitate,,,Neutral,Amorphous,,45,Nite Friendship,Base,,X,X,X,X,X,X,,X,
+359,Absol,Dark,,Pressure,Super Luck,Justified,Neutral,Field,,30,N,Base,,X,X,X,X,X,X,X,X,
+360,Wynaut,Psychic,,Shadow Tag,,Telepathy,Neutral,-,,125,,Base,,X,X,X,X,X,X,X,X,
+361,Snorunt,Ice,,Inner Focus,Ice Body,Moody,Neutral,Fairy,Mineral,190,,Base,,X,X,X,X,X,X,X,X,X
+362,Glalie,Ice,,Inner Focus,Ice Body,Moody,Neutral,Fairy,Mineral,75,Lv. 42,Base,,X,X,X,X,X,X,X,X,X
+363,Spheal,Ice,Water,Thick Fat,Ice Body,Oblivious,Neutral,Water 1,Field,255,,Base,,X,X,X,X,X,X,X,X,
+364,Sealeo,Ice,Water,Thick Fat,Ice Body,Oblivious,Neutral,Water 1,Field,120,Lv. 32,Base,,X,X,X,X,X,X,X,X,
+365,Walrein,Ice,Water,Thick Fat,Ice Body,Oblivious,Neutral,Water 1,Field,45,Lv. 44,Base,,X,X,X,X,X,X,X,X,
+366,Clamperl,Water,,Shell Armor,,Rattled,Neutral,Water 1,,255,,Base,,X,X,X,X,X,X,,X,
+367,Huntail,Water,,Swift Swim,,Water Veil,Neutral,Water 1,,60,Trade w/ Deepseatooth,Base,,X,X,X,X,X,X,,X,
+368,Gorebyss,Water,,Swift Swim,,Hydration,Neutral,Water 1,,60,Trade w/ Deepseascale,Base,,X,X,X,X,X,X,,X,
+369,Relicanth,Water,Rock,Swift Swim,Rock Head,Sturdy,M (87.5%),Water 1,Water 2,25,N,Base,,X,X,X,X,X,X,X,X,
+370,Luvdisc,Water,,Swift Swim,,Hydration,F (75%),Water 2,,225,N,Base,,X,X,X,X,X,X,,X,X
+371,Bagon,Dragon,,Rock Head,,Sheer Force,Neutral,Dragon,,45,,Base,,X,X,X,X,X,X,X,X,X
+372,Shelgon,Dragon,,Rock Head,,Overcoat,Neutral,Dragon,,45,Lv. 30,Base,,X,X,X,X,X,X,X,X,X
+373,Salamence,Dragon,Flying,Intimidate,,Moxie,Neutral,Dragon,,45,Lv. 50,Base,,X,X,X,X,X,X,X,X,X
+374,Beldum,Steel,Psychic,Clear Body,,Light Metal,None,Mineral,,3,,Base,,X,X,X,X,X,X,X,X,
+375,Metang,Steel,Psychic,Clear Body,,Light Metal,None,Mineral,,3,Lv. 20,Base,,X,X,X,X,X,X,X,X,
+376,Metagross,Steel,Psychic,Clear Body,,Light Metal,None,Mineral,,3,Lv. 45,Base,,X,X,X,X,X,X,X,X,
+377,Regirock,Rock,,Clear Body,,Sturdy,None,-,,3,N,Base,,X,X,X,X,X,X,X,X,
+378,Regice,Ice,,Clear Body,,Ice Body,None,-,,3,N,Base,,X,X,X,X,X,X,X,X,
+379,Registeel,Steel,,Clear Body,,Light Metal,None,-,,3,N,Base,,X,X,X,X,X,X,X,X,
+380,Latias,Dragon,Psychic,Levitate,,,F (100%),-,,3,N,Base,,X,X,X,X,X,X,X,X,
+381,Latios,Dragon,Psychic,Levitate,,,M (100%),-,,3,N,Base,,X,X,X,X,X,X,X,X,
+382,Kyogre,Water,,Drizzle,,,None,-,,3,N,Base,,X,X,X,X,X,X,X,X,X
+383,Groudon,Ground,,Drought,,,None,-,,3,N,Base,,X,X,X,X,X,X,X,X,X
+384,Rayquaza,Dragon,Flying,Air Lock,,,None,-,,45,N,Base,,X,X,X,X,X,X,X,X,X
+385,Jirachi,Steel,Psychic,Serene Grace,,,None,-,,3,N,Base,,X,X,X,X,X,X,X,X,
+386,Deoxys (N),Psychic,,Pressure,,,None,-,,3,N,Base,,X,X,X,X,X,X,X,X,
+387,Turtwig,Grass,,Overgrow,,Shell Armor,M (87.5%),Monster,Grass,45,,Base,,,X,X,X,X,X,,X,
+388,Grotle,Grass,,Overgrow,,Shell Armor,M (87.5%),Monster,Grass,45,Lv. 18,Base,,,X,X,X,X,X,,X,
+389,Torterra,Grass,Ground,Overgrow,,Shell Armor,M (87.5%),Monster,Grass,45,Lv. 32,Base,,,X,X,X,X,X,,X,
+390,Chimchar,Fire,,Blaze,,Iron Fist,M (87.5%),Field,Human-Like,45,,Base,,,X,X,X,X,X,,X,
+391,Monferno,Fire,Fighting,Blaze,,Iron Fist,M (87.5%),Field,Human-Like,45,Lv. 14,Base,,,X,X,X,X,X,,X,
+392,Infernape,Fire,Fighting,Blaze,,Iron Fist,M (87.5%),Field,Human-Like,45,Lv. 36,Base,,,X,X,X,X,X,,X,
+393,Piplup,Water,,Torrent,,Defiant,M (87.5%),Water 1,Field,45,,Base,,,X,X,X,X,X,,X,
+394,Prinplup,Water,,Torrent,,Defiant,M (87.5%),Water 1,Field,45,Lv. 16,Base,,,X,X,X,X,X,,X,
+395,Empoleon,Water,Steel,Torrent,,Defiant,M (87.5%),Water 1,Field,45,Lv. 36,Base,,,X,X,X,X,X,,X,
+396,Starly,Normal,Flying,Keen Eye,,Reckless,Neutral,Flying,,255,,Base,,,X,X,X,X,X,,X,X
+397,Staravia,Normal,Flying,Intimidate,,Reckless,Neutral,Flying,,120,Lv. 14,Base,,,X,X,X,X,X,,X,X
+398,Staraptor,Normal,Flying,Intimidate,,Reckless,Neutral,Flying,,45,Lv. 34,Base,,,X,X,X,X,X,,X,X
+399,Bidoof,Normal,,Simple,Unaware,Moody,Neutral,Water 1,Field,255,,Base,,,X,X,X,X,X,,X,
+400,Bibarel,Normal,Water,Simple,Unaware,Moody,Neutral,Water 1,Field,127,Lv. 15,Base,,,X,X,X,X,X,,X,
+401,Kricketot,Bug,,Shed Skin,,Run Away,Neutral,Bug,,255,,Base,,,X,X,X,X,X,,X,X
+402,Kricketune,Bug,,Swarm,,Technician,Neutral,Bug,,45,Lv. 10,Base,,,X,X,X,X,X,,X,X
+403,Shinx,Electric,,Rivalry,Intimidate,Guts,Neutral,Field,,235,,Base,,,X,X,X,X,X,X,X,X
+404,Luxio,Electric,,Rivalry,Intimidate,Guts,Neutral,Field,,120,Lv. 15,Base,,,X,X,X,X,X,X,X,X
+405,Luxray,Electric,,Rivalry,Intimidate,Guts,Neutral,Field,,45,Lv. 30,Base,,,X,X,X,X,X,X,X,X
+406,Budew,Grass,Poison,Natural Cure,Poison Point,Leaf Guard,Neutral,-,,255,,Base,,,X,X,X,X,X,X,X,
+407,Roserade,Grass,Poison,Natural Cure,Poison Point,Technician,Neutral,Fairy,Grass,75,Shiny Stone,Base,,,X,X,X,X,X,X,X,
+408,Cranidos,Rock,,Mold Breaker,,Sheer Force,M (87.5%),Monster,,45,,Base,,,X,X,X,X,X,,X,
+409,Rampardos,Rock,,Mold Breaker,,Sheer Force,M (87.5%),Monster,,45,Lv. 30,Base,,,X,X,X,X,X,,X,
+410,Shieldon,Rock,Steel,Sturdy,,Soundproof,M (87.5%),Monster,,45,,Base,,,X,X,X,X,X,,X,
+411,Bastiodon,Rock,Steel,Sturdy,,Soundproof,M (87.5%),Monster,,45,Lv. 30,Base,,,X,X,X,X,X,,X,
+412,Burmy,Bug,,Shed Skin,,Overcoat,Neutral,Bug,,120,,Base,,,X,X,X,X,X,,X,
+413,Wormadam (P),Bug,Grass,Anticipate,,Overcoat,F (100%),Bug,,45,Lv. 20F Plant Cloak,Base,,,X,X,X,X,X,,X,
+414,Mothim,Bug,Flying,Swarm,,Tinted Lens,M (100%),Bug,,45,Lv. 20M,Base,,,X,X,X,X,X,,X,
+415,Combee,Bug,Flying,Honey Gather,,Hustle,M (87.5%),Bug,,120,,Base,,,X,X,X,X,X,X,X,X
+416,Vespiquen,Bug,Flying,Pressure,,Unnerve,F (100%),Bug,,45,Lv. 21F,Base,,,X,X,X,X,X,X,X,X
+417,Pachirisu,Electric,,Run Away,Pickup,Volt Absorb,Neutral,Field,Fairy,200,N,Base,,,X,X,X,X,X,,X,X
+418,Buizel,Water,,Swift Swim,,Water Veil,Neutral,Water 1,Field,190,,Base,,,X,X,X,X,X,,X,X
+419,Floatzel,Water,,Swift Swim,,Water Veil,Neutral,Water 1,Field,75,Lv. 26,Base,,,X,X,X,X,X,,X,X
+420,Cherubi,Grass,,Chlorophyll,,,Neutral,Fairy,Grass,190,,Base,,,X,X,X,X,X,X,X,
+421,Cherrim,Grass,,Flower Gift,,,Neutral,Fairy,Grass,75,Lv. 25,Base,,,X,X,X,X,X,X,X,
+422,Shellos,Water,,Sticky Hold,Storm Drain,Sand Force,Neutral,Water 1,Amorphous,190,,Base,,,X,X,X,X,X,X,X,
+423,Gastrodon,Water,Ground,Sticky Hold,Storm Drain,Sand Force,Neutral,Water 1,Amorphous,75,Lv. 30,Base,,,X,X,X,X,X,X,X,
+424,Ambipom,Normal,,Technician,Pickup,Skill Link,Neutral,Field,,45,Level w/ Double Hit,Base,,,X,X,X,X,X,,X,
+425,Drifloon,Ghost,Flying,Aftermath,Unburden,Flare Boost,Neutral,Amorphous,,125,,Base,,,X,X,X,X,X,X,X,X
+426,Drifblim,Ghost,Flying,Aftermath,Unburden,Flare Boost,Neutral,Amorphous,,60,Lv. 28,Base,,,X,X,X,X,X,X,X,X
+427,Buneary,Normal,,Run Away,Klutz,Limber,Neutral,Field,Human-Like,190,,Base,,,X,X,X,X,X,X,X,
+428,Lopunny,Normal,,Cute Charm,Klutz,Limber,Neutral,Field,Human-Like,60,Friendship,Base,,,X,X,X,X,X,X,X,
+429,Mismagius,Ghost,,Levitate,,,Neutral,Amorphous,,45,Dusk Stone,Base,,,X,X,X,X,X,,X,X
+430,Honchkrow,Dark,Flying,Insomnia,Super Luck,Moxie,Neutral,Flying,,30,Dusk Stone,Base,,,X,X,X,X,X,,X,X
+431,Glameow,Normal,,Limber,Own Tempo,Keen Eye,F (75%),Field,,190,,Base,,,X,X,X,X,X,,X,
+432,Purugly,Normal,,Thick Fat,Own Tempo,Defiant,F (75%),Field,,75,Lv. 38,Base,,,X,X,X,X,X,,X,
+433,Chingling,Psychic,,Levitate,,,Neutral,-,,120,,Base,,,X,X,X,X,X,,X,
+434,Stunky,Poison,Dark,Stench,Aftermath,Keen Eye,Neutral,Field,,225,,Base,,,X,X,X,X,X,X,X,X
+435,Skuntank,Poison,Dark,Stench,Aftermath,Keen Eye,Neutral,Field,,60,Lv. 34,Base,,,X,X,X,X,X,X,X,X
+436,Bronzor,Steel,Psychic,Levitate,Heatproof,Heavy Metal,None,Mineral,,255,,Base,,,X,X,X,X,X,X,X,X
+437,Bronzong,Steel,Psychic,Levitate,Heatproof,Heavy Metal,None,Mineral,,90,Lv. 33,Base,,,X,X,X,X,X,X,X,X
+438,Bonsly,Rock,,Sturdy,Rock Head,Rattled,Neutral,-,,255,,Base,,,X,X,X,X,X,X,X,X
+439,Mime Jr.,Psychic,Fairy,Soundproof,Filter,Technician,Neutral,-,,145,,Base,,,X,X,X,X,X,X,X,
+440,Happiny,Normal,,Natural Cure,Serene Grace,Friend Guard,F (100%),-,,130,,Base,,,X,X,X,X,X,X,X,X
+441,Chatot,Normal,Flying,Keen Eye,Tangled Feet,Big Pecks,Neutral,Flying,,30,N,Base,,,X,X,X,X,X,,X,
+442,Spiritomb,Ghost,Dark,Pressure,,Infiltrator,Neutral,Amorphous,,100,N,Base,,,X,X,X,X,X,X,X,X
+443,Gible,Dragon,Ground,Sand Veil,,Rough Skin,Neutral,Monster,Dragon,45,,Base,,,X,X,X,X,X,X,X,X
+444,Gabite,Dragon,Ground,Sand Veil,,Rough Skin,Neutral,Monster,Dragon,45,Lv. 24,Base,,,X,X,X,X,X,X,X,X
+445,Garchomp,Dragon,Ground,Sand Veil,,Rough Skin,Neutral,Monster,Dragon,45,Lv. 48,Base,,,X,X,X,X,X,X,X,X
+446,Munchlax,Normal,,Pickup,Thick Fat,Gluttony,M (87.5%),-,,50,,Base,,,X,X,X,X,X,X,X,
+447,Riolu,Fighting,,Steadfast,Inner Focus,Prankster,M (87.5%),-,,75,,Base,,,X,X,X,X,X,X,X,X
+448,Lucario,Fighting,Steel,Steadfast,Inner Focus,Justified,M (87.5%),Field,Human-Like,45,Morn/Day Friendship,Base,,,X,X,X,X,X,X,X,X
+449,Hippopotas,Ground,,Sand Stream,,Sand Force,Neutral,Field,,140,,Base,,,X,X,X,X,X,X,X,X
+450,Hippowdon,Ground,,Sand Stream,,Sand Force,Neutral,Field,,60,Lv. 34,Base,,,X,X,X,X,X,X,X,X
+451,Skorupi,Poison,Bug,Battle Armor,Sniper,Keen Eye,Neutral,Bug,Water 3,120,,Base,,,X,X,X,X,X,X,X,
+452,Drapion,Poison,Dark,Battle Armor,Sniper,Keen Eye,Neutral,Bug,Water 3,45,Lv. 40,Base,,,X,X,X,X,X,X,X,
+453,Croagunk,Poison,Fighting,Anticipate,Dry Skin,Poison Touch,Neutral,Human-Like,,140,,Base,,,X,X,X,X,X,X,X,X
+454,Toxicroak,Poison,Fighting,Anticipate,Dry Skin,Poison Touch,Neutral,Human-Like,,75,Lv. 37,Base,,,X,X,X,X,X,X,X,X
+455,Carnivine,Grass,,Levitate,,,Neutral,Grass,,200,N,Base,,,X,X,X,X,X,,X,
+456,Finneon,Water,,Swift Swim,Storm Drain,Water Veil,Neutral,Water 2,,190,,Base,,,X,X,X,X,X,,X,X
+457,Lumineon,Water,,Swift Swim,Storm Drain,Water Veil,Neutral,Water 2,,75,Lv. 31,Base,,,X,X,X,X,X,,X,X
+458,Mantyke,Water,Flying,Swift Swim,Water Absorb,,Neutral,-,,25,,Base,,,X,X,X,X,X,X,X,
+459,Snover,Ice,Grass,Snow Warning,,Soundproof,Neutral,Monster,Grass,120,,Base,,,X,X,X,X,X,X,X,X
+460,Abomasnow,Ice,Grass,Snow Warning,,Soundproof,Neutral,Monster,Grass,60,Lv. 40,Base,,,X,X,X,X,X,X,X,X
+461,Weavile,Dark,Ice,Pressure,,Pickpocket,Neutral,Field,,45,Nite Level h/ Razor Claw,Base,,,X,X,X,X,X,X,X,X
+462,Magnezone,Electric,Steel,Magnet Pull,Sturdy,Analytic,None,Mineral,,30,Level a/ Mt. Coronet,Base,,,X,X,X,X,X,X,X,X
+463,Lickilicky,Normal,,Own Tempo,Oblivious,Cloud Nine,Neutral,Monster,,30,Level w/ Rollout,Base,,,X,X,X,X,X,X,X,
+464,Rhyperior,Ground,Rock,Lightningrod,Solid Rock,Regenerator,Neutral,Monster,Field,30,Trade h/ Protector,Base,,,X,X,X,X,X,X,X,
+465,Tangrowth,Grass,,Chlorophyll,Leaf Guard,Regenerator,Neutral,Grass,,30,Level w/ Ancientpower,Base,,,X,X,X,X,X,X,X,
+466,Electivire,Electric,,Motor Drive,,Vital Spirit,M (75%),Human-Like,,30,Trade h/ Electrizer,Base,,,X,X,X,X,X,X,X,
+467,Magmortar,Fire,,Flame Body,,Vital Spirit,M (75%),Human-Like,,30,Trade h/ Magmarizer,Base,,,X,X,X,X,X,X,X,
+468,Togekiss,Fairy,Flying,Hustle,Serene Grace,Super Luck,M (87.5%),Flying,Fairy,30,Shiny Stone,Base,,,X,X,X,X,X,X,X,
+469,Yanmega,Bug,Flying,Speed Boost,Tinted Lens,Frisk,Neutral,Bug,,30,Level w/ Ancientpower,Base,,,X,X,X,X,X,,X,
+470,Leafeon,Grass,,Leaf Guard,,Chlorophyll,M (87.5%),Field,,45,Level a/ Moss Rock,Base,,,X,X,X,X,X,X,X,X
+471,Glaceon,Ice,,Snow Cloak,,Ice Body,M (87.5%),Field,,45,Level a/ Ice Rock,Base,,,X,X,X,X,X,X,X,X
+472,Gliscor,Ground,Flying,Hyper Cutter,Sand Veil,Poison Heal,Neutral,Bug,,30,Nite Level h/ Razor Fang,Base,,,X,X,X,X,X,,X,
+473,Mamoswine,Ice,Ground,Oblivious,Snow Cloak,Thick Fat,Neutral,Field,,50,Level w/ Ancientpower,Base,,,X,X,X,X,X,X,X,
+474,Porygon-Z,Normal,,Adaptability,Download,Analytic,None,Mineral,,30,Trade w/ Dubious Disc,Base,,,X,X,X,X,X,X,X,
+475,Gallade,Psychic,Fighting,Steadfast,,Justified,M (100%),Amorphous,,45,Dawn StoneM,Base,,,X,X,X,X,X,,,
+475,Gallade,,,,,,,,,,,,,,,,,,,,,
+475,Gallade,Psychic,Fighting,Steadfast,,Justified,M (100%),Human-Like,Amorphous,45,Dawn StoneM,Base,,,,,,,,X,X,X
+476,Probopass,Rock,Steel,Sturdy,Magnet Pull,Sand Force,Neutral,Mineral,,60,Level a/ Mt. Coronet,Base,,,X,X,X,X,X,,X,
+477,Dusknoir,Ghost,,Pressure,,Frisk,Neutral,Amorphous,,45,Trade w/ Reaper Cloth,Base,,,X,X,X,X,X,X,X,
+478,Froslass,Ice,Ghost,Snow Cloak,,Cursed Body,F (100%),Fairy,Mineral,75,Dawn StoneF,Base,,,X,X,X,X,X,X,X,X
+479,Rotom,Electric,Ghost,Levitate,,,None,Amorphous,,45,N,Base,,,X,X,X,X,X,X,X,X
+480,Uxie,Psychic,,Levitate,,,None,-,,3,N,Base,,,X,X,X,X,X,X,X,X
+481,Mesprit,Psychic,,Levitate,,,None,-,,3,N,Base,,,X,X,X,X,X,X,X,X
+482,Azelf,Psychic,,Levitate,,,None,-,,3,N,Base,,,X,X,X,X,X,X,X,X
+483,Dialga,Steel,Dragon,Pressure,,Telepathy,None,-,,3,N,Base,,,X,X,X,X,X,X,X,X
+484,Palkia,Water,Dragon,Pressure,,Telepathy,None,-,,3,N,Base,,,X,X,X,X,X,X,X,X
+485,Heatran,Fire,Steel,Flash Fire,,Flame Body,Neutral,-,,3,N,Base,,,X,X,X,X,X,X,X,X
+486,Regigigas,Normal,,Slow Start,,,None,-,,3,N,Base,,,X,X,X,X,X,X,X,
+487,Giratina,Ghost,Dragon,Pressure,,Telepathy,None,-,,3,N,Base,,,X,X,X,X,X,X,X,X
+488,Cresselia,Psychic,,Levitate,,,F (100%),-,,3,N,Base,,,X,X,X,X,X,X,X,X
+489,Phione,Water,,Hydration,,,None,-,,30,N,Base,,,X,X,X,X,X,,X,
+490,Manaphy,Water,,Hydration,,,None,-,,3,N,Base,,,X,X,X,X,X,,X,
+491,Darkrai,Dark,,Bad Dreams,,,None,-,,3,N,Base,,,X,X,X,X,X,,X,
+492,Shaymin,Grass,,Natural Cure,,,None,-,,45,N,Base,,,X,X,X,X,X,,X,
+493,Arceus,Normal,,Multitype,,,None,-,,3,N,Base,,,X,X,X,X,X,,X,
+494,Victini,Psychic,Fire,Victory Star,,,None,-,,3,N,Base,,,,X,X,X,X,X,,
+495,Snivy,Grass,,Overgrow,,Contrary,M (87.5%),Field,Grass,45,,Base,,,,X,X,X,X,,,
+496,Servine,Grass,,Overgrow,,Contrary,M (87.5%),Field,Grass,45,Lv. 17,Base,,,,X,X,X,X,,,
+497,Serperior,Grass,,Overgrow,,Contrary,M (87.5%),Field,Grass,45,Lv. 36,Base,,,,X,X,X,X,,,
+498,Tepig,Fire,,Blaze,,Thick Fat,M (87.5%),Field,,45,,Base,,,,X,X,X,X,,,
+499,Pignite,Fire,Fighting,Blaze,,Thick Fat,M (87.5%),Field,,45,Lv. 17,Base,,,,X,X,X,X,,,
+500,Emboar,Fire,Fighting,Blaze,,Reckless,M (87.5%),Field,,45,Lv. 36,Base,,,,X,X,X,X,,,
+501,Oshawott,Water,,Torrent,,Shell Armor,M (87.5%),Field,,45,,Base,,,,X,X,X,X,,,X
+502,Dewott,Water,,Torrent,,Shell Armor,M (87.5%),Field,,45,Lv. 17,Base,,,,X,X,X,X,,,X
+503,Samurott,Water,,Torrent,,Shell Armor,M (87.5%),Field,,45,Lv. 36,Base,,,,X,X,X,X,,,X
+503,H. Samurott,Water,Dark,Torrent,,Shell Armor,M (87.5%),Field,,45,Level 36 (Hisui Only),Hisuian,,,,,,,,,,X
+504,Patrat,Normal,,Run Away,Keen Eye,Analytic,Neutral,Field,,255,,Base,,,,X,X,X,X,,,
+505,Watchog,Normal,,Illuminate,Keen Eye,Analytic,Neutral,Field,,255,Lv. 20,Base,,,,X,X,X,X,,,
+506,Lillipup,Normal,,Vital Spirit,Pickup,Run Away,Neutral,Field,,255,,Base,,,,X,X,X,X,X,,
+507,Herdier,Normal,,Intimidate,Sand Rush,Scrappy,Neutral,Field,,120,Lv. 16,Base,,,,X,X,X,X,X,,
+508,Stoutland,Normal,,Intimidate,Sand Rush,Scrappy,Neutral,Field,,45,Lv. 32,Base,,,,X,X,X,X,X,,
+509,Purrloin,Dark,,Limber,Unburden,Prankster,Neutral,Field,,255,,Base,,,,X,X,X,X,X,,
+510,Liepard,Dark,,Limber,Unburden,Prankster,Neutral,Field,,90,Lv. 20,Base,,,,X,X,X,X,X,,
+511,Pansage,Grass,,Gluttony,,Overgrowth,M (87.5%),Field,,190,,Base,,,,X,X,X,X,,,
+512,Simisage,Grass,,Gluttony,,Overgrowth,M (87.5%),Field,,75,Leaf Stone,Base,,,,X,X,X,X,,,
+513,Pansear,Fire,,Gluttony,,Blaze,M (87.5%),Field,,190,,Base,,,,X,X,X,X,,,
+514,Simisear,Fire,,Gluttony,,Blaze,M (87.5%),Field,,75,Fire Stone,Base,,,,X,X,X,X,,,
+515,Panpour,Water,,Gluttony,,Torrent,M (87.5%),Field,,190,,Base,,,,X,X,X,X,,,
+516,Simipour,Water,,Gluttony,,Torrent,M (87.5%),Field,,75,Water Stone,Base,,,,X,X,X,X,,,
+517,Munna,Psychic,,Forewarn,Synchronize,Telepathy,Neutral,Field,,190,,Base,,,,X,X,X,X,X,,
+518,Musharna,Psychic,,Forewarn,Synchronize,Telepathy,Neutral,Field,,75,Moon Stone,Base,,,,X,X,X,X,X,,
+519,Pidove,Normal,Flying,Big Pecks,Super Luck,Rivalry,Neutral,Flying,,255,,Base,,,,X,X,X,X,X,,
+520,Tranquill,Normal,Flying,Big Pecks,Super Luck,Rivalry,Neutral,Flying,,120,Lv. 21,Base,,,,X,X,X,X,X,,
+521,Unfezant,Normal,Flying,Big Pecks,Super Luck,Rivalry,Neutral,Flying,,45,Lv. 32,Base,,,,X,X,X,X,X,,
+522,Blitzle,Electric,,Lightningrod,Motor Drive,Sap Sipper,Neutral,Field,,190,,Base,,,,X,X,X,X,,,
+523,Zebstrika,Electric,,Lightningrod,Motor Drive,Sap Sipper,Neutral,Field,,75,Lv. 27,Base,,,,X,X,X,X,,,
+524,Roggenrola,Rock,,Sturdy,,Sand Force,Neutral,Mineral,,255,,Base,,,,X,X,X,X,X,,
+525,Boldore,Rock,,Sturdy,,Sand Force,Neutral,Mineral,,120,Lv. 25,Base,,,,X,X,X,X,X,,
+526,Gigalith,Rock,,Sturdy,,Sand Force,Neutral,Mineral,,45,Trade,Base,,,,X,X,X,X,X,,
+527,Woobat,Psychic,Flying,Unaware,Klutz,Simple,Neutral,Field,Flying,190,,Base,,,,X,X,X,X,X,,
+528,Swoobat,Psychic,Flying,Unaware,Klutz,Simple,Neutral,Field,Flying,45,Friendship,Base,,,,X,X,X,X,X,,
+529,Drilbur,Ground,,Sand Rush,Sand Force,Mold Breaker,Neutral,Field,,120,,Base,,,,X,X,X,X,X,,
+530,Excadrill,Ground,Steel,Sand Rush,Sand Force,Mold Breaker,Neutral,Field,,60,Lv. 31,Base,,,,X,X,X,X,X,,
+531,Audino,Normal,,Healer,Regenerator,Klutz,Neutral,Fairy,,255,N,Base,,,,X,X,X,X,X,,
+532,Timburr,Fighting,,Guts,Sheer Force,Iron Fist,M (75%),Human-Like,,180,,Base,,,,X,X,X,X,X,,
+533,Gurdurr,Fighting,,Guts,Sheer Force,Iron Fist,M (75%),Human-Like,,90,Lv. 25,Base,,,,X,X,X,X,X,,
+534,Conkeldurr,Fighting,,Guts,Sheer Force,Iron Fist,M (75%),Human-Like,,45,Trade,Base,,,,X,X,X,X,X,,
+535,Tympole,Water,,Swift Swim,Hydration,Water Absorb,Neutral,Water 1,,255,,Base,,,,X,X,X,X,X,,
+536,Palpitoad,Water,Ground,Swift Swim,Hydration,Water Absorb,Neutral,Water 1,,120,Lv. 25,Base,,,,X,X,X,X,X,,
+537,Seismitoad,Water,Ground,Swift Swim,Poison Touch,Water Absorb,Neutral,Water 1,,45,Lv. 36,Base,,,,X,X,X,X,X,,
+538,Throh,Fighting,,Guts,Inner Focus,Mold Breaker,M (100%),Human-Like,,45,,Base,,,,X,X,X,X,X,,
+539,Sawk,Fighting,,Sturdy,Inner Focus,Mold Breaker,M (100%),Human-Like,,45,,Base,,,,X,X,X,X,X,,
+540,Sewaddle,Bug,Grass,Swarm,Chlorophyll,Overcoat,Neutral,Bug,,255,,Base,,,,X,X,X,X,,,
+541,Swadloon,Bug,Grass,Leaf Guard,Chlorophyll,Overcoat,Neutral,Bug,,120,Lv. 20,Base,,,,X,X,X,X,,,
+542,Leavanny,Bug,Grass,Swarm,Chlorophyll,Overcoat,Neutral,Bug,,45,Friendship,Base,,,,X,X,X,X,,,
+543,Venipede,Bug,Poison,Poison Point,Swarm,Speed Boost,Neutral,Bug,,255,,Base,,,,X,X,X,X,X,,
+544,Whirlipede,Bug,Poison,Poison Point,Swarm,Speed Boost,Neutral,Bug,,120,Lv. 22,Base,,,,X,X,X,X,X,,
+545,Scolipede,Bug,Poison,Poison Point,Swarm,Speed Boost,Neutral,Bug,,45,Lv. 30,Base,,,,X,X,X,X,X,,
+546,Cottonee,Grass,Fairy,Prankster,Infiltrator,Chlorophyll,Neutral,Grass,Fairy,190,,Base,,,,X,X,X,X,X,,
+547,Whimsicott,Grass,Fairy,Prankster,Infiltrator,Chlorophyll,Neutral,Grass,Fairy,75,Sun Stone,Base,,,,X,X,X,X,X,,
+548,Petilil,Grass,,Chlorophyll,Own Tempo,Leaf Guard,F (100%),Grass,,190,,Base,,,,X,X,X,X,X,,X
+549,Lilligant,Grass,,Chlorophyll,Own Tempo,Leaf Guard,F (100%),Grass,,75,Sun Stone,Base,,,,X,X,X,X,X,,X
+549,H. Lilligant,Grass,Fighting,Chlorophyll,Hustle,Leaf Guard,F (100%),Grass,,75,Sun Stone (Hisui Only),Hisuian,,,,,,,,,,X
+550,Red Basculin,Water,,Reckless,Adaptability,Mold Breaker,Neutral,Water 2,,25,N,Base,,,,X,X,X,X,X,,X
+550,White Basculin,Water,,Rattled,Adaptability,Mold Breaker,Neutral,Water 2,,25,,Hisuian,,,,,,,,,,X
+551,Sandile,Ground,Dark,Intimidate,Moxie,Anger Point,Neutral,Field,,180,,Base,,,,X,X,X,X,X,,X
+552,Krokorok,Ground,Dark,Intimidate,Moxie,Anger Point,Neutral,Field,,90,Lv. 29,Base,,,,X,X,X,X,X,,X
+553,Krookodile,Ground,Dark,Intimidate,Moxie,Anger Point,Neutral,Field,,45,Lv. 40,Base,,,,X,X,X,X,X,,X
+554,Darumaka,Fire,,Hustle,,Inner Focus,Neutral,Field,,120,,Base,,,,X,X,X,X,X,,
+554,G. Darumaka,Ice,,Hustle,,Inner Focus,Neutral,Field,,120,,Galarian,,,,,,,,X,,
+555,Darmanitan,Fire,,Sheer Force,,Zen Mode,Neutral,Field,,60,Lv. 35,Base,,,,X,X,X,X,X,,
+555,G. Darmanitan,Ice,,Gorilla Tactics,,Zen Mode,Neutral,Field,,60,Ice Stone,Galarian,,,,,,,,X,,
+556,Maractus,Grass,,Water Absorb,Chlorophyll,Storm Drain,Neutral,Grass,,255,N,Base,,,,X,X,X,X,X,,
+557,Dwebble,Bug,Rock,Sturdy,Shell Armor,Weak Armor,Neutral,Bug,Mineral,190,,Base,,,,X,X,X,X,X,,
+558,Crustle,Bug,Rock,Sturdy,Shell Armor,Weak Armor,Neutral,Bug,Mineral,75,Lv. 34,Base,,,,X,X,X,X,X,,
+559,Scraggy,Dark,Fighting,Shed Skin,Moxie,Intimidate,Neutral,Field,Dragon,180,,Base,,,,X,X,X,X,X,,
+560,Scrafty,Dark,Fighting,Shed Skin,Moxie,Intimidate,Neutral,Field,Dragon,90,,Base,,,,X,X,X,X,X,,
+561,Sigilyph,Psychic,Flying,Wonder Skin,Magic Guard,Tinted Lenses,Neutral,Flying,,45,,Base,,,,X,X,X,X,X,,
+562,Yamask,Ghost,,Mummy,,,Neutral,Mineral,Amorphous,190,,Base,,,,X,X,X,X,X,,
+562,G. Yamask,Ground,Ghost,Wandering Spirit,,,Neutral,Mineral,Amorphous,190,,Galarian,,,,,,,,X,,
+563,Cofagrigus,Ghost,,Mummy,,,Neutral,Mineral,Amorphous,90,Lv. 34,Base,,,,X,X,X,X,X,,
+564,Tirtouga,Water,Rock,Solid Rock,Sturdy,Swift Swim,M (87.5%),Water 1,Water 3,45,,Base,,,,X,X,X,X,X,,
+565,Carracosta,Water,Rock,Solid Rock,Sturdy,Swift Swim,M (87.5%),Water 1,Water 3,45,Lv. 37,Base,,,,X,X,X,X,X,,
+566,Archen,Rock,Flying,Defeatist,,,M (87.5%),Flying,Water 3,45,,Base,,,,X,X,X,X,X,,
+567,Archeops,Rock,Flying,Defeatist,,,M (87.5%),Flying,Water 3,45,Lv. 37,Base,,,,X,X,X,X,X,,
+568,Trubbish,Poison,,Stench,Sticky Hold,Aftermath,Neutral,Mineral,,190,,Base,,,,X,X,X,X,X,,
+569,Garbodor,Poison,,Stench,Weak Armor,Aftermath,Neutral,Mineral,,60,Lv. 36,Base,,,,X,X,X,X,X,,
+570,Zorua,Dark,,Illusion,,,M (87.5%),Field,,75,,Base,,,,X,X,X,X,X,,X
+570,H. Zorua,Normal,Ghost,Illusion,,,M (87.5%),Field,,75,,Hisuian,,,,,,,,,,X
+571,Zoroark,Dark,,Illusion,,,M (87.5%),Field,,45,Lv. 30,Base,,,,X,X,X,X,X,,X
+571,H. Zoroark,Normal,Ghost,Illusion,,,M (87.5%),Field,,45,Level 30,Hisuian,,,,,,,,,,X
+572,Minccino,Normal,,Cute Charm,Technician,Skill Link,F (75%),Field,,255,,Base,,,,X,X,X,X,X,,
+573,Ciccino,Normal,,Cute Charm,Technician,Skill Link,F (75%),Field,,60,Shiny Stone,Base,,,,X,X,X,X,X,,
+574,Gothita,Psychic,,Frisk,Competitive,Shadow Tag,F (75%),Human-Like,,200,,Base,,,,X,X,X,X,X,,X
+575,Gothorita,Psychic,,Frisk,Competitive,Shadow Tag,F (75%),Human-Like,,100,Lv. 32,Base,,,,X,X,X,X,X,,X
+576,Gothitelle,Psychic,,Frisk,Competitive,Shadow Tag,F (75%),Human-Like,,50,Lv. 41,Base,,,,X,X,X,X,X,,X
+577,Solosis,Psychic,,Overcoat,Magic Guard,Regenerator,Neutral,Amorphous,,200,,Base,,,,X,X,X,X,X,,
+578,Duosion,Psychic,,Overcoat,Magic Guard,Regenerator,Neutral,Amorphous,,100,Lv. 32,Base,,,,X,X,X,X,X,,
+579,Reuniclus,Psychic,,Overcoat,Magic Guard,Regenerator,Neutral,Amorphous,,50,Lv. 41,Base,,,,X,X,X,X,X,,
+580,Ducklett,Water,Flying,Keen Eye,Big Pecks,Hydration,Neutral,Water 1,Flying,190,,Base,,,,X,X,X,X,,,
+581,Swanna,Water,Flying,Keen Eye,Big Pecks,Hydration,Neutral,Water 1,Flying,45,Lv. 35,Base,,,,X,X,X,X,,,
+582,Vanillite,Ice,,Ice Body,,Weak Armor,Neutral,Mineral,,255,,Base,,,,X,X,X,X,X,,
+583,Vanillish,Ice,,Ice Body,,Weak Armor,Neutral,Mineral,,120,Lv. 35,Base,,,,X,X,X,X,X,,
+584,Vanilluxe,Ice,,Ice Body,,Weak Armor,Neutral,Mineral,,45,Lv. 47,Base,,,,X,X,X,X,X,,
+585,Deerling,Normal,Grass,Chlorophyll,Sap Sipper,Serene Grace,Neutral,Field,,190,,Base,,,,X,X,X,X,,,X
+586,Sawsbuck,Normal,Grass,Chlorophyll,Sap Sipper,Serene Grace,Neutral,Field,,75,Lv. 34,Base,,,,X,X,X,X,,,X
+587,Emolga,Electric,Flying,Static,,Motor Drive,Neutral,Field,,200,,Base,,,,X,X,X,X,X,,
+588,Karrablast,Bug,,Swarm,Shed Skin,No Guard,Neutral,Bug,,200,,Base,,,,X,X,X,X,X,,
+589,Escavalier,Bug,Steel,Swarm,Shell Armor,Overcoat,Neutral,Bug,,75,Trade w/ Shelmet,Base,,,,X,X,X,X,X,,
+590,Foongus,Grass,Poison,Effect Spore,,Regenerator,Neutral,Grass,,190,,Base,,,,X,X,X,X,X,,X
+591,Amoonguss,Grass,Poison,Effect Spore,,Regenerator,Neutral,Grass,,75,Lv. 39,Base,,,,X,X,X,X,X,,X
+592,Frillish,Water,Ghost,Water Absorb,Cursed Body,Damp,Neutral,Amorphous,,190,,Base,,,,X,X,X,X,X,,
+593,Jellicent,Water,Ghost,Water Absorb,Cursed Body,Damp,Neutral,Amorphous,,60,Lv. 40,Base,,,,X,X,X,X,X,,
+594,Alomomola,Water,,Healer,Hydration,Regenerator,Neutral,Water 1,Water 2,75,N,Base,,,,X,X,X,X,,,X
+595,Joltik,Bug,Electric,Compoundeyes,Unnerve,Swarm,Neutral,Bug,,190,,Base,,,,X,X,X,X,X,,
+596,Galvantula,Bug,Electric,Compoundeyes,Unnerve,Swarm,Neutral,Bug,,75,Lv. 36,Base,,,,X,X,X,X,X,,
+597,Ferroseed,Grass,Steel,Iron Barbs,,,Neutral,Grass,Mineral,255,,Base,,,,X,X,X,X,X,,
+598,Ferrothorn,Grass,Steel,Iron Barbs,,Anticipation,Neutral,Grass,Mineral,90,Lv. 40,Base,,,,X,X,X,X,X,,
+599,Klink,Steel,,Plus,Minus,Clear Body,None,Mineral,,130,,Base,,,,X,X,X,X,X,,
+600,Klang,Steel,,Plus,Minus,Clear Body,None,Mineral,,60,Lv. 38,Base,,,,X,X,X,X,X,,
+601,Klinklang,Steel,,Plus,Minus,Clear Body,None,Mineral,,30,Lv. 49,Base,,,,X,X,X,X,X,,
+602,Tynamo,Electric,,Levitate,,,Neutral,Amorphous,,190,,Base,,,,X,X,X,X,,,X
+603,Eelektrik,Electric,,Levitate,,,Neutral,Amorphous,,60,Lv. 39,Base,,,,X,X,X,X,,,X
+604,Eelektross,Electric,,Levitate,,,Neutral,Amorphous,,30,Thunderstone,Base,,,,X,X,X,X,,,X
+605,Elgyem,Psychic,,Telepathy,Synchronize,Analytic,Neutral,Human-Like,,255,,Base,,,,X,X,X,X,X,,
+606,Beheeyem,Psychic,,Telepathy,Synchronize,Analytic,Neutral,Human-Like,,90,Lv. 42,Base,,,,X,X,X,X,X,,
+607,Litwick,Ghost,Fire,Flash Fire,Flame Body,Infiltrator,Neutral,Amorphous,,190,,Base,,,,X,X,X,X,X,,
+608,Lampent,Ghost,Fire,Flash Fire,Flame Body,Infiltrator,Neutral,Amorphous,,90,Lv. 41,Base,,,,X,X,X,X,X,,
+609,Chandelure,Ghost,Fire,Flash Fire,Flame Body,Infiltrator,Neutral,Amorphous,,45,Dusk Stone,Base,,,,X,X,X,X,X,,
+610,Axew,Dragon,,Rivalry,Mold Breaker,Unnerve,Neutral,Monster,Dragon,75,,Base,,,,X,X,X,X,X,,X
+611,Fraxure,Dragon,,Rivalry,Mold Breaker,Unnerve,Neutral,Monster,Dragon,60,Lv. 38,Base,,,,X,X,X,X,X,,X
+612,Haxorus,Dragon,,Rivalry,Mold Breaker,Unnerve,Neutral,Monster,Dragon,45,Lv. 48,Base,,,,X,X,X,X,X,,X
+613,Cubchoo,Ice,,Snow Cloak,Slush Rush,Rattled,Neutral,Field,,120,,Base,,,,X,X,X,X,X,,X
+614,Beartic,Ice,,Snow Cloak,Slush Rush,Swift Swim,Neutral,Field,,60,Lv. 37,Base,,,,X,X,X,X,X,,X
+615,Cryogonal,Ice,,Levitate,,,None,Mineral,,25,N,Base,,,,X,X,X,X,X,,
+616,Shelmet,Bug,,Hydration,Shell Armor,Overcoat,Neutral,Bug,,200,,Base,,,,X,X,X,X,X,,
+617,Accelgor,Bug,,Hydration,Sticky Hold,Unburden,Neutral,Bug,,75,Trade w/ Karrablast,Base,,,,X,X,X,X,X,,
+618,Stunfisk,Ground,Electric,Static,Limber,Sand Viel,Neutral,Water 1,Amorphous,75,N,Base,,,,X,X,X,X,X,,
+618,G. Stunfisk,Ground,Steel,Mimicry,,,Neutral,Water 1,Amorphous,75,N,Galarian,,,,,,,,X,,
+619,Mienfoo,Fighting,,Inner Focus,Regenerator,Reckless,Neutral,Field,Human-Like,180,,Base,,,,X,X,X,X,X,,
+620,Mienshao,Fighting,,Inner Focus,Regenerator,Reckless,Neutral,Field,Human-Like,45,Lv. 50,Base,,,,X,X,X,X,X,,
+621,Druddigon,Dragon,,Rough Skin,Sheer Force,Mold Breaker,Neutral,Dragon,Monster,45,N,Base,,,,X,X,X,X,X,,
+622,Golett,Ground,Ghost,Iron Fist,Klutz,No Guard,None,Mineral,,190,,Base,,,,X,X,X,X,X,,
+623,Golurk,Ground,Ghost,Iron Fist,Klutz,No Guard,None,Mineral,,90,Lv. 43,Base,,,,X,X,X,X,X,,
+624,Pawniard,Dark,Steel,Defiant,Inner Focus,Pressure,Neutral,Human-Like,,120,,Base,,,,X,X,X,X,X,,X
+625,Bisharp,Dark,Steel,Defiant,Inner Focus,Pressure,Neutral,Human-Like,,45,Lv. 52,Base,,,,X,X,X,X,X,,X
+626,Bouffalant,Normal,,Reckless,Sap Sipper,Soundproof,Neutral,Field,,45,N,Base,,,,X,X,X,X,X,,
+627,Rufflet,Normal,Flying,Keen Eye,Sheer Force,Hustle,M (100%),Flying,,190,,Base,,,,X,X,X,X,X,,X
+628,Braviary,Normal,Flying,Keen Eye,Sheer Force,Defiant,M (100%),Flying,,60,Lv. 54,Base,,,,X,X,X,X,X,,X
+628,H. Braviary,Psychic,Flying,Keen Eye,Sheer Force,Defiant,M (100%),Flying,,60,Level 54 (Hisui Only),Hisuian,,,,,,,,,,X
+629,Vullaby,Dark,Flying,Big Pecks,Overcoat,Weak Armor,F (100%),Flying,,190,,Base,,,,X,X,X,X,X,,
+630,Mandibuzz,Dark,Flying,Big Pecks,Overcoat,Weak Armor,F (100%),Flying,,60,Lv. 54,Base,,,,X,X,X,X,X,,
+631,Heatmor,Fire,,Gluttony,Flash Fire,White Smoke,Neutral,Field,,90,N,Base,,,,X,X,X,X,X,,
+632,Durant,Bug,Steel,Swarm,Hustle,Truant,Neutral,Bug,,90,N,Base,,,,X,X,X,X,X,,
+633,Deino,Dark,Dragon,Hustle,,,Neutral,Dragon,,45,,Base,,,,X,X,X,X,X,,X
+634,Zweilous,Dark,Dragon,Hustle,,,Neutral,Dragon,,45,Lv. 50,Base,,,,X,X,X,X,X,,X
+635,Hydreigon,Dark,Dragon,Levitate,,,Neutral,Dragon,,45,Lv. 64,Base,,,,X,X,X,X,X,,X
+636,Larvesta,Bug,Fire,Flame Body,,Swarm,Neutral,Bug,,45,,Base,,,,X,X,X,X,X,,X
+637,Volcarona,Bug,Fire,Flame Body,,Swarm,Neutral,Bug,,15,Lv. 59,Base,,,,X,X,X,X,X,,X
+638,Cobalion,Steel,Fighting,Justified,,,None,-,,3,N,Base,,,,X,X,X,X,X,,
+639,Terrakion,Rock,Fighting,Justified,,,None,-,,3,N,Base,,,,X,X,X,X,X,,
+640,Virizion,Grass,Fighting,Justified,,,None,-,,3,N,Base,,,,X,X,X,X,X,,
+641,Tornadus,Flying,,Prankster,,Defiant,M (100%),-,,3,N,Base,,,,X,X,X,X,X,,X
+642,Thundurus,Electric,Flying,Prankster,,Defiant,M (100%),-,,3,N,Base,,,,X,X,X,X,X,,X
+643,Reshiram,Dragon,Fire,Turboblaze,,,None,-,,3,N,Base,,,,X,X,X,X,X,,
+644,Zekrom,Dragon,Electric,Teravolt,,,None,-,,3,N,Base,,,,X,X,X,X,X,,
+645,Landorus,Ground,Flying,Sand Force,,Sheer Force,M (100%),-,,3,N,Base,,,,X,X,X,X,X,,X
+646,Kyurem,Dragon,Ice,Pressure,,,None,-,,3,N,Base,,,,X,X,X,X,X,,
+647,Keldeo,Water,Fighting,Justified,,,None,-,,3,N,Base,,,,X,X,X,X,X,,
+648,Meloetta (A),Normal,Psychic,Serene Grace,,,None,-,,3,N,Base,,,,X,X,X,X,X,,X
+649,Genesect,Bug,Steel,Download,,,None,-,,3,N,Base,,,,X,X,X,X,X,,
+650,Chespin,Grass,,Overgrow,,Bulletproof,M (87.5%),Field,,45,,Base,,,,,X,X,X,,,X
+651,Quilladin,Grass,,Overgrow,,Bulletproof,M (87.5%),Field,,45,Level 16,Base,,,,,X,X,X,,,X
+652,Chesnaught,Grass,Fighting,Overgrow,,Bulletproof,M (87.5%),Field,,45,Level 36,Base,,,,,X,X,X,,,X
+653,Fennekin,Fire,,Blaze,,Magician,M (87.5%),Field,,45,,Base,,,,,X,X,X,,,X
+654,Braixen,Fire,,Blaze,,Magician,M (87.5%),Field,,45,Level 16,Base,,,,,X,X,X,,,X
+655,Delphox,Fire,Psychic,Blaze,,Magician,M (87.5%),Field,,45,Level 36,Base,,,,,X,X,X,,,X
+656,Froakie,Water,,Torrent,,Protean,M (87.5%),Water 1,,45,,Base,,,,,X,X,X,,,X
+657,Frogadier,Water,,Torrent,,Protean,M (87.5%),Water 1,,45,Level 16,Base,,,,,X,X,X,,,X
+658,Greninja,Water,Dark,Torrent,,Protean,M (87.5%),Water 1,,45,Level 36,Base,,,,,X,X,X,,,X
+659,Bunnelby,Normal,,Pickup,Cheek Pouch,Huge Power,Neutral,Field,,255,,Base,,,,,X,X,X,X,,
+660,Diggersby,Normal,Ground,Pickup,Cheek Pouch,Huge Power,Neutral,Field,,127,Level 20,Base,,,,,X,X,X,X,,
+661,Fletchling,Normal,Flying,Big Pecks,,Gale Wings,Neutral,Flying,,255,,Base,,,,,X,X,X,X,,X
+662,Fletchinder,Fire,Flying,Flame Body,,Gale Wings,Neutral,Flying,,120,Level 17,Base,,,,,X,X,X,X,,X
+663,Talonflame,Fire,Flying,Flame Body,,Gale Wings,Neutral,Flying,,45,Level 35,Base,,,,,X,X,X,X,,X
+664,Scatterbug,Bug,,Shield Dust,Compound Eyes,Friend Guard,Neutral,Bug,,255,,Base,,,,,X,X,X,,,X
+665,Spewpa,Bug,,Shed Skin,,Friend Guard,Neutral,Bug,,120,Level 9,Base,,,,,X,X,X,,,X
+666,Vivillon,Bug,Flying,Shield Dust,Compound Eyes,Friend Guard,Neutral,Bug,,45,Level 12,Base,,,,,X,X,X,,,X
+667,Litleo,Fire,Normal,Rivalry,Unnerve,Moxie,F (87.5%),Field,,220,,Base,,,,,X,X,X,,,X
+668,Pyroar,Fire,Normal,Rivalry,Unnerve,Moxie,F (87.5%),Field,,65,Level 35,Base,,,,,X,X,X,,,X
+669,Flabébé,Fairy,,Flower Veil,,Symbiosis,F (100%),Fairy,,255,,Base,,,,,X,X,X,,,X
+670,Floette,Fairy,,Flower Veil,,Symbiosis,F (100%),Fairy,,120,Level 19,Base,,,,,X,X,X,,,X
+671,Florges,Fairy,,Flower Veil,,Symbiosis,F (100%),Fairy,,45,Shiny Stone,Base,,,,,X,X,X,,,X
+672,Skiddo,Grass,,Sap Sipper,,Grass Pelt,Neutral,Field,,220,,Base,,,,,X,X,X,,,X
+673,Gogoat,Grass,,Sap Sipper,,Grass Pelt,Neutral,Field,,45,Level 32,Base,,,,,X,X,X,,,X
+674,Pancham,Fighting,,Iron Fist,Mold Breaker,Scrappy,Neutral,Field,Human-like,220,,Base,,,,,X,X,X,X,,
+675,Pangoro,Fighting,Dark,Iron Fist,Mold Breaker,Scrappy,Neutral,Field,Human-like,65,32 w/ Dark-type in Party,Base,,,,,X,X,X,X,,
+676,Furfrou,Normal,,Fur Coat,,,Neutral,Field,,160,N,Base,,,,,X,X,X,,,
+677,Espurr,Psychic,,Keen Eye,Infiltrator,Own Tempo,Neutral,Field,,190,,Base,,,,,X,X,X,X,,
+678,Male Meowstic,Psychic,,Keen Eye,Infiltrator,Prankster,M (100%),Field,,75,Level 25,Base,,,,,X,X,X,X,,
+679,Honedge,Steel,Ghost,No Guard,,,Neutral,Mineral,,180,,Base,,,,,X,X,X,X,,
+680,Doublade,Steel,Ghost,No Guard,,,Neutral,Mineral,,90,Level 35,Base,,,,,X,X,X,X,,
+681,S Aegislash,Steel,Ghost,Stance Change,,,Neutral,Mineral,,45,Dusk Stone,Base,,,,,X,X,X,X,,
+682,Spritzee,Fairy,,Healer,,Aroma Veil,Neutral,Fairy,,200,,Base,,,,,X,X,X,X,,
+683,Aromatisse,Fairy,,Healer,,Aroma Veil,Neutral,Fairy,,140,Trade w/ Satchet,Base,,,,,X,X,X,X,,
+684,Swirlix,Fairy,,Sweet Veil,,Unburden,Neutral,Fairy,,200,,Base,,,,,X,X,X,X,,
+685,Slurpuff,Fairy,,Sweet Veil,,Unburden,Neutral,Fairy,,140,Trade w/ Whipped Dream,Base,,,,,X,X,X,X,,
+686,Inkay,Dark,Psychic,Contrary,Suction Cups,Infiltrator,Neutral,Water 1,Water 2,190,,Base,,,,,X,X,X,X,,
+687,Malamar,Dark,Psychic,Contrary,Suction Cups,Infiltrator,Neutral,Water 1,Water 2,80,"Level 30, Console upside-down",Base,,,,,X,X,X,X,,
+688,Binacle,Rock,Water,Tough Claws,Sniper,Pickpocket,Neutral,Water 3,,120,,Base,,,,,X,X,X,X,,
+689,Barbaracle,Rock,Water,Tough Claws,Sniper,Pickpocket,Neutral,Water 3,,45,Level 39,Base,,,,,X,X,X,X,,
+690,Skrelp,Poison,Water,Poison Point,Poison Touch,Adaptability,Neutral,Water 1,Dragon,225,,Base,,,,,X,X,X,X,,X
+691,Dragalge,Poison,Dragon,Poison Point,Poison Touch,Adaptability,Neutral,Water 1,Dragon,55,Level 48,Base,,,,,X,X,X,X,,X
+692,Clauncher,Water,,Mega Launcher,,,Neutral,Water 1,Water 3,225,,Base,,,,,X,X,X,X,,X
+693,Clawitzer,Water,,Mega Launcher,,,Neutral,Water 1,Water 3,55,Level 37,Base,,,,,X,X,X,X,,X
+694,Helioptile,Electric,Normal,Dry Skin,Sand Veil,Solar Power,Neutral,Monster,Dragon,190,,Base,,,,,X,X,X,X,,
+695,Heliolisk,Electric,Normal,Dry Skin,Sand Veil,Solar Power,Neutral,Monster,Dragon,75,Sun Stone,Base,,,,,X,X,X,X,,
+696,Tyrunt,Rock,Dragon,Strong Jaw,,Sturdy,M (87.5%),Monster,Dragon,45,,Base,,,,,X,X,X,X,,
+697,Tyrantrum,Rock,Dragon,Strong Jaw,,Rock Head,M (87.5%),Monster,Dragon,45,"Level 39, Day",Base,,,,,X,X,X,X,,
+698,Amaura,Rock,Ice,Refrigerate,,Snow Warning,M (87.5%),Monster,,45,,Base,,,,,X,X,X,X,,
+699,Aurorus,Rock,Ice,Refrigerate,,Snow Warning,M (87.5%),Monster,,45,"Level 39, Night",Base,,,,,X,X,X,X,,
+700,Sylveon,Fairy,,Cute Charm,,Pixilate,M (87.5%),Field,,45,"High Friendship, Fairy Move Known",Base,,,,,X,X,X,X,,X
+701,Hawlucha,Fighting,Flying,Limber,,Mold Breaker,Neutral,Human-like,,100,N,Base,,,,,X,X,X,,,
+701,Hawlucha,Fighting,Flying,Limber,,Mold Breaker,Neutral,Flying,Human-like,100,N,Base,,,,,,,,X,,X
+702,Dedenne,Electric,Fairy,Unburden,,Plus,Neutral,Field,Fairy,180,N,Base,,,,,X,X,X,X,,X
+703,Carbink,Rock,Fairy,Clear Body,,Sturdy,None,Fairy,Mineral,60,N,Base,,,,,X,X,X,X,,X
+704,Goomy,Dragon,,Sap Sipper,Hydration,Gooey,Neutral,Dragon,,45,,Base,,,,,X,X,X,X,,X
+705,H. Sliggoo,Dragon,Steel,Sap Sipper,Overcoat,Gooey,Neutral,Dragon,,45,Level 40 (Hisui Only),Hisuian,,,,,,,,,,X
+705,Sliggoo,Dragon,,Sap Sipper,Hydration,Gooey,Neutral,Dragon,,45,Level 40,Base,,,,,X,X,X,X,,X
+706,H. Goodra,Dragon,Steel,Sap Sipper,Overcoat,Gooey,Neutral,Dragon,,45,Level 50 (Rain or Fog),Hisuian,,,,,,,,,,X
+706,Goodra,Dragon,,Sap Sipper,Hydration,Gooey,Neutral,Dragon,,45,"Level 50, Overworld Rain",Base,,,,,X,X,X,X,,X
+707,Klefki,Steel,Fairy,Prankster,,Magician,Neutral,Mineral,,75,N,Base,,,,,X,X,X,X,,X
+708,Phantump,Grass,Ghost,Natural Cure,Frisk,Harvest,Neutral,Grass,Amorphous,120,,Base,,,,,X,X,X,X,,
+709,Trevenant,Grass,Ghost,Natural Cure,Frisk,Harvest,Neutral,Grass,Amorphous,60,Trade,Base,,,,,X,X,X,X,,
+710,Pumpkaboo,Grass,Ghost,Pickup,Frisk,Insomnia,Neutral,Amorphous,,120,,Base,,,,,X,X,X,X,,
+711,Gourgeist,Grass,Ghost,Pickup,Frisk,Insomnia,Neutral,Amorphous,,60,Trade,Base,,,,,X,X,X,X,,
+712,Bergmite,Ice,,Own Tempo,Ice Body,Sturdy,Neutral,Monster,,190,,Base,,,,,X,X,X,,,
+712,Bergmite,Ice,,Own Tempo,Ice Body,Sturdy,Neutral,Monster,Mineral,190,,Base,,,,,,,,X,,X
+713,Avalugg,Ice,,Own Tempo,Ice Body,Sturdy,Neutral,Monster,,55,Level 37,Base,,,,,X,X,X,,,
+713,H. Avalugg,Ice,Rock,Strong Jaw,Sturdy,Ice Body,Neutral,Monster,Mineral,55,Level 37 (Hisui Only),Hisuian,,,,,,,,,,X
+713,Avalugg,Ice,,Own Tempo,Ice Body,Sturdy,Neutral,Monster,Mineral,55,Level 37,Base,,,,,,,,X,,X
+714,Noibat,Flying,Dragon,Frisk,Infiltrator,Telepathy,Neutral,Flying,,190,,Base,,,,,X,X,X,,,
+714,Noibat,Flying,Dragon,Frisk,Infiltrator,Telepathy,Neutral,Flying,Dragon,190,,Base,,,,,,,,X,,X
+715,Noivern,Flying,Dragon,Frisk,Infiltrator,Telepathy,Neutral,Flying,,45,Level 48,Base,,,,,X,X,X,,,
+715,Noivern,Flying,Dragon,Frisk,Infiltrator,Telepathy,Neutral,Flying,Dragon,45,Level 48,Base,,,,,,,,X,,X
+716,Xerneas,Fairy,,Fairy Aura,,,None,-,,45,N,Base,,,,,X,X,X,X,,
+717,Yveltal,Dark,Flying,Dark Aura,,,None,-,,45,N,Base,,,,,X,X,X,X,,
+718,Zygarde,Dragon,Ground,Aura Break,Power Construct,,None,-,,3,N,Base,,,,,X,X,X,X,,
+719,Diancie,Rock,Fairy,Clear Body,,,None,-,,3,N,Base,,,,,X,X,X,X,,X
+720,Hoopa,Psychic,Ghost,Magician,,,None,-,,3,N,Base,,,,,X,X,X,,,X
+721,Volcanion,Fire,Water,Water Absorb,,,None,-,,3,N,Base,,,,,X,X,X,X,,X
+722,Rowlet,Grass,Flying,Overgrow,,Long Reach,M (87.5%),Flying,,45,,Base,,,,,,X,X,X,,X
+723,Dartrix,Grass,Flying,Overgrow,,Long Reach,M (87.5%),Flying,,45,Level 17,Base,,,,,,X,X,X,,X
+724,Decidueye,Grass,Ghost,Overgrow,,Long Reach,M (87.5%),Flying,,45,Level 34,Base,,,,,,X,X,X,,X
+724,H. Decidueye,Grass,Fighting,Overgrow,,Long Reach,M (87.5%),Flying,,45,Level 36 (Hisui Only),Hisuian,,,,,,,,,,X
+725,Litten,Fire,,Blaze,,Intimidate,M (87.5%),Field,,45,,Base,,,,,,X,X,X,,
+726,Torracat,Fire,,Blaze,,Intimidate,M (87.5%),Field,,45,Level 17,Base,,,,,,X,X,X,,
+727,Incineroar,Fire,Dark,Blaze,,Intimidate,M (87.5%),Field,,45,Level 34,Base,,,,,,X,X,X,,
+728,Popplio,Water,,Torrent,,Liquid Voice,M (87.5%),Water 1,Field,45,,Base,,,,,,X,X,X,,
+729,Brionne,Water,,Torrent,,Liquid Voice,M (87.5%),Water 1,Field,45,Level 17,Base,,,,,,X,X,X,,
+730,Primarina,Water,Fairy,Torrent,,Liquid Voice,M (87.5%),Water 1,Field,45,Level 34,Base,,,,,,X,X,X,,
+731,Pikipek,Normal,Flying,Keen Eye,Skill Link,Pickup,Neutral,Flying,,255,,Base,,,,,,X,X,,,
+732,Trumbeak,Normal,Flying,Keen Eye,Skill Link,Pickup,Neutral,Flying,,120,Level 14,Base,,,,,,X,X,,,
+733,Toucannon,Normal,Flying,Keen Eye,Skill Link,Sheer Force,Neutral,Flying,,45,Level 28,Base,,,,,,X,X,,,
+734,Yungoos,Normal,,Stakeout,Strong Jaw,Adaptability,Neutral,Field,,255,,Base,,,,,,X,X,,,X
+735,Gumshoos,Normal,,Stakeout,Strong Jaw,Adaptability,Neutral,Field,,127,"Level 20, Day",Base,,,,,,X,X,,,X
+736,Grubbin,Bug,,Swarm,,,Neutral,Bug,,255,,Base,,,,,,X,X,X,,
+737,Charjabug,Bug,,Battery,,,Neutral,Bug,,120,Level 20,Base,,,,,,X,X,X,,
+738,Vikavolt,Bug,Electric,Levitate,,,Neutral,Bug,,45,Magnet Field or Thunderstone,Base,,,,,,X,X,X,,
+739,Crabrawler,Fighting,,Hyper Cutter,Iron Fist,Anger Point,Neutral,Water 3,,255,,Base,,,,,,X,X,,,X
+740,Crabominable,Fighting,Ice,Hyper Cutter,Iron Fist,Anger Point,Neutral,Water 3,,60,Level up in Mount Lanakila,Base,,,,,,X,X,,,X
+741,Pom Oricorio,Electric,Flying,Dancer,,,F (75%),Flying,,45,N,Base,,,,,,X,X,,,X
+741,Baile Oricorio,Fire,Flying,Dancer,,,Neutral,Flying,,45,N,Alt,,,,,,X,X,,,X
+741,Pa'u Oricorio,Psychic,Flying,Dancer,,,Neutral,Flying,,45,N,Alt,,,,,,X,X,,,X
+741,Sen. Oricorio,Ghost,Flying,Dancer,,,Neutral,Flying,,45,N,Alt,,,,,,X,X,,,X
+742,Cutiefly,Bug,Fairy,Honey Gather,Sheild Dust,Sweet Veil,Neutral,Bug,Fairy,190,,Base,,,,,,X,X,X,,
+743,Ribombee,Bug,Fairy,Honey Gather,Sheild Dust,Sweet Veil,Neutral,Bug,Fairy,75,Level 25,Base,,,,,,X,X,X,,
+744,Rockruff,Rock,,Keen Eye,Vital Spirit,Steadfast,Neutral,Field,,190,,Base,,,,,,X,X,X,,X
+745,Day Lycanroc,Rock,,Keen Eye,Sand Rush,Steadfast,Neutral,Field,,90,"Level 25, Day",Base,,,,,,X,X,X,,X
+745,Midnight Lycanroc,Rock,,Keen Eye,Vital Spirit,No Guard,Neutral,Field,,90,Level 25 Night,Alt,,,,,,X,X,X,,X
+745,Dusk Lycanroc,Rock,,Tough Claws,,,Neutral,Field,,90,"Own Tempo Level 25, 7-7:59pm",Alt,,,,,,X,X,X,,X
+746,Wishiwashi,Water,,Schooling,,,Neutral,Water 2,,60,N,Base,,,,,,X,X,X,,
+747,Mareanie,Poison,Water,Merciless,Limber,Regenerator,Neutral,Water 1,,190,,Base,,,,,,X,X,X,,X
+748,Toxapex,Poison,Water,Merciless,Limber,Regenerator,Neutral,Water 1,,75,Level 38,Base,,,,,,X,X,X,,X
+749,Mudbray,Ground,,Own Tempo,Stamina,Inner Focus,Neutral,Field,,190,,Base,,,,,,X,X,X,,X
+750,Mudsdale,Ground,,Own Tempo,Stamina,Inner Focus,Neutral,Field,,60,Level 30,Base,,,,,,X,X,X,,X
+751,Dewpider,Water,Bug,Water Bubble,,Water Absorb,Neutral,Water 1,Bug,200,,Base,,,,,,X,X,X,,
+752,Araquanid,Water,Bug,Water Bubble,,Water Absorb,Neutral,Water 1,Bug,100,Level 22,Base,,,,,,X,X,X,,
+753,Fomantis,Grass,,Leaf Guard,,Contrary,Neutral,Grass,,190,,Base,,,,,,X,X,X,,X
+754,Lurantis,Grass,,Leaf Guard,,Contrary,Neutral,Grass,,75,"Level 34, Day",Base,,,,,,X,X,X,,X
+755,Morelull,Grass,Fairy,Illuminate,Effect Spore,Rain Dish,Neutral,Grass,,190,,Base,,,,,,X,X,X,,
+756,Shiinotic,Grass,Fairy,Illuminate,Effect Spore,Rain Dish,Neutral,Grass,,75,Level 24,Base,,,,,,X,X,X,,
+757,Salandit,Poison,Fire,Corrosion,,Oblivious,M (87.5%),Monster,Dragon,120,,Base,,,,,,X,X,X,,X
+758,Salazzle,Poison,Fire,Corrosion,,Oblivious,F (100%),Monster,Dragon,45,"Level 33, Female Only",Base,,,,,,X,X,X,,X
+759,Stufful,Normal,Fighting,Fluffy,Klutz,Cute Charm,Neutral,Field,,140,,Base,,,,,,X,X,X,,
+760,Bewear,Normal,Fighting,Fluffy,Klutz,Unnerve,Neutral,Field,,70,Level 27,Base,,,,,,X,X,X,,
+761,Bounsweet,Grass,,Leaf Guard,Oblivious,Sweet Veil,F (100%),Grass,,235,,Base,,,,,,X,X,X,,X
+762,Steenee,Grass,,Leaf Guard,Oblivious,Sweet Veil,F (100%),Grass,,120,Level 18,Base,,,,,,X,X,X,,X
+763,Tsareena,Grass,,Leaf Guard,Queenly Majesty,Sweet Veil,F (100%),Grass,,45,"Level Up, knows Stomo",Base,,,,,,X,X,X,,X
+764,Comfey,Fairy,,Flower Veil,Triage,Natural Cure,F (75%),Grass,,60,N,Base,,,,,,X,X,X,,
+765,Oranguru,Normal,Psychic,Inner Focus,Telepathy,Symbiosis,Neutral,Field,,45,N,Base,,,,,,X,X,X,,X
+766,Passimian,Fighting,,Receiver,,Defiant,Neutral,Field,,45,N,Base,,,,,,X,X,X,,X
+767,Wimpod,Bug,Water,Wimp Out,,,Neutral,Bug,Water 3,90,,Base,,,,,,X,X,X,,
+768,Golisopod,Bug,Water,Emergency Exit,,,Neutral,Bug,Water 3,45,Level 30,Base,,,,,,X,X,X,,
+769,Sandygast,Ghost,Ground,Water Compaction,,Sand Veil,Neutral,Amorphous,,140,,Base,,,,,,X,X,X,,X
+770,Palossand,Ghost,Ground,Water Compaction,,Sand Veil,Neutral,Amorphous,,60,Level 42,Base,,,,,,X,X,X,,X
+771,Pyukumuku,Water,,Innards Out,,Unaware,Neutral,Water 1,,60,N,Base,,,,,,X,X,X,,
+772,Type: Null,Normal,,Battle Armor,,,Neutral,-,,3,,Base,,,,,,X,X,X,,
+773,Silvally,Normal,,RKS System,,,Neutral,-,,3,High Friendship,Base,,,,,,X,X,X,,
+774,Minior,Rock,Flying,Shields Down,,,Neutral,Mineral,,30,N,Base,,,,,,X,X,,,
+775,Komala,Normal,,Comatose,,,Neutral,Field,,45,N,Base,,,,,,X,X,,,X
+776,Turtonator,Fire,Dragon,Shell Armor,,,Neutral,Monster,Dragon,70,N,Base,,,,,,X,X,X,,
+777,Togedemaru,Electric,Steel,Iron Barbs,Lightning Rod,Sturdy,Neutral,Field,Fairy,180,N,Base,,,,,,X,X,X,,
+778,Mimikyu,Ghost,Fairy,DIsguise,,,Neutral,Amorphous,,45,N,Base,,,,,,X,X,X,,X
+779,Bruxish,Water,Psychic,Dazzling,Strong Jaw,Wonder Skin,Neutral,Water 2,,80,N,Base,,,,,,X,X,X,,X
+780,Drampa,Normal,Dragon,Berserk,Sap Sipper,Cloud Nine,Neutral,Monster,Dragon,70,N,Base,,,,,,X,X,X,,
+781,Dhelmise,Ghost,Grass,Steelworker,,,None,Mineral,,25,N,Base,,,,,,X,X,X,,
+782,Jangmo-o,Dragon,Fighting,Bulletproof,Soundproof,Overcoat,Neutral,Dragon,,45,,Base,,,,,,X,X,X,,
+783,Hakamo-o,Dragon,Fighting,Bulletproof,Soundproof,Overcoat,Neutral,Dragon,,45,Level 35,Base,,,,,,X,X,X,,
+784,Kommo-o,Dragon,Fighting,Bulletproof,Soundproof,Overcoat,Neutral,Dragon,,45,Level 45,Base,,,,,,X,X,X,,
+785,Tapu Koko,Electric,Fairy,Electric Surge,,Telepathy,None,-,,3,N,Base,,,,,,X,X,X,,
+786,Tapu Lele,Psychic,Fairy,Psychic Surge,,Telepathy,None,-,,3,N,Base,,,,,,X,X,X,,
+787,Tapu Bulu,Grass,Fairy,Grassy Surge,,Telepathy,None,-,,3,N,Base,,,,,,X,X,X,,
+788,Tapu Fini,Water,Fairy,Misty Surge,,Telepathy,None,-,,3,N,Base,,,,,,X,X,X,,
+789,Cosmog,Psychic,,Unaware,,,None,-,,45,,Base,,,,,,X,X,X,,
+790,Cosmoem,Psychic,,Sturdy,,,None,-,,45,Level 43,Base,,,,,,X,X,X,,
+791,Solgaleo,Psychic,Steel,Full Metal Body,,,None,-,,45,"Level 53 (Sun, U-Sun, Sword)",Base,,,,,,X,X,X,,
+792,Lunala,Psychic,Ghost,Shadow Shield,,,None,-,,45,"Level 53 (Moon, U-Moon, Shield)",Base,,,,,,X,X,X,,
+793,Nihilego,Rock,Poison,Beast Boost,,,None,-,,45,N,Base,,,,,,X,X,X,,
+794,Buzzwole,Bug,Fighting,Beast Boost,,,None,-,,45,N,Base,,,,,,X,X,X,,
+795,Pheromosa,Bug,Fighting,Beast Boost,,,None,-,,45,N,Base,,,,,,X,X,X,,
+796,Xurkitree,Electric,,Beast Boost,,,None,-,,45,N,Base,,,,,,X,X,X,,
+797,Celesteela,Steel,Flying,Beast Boost,,,None,-,,45,N,Base,,,,,,X,X,X,,
+798,Kartana,Grass,Steel,Beast Boost,,,None,-,,45,N,Base,,,,,,X,X,X,,
+799,Guzzlord,Dragon,Dark,Beast Boost,,,None,-,,45,N,Base,,,,,,X,X,X,,
+800,Necrozma,Psychic,,Prisim Armor,,,None,-,,255,N,Base,,,,,,X,X,X,,
+801,Magearna,Steel,Fairy,Soul Heart,,,None,-,,3,N,Base,,,,,,X,X,X,,
+802,Marshadow,Fighting,Ghost,Technician,,,None,-,,3,N,Base,,,,,,X,X,X,,
+803,Poipole,Poison,,Beast Boost,,,None,-,,45,,Base,,,,,,X,X,X,,
+804,Naganadel,Poison,Dragon,Beast Boost,,,None,-,,45,"Level Up, Knows Dragon Pulse",Base,,,,,,X,X,X,,
+805,Stakataka,Rock,Steel,Beast Boost,,,None,-,,30,N,Base,,,,,,X,X,X,,
+806,Blacephalon,Fire,Ghost,Beast Boost,,,None,-,,30,N,Base,,,,,,X,X,X,,
+807,Zerora,Electric,,Volt Absorb,,,None,-,,3,N,Base,,,,,,X,X,X,,
+808,Meltan,Steel,,Magnet Pull,,,None,-,,3,,Base,,,,,,,,X,,
+809,Melmetal,Steel,,Iron Fist,,,None,-,,3,400 Meltan Candy (GO Only),Base,,,,,,,,X,,
+810,Grookey,Grass,,Overgrow,,Grassy Surge,M (87.5%),Field,Grass,45,,Base,,,,,,,,X,,X
+811,Thwackey,Grass,,Overgrow,,Grassy Surge,M (87.5%),Field,Grass,45,Level 16,Base,,,,,,,,X,,X
+812,Rillaboom,Grass,,Overgrow,,Grassy Surge,M (87.5%),Field,Grass,45,Level 35,Base,,,,,,,,X,,X
+813,Scorbunny,Fire,,Blaze,,Libero,M (87.5%),Field,Human-like,45,,Base,,,,,,,,X,,X
+814,Raboot,Fire,,Blaze,,Libero,M (87.5%),Field,Human-like,45,Level 16,Base,,,,,,,,X,,X
+815,Cinderace,Fire,,Blaze,,Libero,M (87.5%),Field,Human-like,45,Level 35,Base,,,,,,,,X,,X
+816,Sobble,Water,,Torrent,,Sniper,M (87.5%),Water 1,Field,45,,Base,,,,,,,,X,,X
+817,Drizzile,Water,,Torrent,,Sniper,M (87.5%),Water 1,Field,45,Level 16,Base,,,,,,,,X,,X
+818,Inteleon,Water,,Torrent,,Sniper,M (87.5%),Water 1,Field,45,Level 35,Base,,,,,,,,X,,X
+819,Skwovet,Normal,,Cheek Pouch,,Gluttony,Neutral,Field,,255,,Base,,,,,,,,X,,X
+820,Greedent,Normal,,Cheek Pouch,,Gluttony,Neutral,Field,,90,Level 24,Base,,,,,,,,X,,X
+821,Rookidee,Flying,,Keen Eye,Unnerve,Big Pecks,Neutral,Flying,,255,,Base,,,,,,,,X,,X
+822,Corvisquire,Flying,,Keen Eye,Unnerve,Big Pecks,Neutral,Flying,,120,Level 18,Base,,,,,,,,X,,X
+823,Corviknight,Flying,Steel,Pressure,Unnerve,Mirror Armor,Neutral,Flying,,45,Level 38,Base,,,,,,,,X,,X
+824,Blipibug,Bug,,Swarm,Compound Eyes,Telepathy,Neutral,Bug,,255,,Base,,,,,,,,X,,
+825,Dottler,Bug,,Swarm,Compound Eyes,Telepathy,Neutral,Bug,,120,Level 10,Base,,,,,,,,X,,
+826,Orbeetle,Bug,Psychic,Swarm,Frisk,Telepathy,Neutral,Bug,,45,Level 30,Base,,,,,,,,X,,
+827,Nickit,Dark,,Run Away,Unburden,Stakeout,Neutral,Field,,255,,Base,,,,,,,,X,,
+828,Theivul,Dark,,Run Away,Unburden,Stakeout,Neutral,Field,,127,Level 18,Base,,,,,,,,X,,
+829,Gossifleur,Grass,,Cotton Down,Regenerator,Effect Spore,Neutral,Grass,,190,,Base,,,,,,,,X,,
+830,Eldegoss,Grass,,Cotton Down,Regenerator,Effect Spore,Neutral,Grass,,75,Level 20,Base,,,,,,,,X,,
+831,Wooloo,Normal,,Fluffy,Run Away,Bulletproof,Neutral,Field,,255,,Base,,,,,,,,X,,
+832,Dubwool,Normal,,Fluffy,Steadfast,Bulletproof,Neutral,Field,,127,Level 24,Base,,,,,,,,X,,
+833,Chewtle,Water,,Strong Jaw,Shell Armor,Swift Swim,Neutral,Monster,Water 1,255,,Base,,,,,,,,X,,X
+834,Drednaw,Water,Rock,Strong Jaw,Shell Armor,Swift Swim,Neutral,Monster,Water 1,75,Level 22,Base,,,,,,,,X,,X
+835,Yamper,Electric,,Ball Fetch,,Rattled,Neutral,Field,,255,,Base,,,,,,,,X,,
+836,Boltund,Electric,,Strong Jaw,,Competitive,Neutral,Field,,45,Level 25,Base,,,,,,,,X,,
+837,Rolycoly,Rock,,Steam Engine,Heatproof,Flash Fire,Neutral,Mineral,,255,,Base,,,,,,,,X,,X
+838,Carkol,Rock,Fire,Steam Engine,Flame Body,Flash Fire,Neutral,Mineral,,120,Level 18,Base,,,,,,,,X,,X
+839,Coalossal,Rock,Fire,Steam Engine,Flame Body,Flash Fire,Neutral,Mineral,,45,Level 34,Base,,,,,,,,X,,X
+840,Applin,Grass,Dragon,Ripen,Gluttony,Bulletproof,Neutral,Grass,Dragon,255,,Base,,,,,,,,X,,X
+841,Flapple,Grass,Dragon,Ripen,Gluttony,Hustle,Neutral,Grass,Dragon,45,Tart Apple,Base,,,,,,,,X,,X
+842,Appletun,Grass,Dragon,Ripen,Gluttony,Thick Fat,Neutral,Grass,Dragon,45,Sweet Apple,Base,,,,,,,,X,,X
+843,Silicobra,Ground,,Sand Spit,Shed Skin,Sand Veil,Neutral,Field,Dragon,255,,Base,,,,,,,,X,,X
+844,Sandaconda,Ground,,Sand Spit,Shed Skin,Sand Veil,Neutral,Field,Dragon,120,Level 36,Base,,,,,,,,X,,X
+845,Cramorant,Flying,Water,Gulp Missile,,,Neutral,Water 1,Flying,45,N,Base,,,,,,,,X,,
+846,Arrokuda,Water,,Swift Swim,,Propeller Tail,Neutral,Water 2,,255,,Base,,,,,,,,X,,X
+847,Barraskewda,Water,,Swift Swim,,Propeller Tail,Neutral,Water 2,,60,Level 26,Base,,,,,,,,X,,X
+848,Toxel,Electric,Poison,Rattled,Static,Klutz,Neutral,-,,75,,Base,,,,,,,,X,,X
+849,Toxtricity A,Electric,Poison,Punk Rock,Plus,Flame Body,Neutral,Human-like,,45,"Level 30, Hardy, Brave, Adamant, Naughty, Docile, Impish, Lax, Hasty, Jolly, Naive, Rash, Sassy, or Quirky.",Base,,,,,,,,X,,X
+849,Toxtricity Low,Poison,Electric,Punk Rock,Minus,Technician,Neutral,Human-Like,,45,"Level 30, Lonely, Bold, Relaxed, Timid, Serious, Modest, Mild, Quiet, Bashful, Calm, Gentle, or Careful.",Alt,,,,,,,,X,,X
+850,Sizzlipede,Fire,Bug,Flash Fire,White Smoke,Flame Body,Neutral,Bug,,190,,Base,,,,,,,,X,,
+851,Centiskorch,Fire,Bug,Flash Fire,White Smoke,Flame Body,Neutral,Bug,,75,Level 28,Base,,,,,,,,X,,
+852,Clobbopus,Fighting,,Limber,,Technician,Neutral,Water 1,Human-like,180,,Base,,,,,,,,X,,
+853,Grapploct,Fighting,,Limber,,Technician,Neutral,Water 1,Human-like,45,"Level Up, Knows Taunt",Base,,,,,,,,X,,
+854,Sinistea,Ghost,,Weak Armor,,Cursed Body,None,Mineral,Amorphous,120,,Base,,,,,,,,X,,X
+855,Polteageist,Ghost,,Weak Armor,,Cursed Body,None,Mineral,Amorphous,60,Cracked or Chipped Pot,Base,,,,,,,,X,,X
+856,Hatenna,Psychic,,Healer,Anticipation,Magic Bounce,F (100%),Fairy,,235,,Base,,,,,,,,X,,X
+857,Hattrem,Psychic,,Healer,Anticipation,Magic Bounce,F (100%),Fairy,,120,Level 32,Base,,,,,,,,X,,X
+858,Hatterene,Psychic,Fairy,Healer,Anticipation,Magic Bounce,F (100%),Fairy,,45,Level 42,Base,,,,,,,,X,,X
+859,Impidimp,Dark,Fairy,Prankster,Frisk,Pickpocket,M (100%),Fairy,Human-like,255,,Base,,,,,,,,X,,X
+860,Morgrem,Dark,Fairy,Prankster,Frisk,Pickpocket,M (100%),Fairy,Human-like,120,Level 32,Base,,,,,,,,X,,X
+861,Grimmsnarl,Dark,Fairy,Prankster,Frisk,Pickpocket,M (100%),Fairy,Human-like,45,Level 42,Base,,,,,,,,X,,X
+862,Obstagoon,Dark,Normal,Reckless,Guts,Defiant,Neutral,Field,,45,"Level 35, Night",Base,,,,,,,,X,,
+863,Perrserker,Steel,,Battle Armor,Tough Claws,Steely Spirit,Neutral,Field,,90,Level 28,Base,,,,,,,,X,,X
+864,Cursola,Ghost,,Weak Armor,,Perish Body,F (75%),Water 1,Water 3,30,Level 38,Base,,,,,,,,X,,
+865,Sirfetch'd,Fighting,,Steadfast,,Scrappy,Neutral,Flying,Field,45,Land 3 Criticals in a battle,Base,,,,,,,,X,,
+866,Mr. Rime,Ice,Fairy,Tangled Feet,Screen Cleaner,Ice Body,Neutral,Human-like,,45,Level 42,Base,,,,,,,,X,,
+867,Runerigus,Ground,Ghost,Wandering Spirit,,,Neutral,Mineral,Amorphous,90,"-49 HP w/out Faint, Dusty Bowl",Base,,,,,,,,X,,
+868,Milcrey,Fairy,,Sweet Veil,,Aroma Veil,F (100%),Fairy,Amorphous,200,,Base,,,,,,,,X,,
+869,Alcremie,Fairy,,Sweet Veil,,Aroma Veil,F (100%),Fairy,Amorphous,100,"Spin Time, Time of Day, Item Dependant",Base,,,,,,,,X,,
+870,Falinks,Fighting,,Battle Armor,,Defiant,None,Fairy,Mineral,45,N,Base,,,,,,,,X,,X
+871,Pinurchin,Electric,,Lightning Rod,,Electric Surge,Neutral,Water 1,Amorphous,75,N,Base,,,,,,,,X,,X
+872,Snom,Ice,Bug,Shield Dust,,Ice Scales,Neutral,Bug,,190,,Base,,,,,,,,X,,X
+873,Frosmoth,Ice,Bug,Shield Dust,,Ice Scales,Neutral,Bug,,75,"High Friendship, Night",Base,,,,,,,,X,,X
+874,Stonjourner,Rock,,Power Spot,,,Neutral,Mineral,,60,N,Base,,,,,,,,X,,X
+875,Eiscue,Ice,,Ice Face,,,Neutral,Water 1,Field,60,N,Base,,,,,,,,X,,X
+876,M Indeedee,Psychic,,Inner Focus,Synchronize,Psychic Surge,M (100%),Fairy,,30,N,Base,,,,,,,,X,,X
+876,F Indeedee,Psychic,Normal,Own Tempo,Synchronize,Psychic Surge,F (100%),Fairy,,30,N,Alt,,,,,,,,X,,X
+877,Morpeko,Electric,Dark,Hunger Switch,,,Neutral,Field,Fairy,180,N,Base,,,,,,,,X,,
+878,Cufant,Steel,,Sheer Force,,Heavy Metal,Neutral,Field,Mineral,190,,Base,,,,,,,,X,,X
+879,Copperajah,Steel,,Sheer Force,,Heavy Metal,Neutral,Field,Mineral,90,Level 34,Base,,,,,,,,X,,X
+880,Dracozolt,Electric,Dragon,Volt Absorb,Hustle,Sand Rush,None,-,,45,N,Base,,,,,,,,X,,
+881,Arctozolt,Electric,Ice,Volt Absorb,Static,Slush Rush,None,-,,45,N,Base,,,,,,,,X,,
+882,Dracovish,Water,Dragon,Water Absorb,Strong Jaw,Sand Rush,None,-,,45,N,Base,,,,,,,,X,,
+883,Arctovish,Water,Ice,Water Absorb,Ice Body,Slush Rush,None,-,,45,N,Base,,,,,,,,X,,
+884,Duraludon,Steel,Dragon,Light Metal,Heavy Metal,Stalwart,Neutral,Mineral,Dragon,45,N,Base,,,,,,,,X,,
+885,Dreepy,Dragon,Ghost,Clear Body,Infiltrator,Cursed Body,Neutral,Amorphous,Dragon,45,,Base,,,,,,,,X,,X
+886,Drakloak,Dragon,Ghost,Clear Body,Infiltrator,Cursed Body,Neutral,Amorphous,Dragon,45,Level 50,Base,,,,,,,,X,,X
+887,Dragapult,Dragon,Ghost,Clear Body,Infiltrator,Cursed Body,Neutral,Amorphous,Dragon,45,Level 60,Base,,,,,,,,X,,X
+888,Zacian (H),Fairy,,Intrepid Sword,,,None,-,,10,N,Base,,,,,,,,X,,X
+889,Zamazenta (H),Fighting,,Dauntless Shield,,,None,-,,10,N,Base,,,,,,,,X,,X
+890,Eternatus,Poison,Dragon,Pressure,,,None,-,,255,N,Base,,,,,,,,X,,X
+891,Kubfu,Fighting,,Inner Focus,,,M (87.5%),-,,3,,Base,,,,,,,,X,,X
+892,Urshifu SS,Fighting,Dark,Unseen Fist,,,M (87.5%),-,,3,"Level 30, Darkness Scroll",Base,,,,,,,,X,,X
+893,Zarude,Grass,,Leaf Guard,,,None,-,,3,N,Base,,,,,,,,X,,X
+894,Regieleki,Electric,,Transistor,,,None,-,,3,N,Base,,,,,,,,X,,X
+895,Regidrago,Dragon,,Dragon's Maw,,,None,-,,3,N,Base,,,,,,,,X,,X
+896,Glastrier,Ice,,Chilling Neigh,,,None,-,,3,N,Base,,,,,,,,X,,X
+897,Spectrier,Ghost,,Grim Neigh,,,None,-,,3,N,Base,,,,,,,,X,,X
+898,Calyrex,Grass,Psychic,Unnerve,,,None,-,,3,N,Base,,,,,,,,X,,X
+899,Wyrdeer,Normal,Psychic,Intimidate,Frisk,Sap Sipper,Neutral,Field,,?,Agile Psyshield Bash x20,Base,,,,,,,,,,X
+900,Kleavor,Bug,Rock,Swarm,Sheer Force,Sharpness,Neutral,Bug,,?,Black Augerite,Base,,,,,,,,,,X
+901,Ursaluna,Normal,Ground,Guts,Bulletproof,Unnerve,Neutral,Field,,?,"Peat Block, Full Moon",Base,,,,,,,,,,X
+902,MBasculegion,Water,Ghost,Rattled,Adaptability,Mold Breaker,M (100%),Water 2,,?,"M, Recoil 294 HP w/out Faint",Base,,,,,,,,,,X
+903,Sneasler,Poison,Fighting,Pressure,,Poison Touch,Neutral,Field,,?,Razor Claw during the Day,Base,,,,,,,,,,X
+904,Overqwil,Poison,Dark,Poison Point,Swift Swim,Intimidate,Neutral,Water 2,,?,Strong Barb Barrage x20,Base,,,,,,,,,,X
+905,Enamorus,Fairy,Flying,Healer,,Contrary,F (100%),-,,?,N,Base,,,,,,,,,,X
+906,Sprigatito,Grass,,Overgrow,,Protean,M (87.5%),Field,Grass,45,,Base,,,,,,,,,,X
+907,Floragato,Grass,,Overgrow,,Protean,M (87.5%),Field,Grass,45,Level 16,Base,,,,,,,,,,X
+908,Meowscarada,Grass,Dark,Overgrow,,Protean,M (87.5%),Field,Grass,45,Level 36,Base,,,,,,,,,,X
+909,Fuecoco,Fire,,Blaze,,Unaware,M (87.5%),Field,,45,,Base,,,,,,,,,,X
+910,Crocalor,Fire,,Blaze,,Unaware,M (87.5%),Field,,45,Level 16,Base,,,,,,,,,,X
+911,Skeledirge,Fire,Ghost,Blaze,,Unaware,M (87.5%),Field,,45,Level 36,Base,,,,,,,,,,X
+912,Quaxly,Water,,Torrent,,Moxie,M (87.5%),Flying,Water 1,45,,Base,,,,,,,,,,X
+913,Quaxwell,Water,,Torrent,,Moxie,M (87.5%),Flying,Water 1,45,Level 16,Base,,,,,,,,,,X
+914,Quaquaval,Water,Fighting,Torrent,,Moxie,M (87.5%),Flying,Water 1,45,Level 36,Base,,,,,,,,,,X
+915,Lechonk,Normal,,Aroma Veil,Gluttony,Thick Fat,Neutral,Field,,255,,Base,,,,,,,,,,X
+916,Oinkologne-M,Normal,,Lingering Aroma,Gluttony,Thick Fat,M (100%),Field,,100,"Level 18, Male",Base,,,,,,,,,,X
+917,Tarountula,Bug,,Insomnia,,Stakeout,Neutral,Bug,,255,,Base,,,,,,,,,,X
+918,Spidops,Bug,,Insomnia,,Stakeout,Neutral,Bug,,120,Level 15,Base,,,,,,,,,,X
+919,Nymble,Bug,,Swarm,,Tinted Lens,Neutral,Bug,,190,,Base,,,,,,,,,,X
+920,Lokix,Bug,Dark,Swarm,,Tinted Lens,Neutral,Bug,,30,Level 24,Base,,,,,,,,,,X
+921,Pawmi,Electric,,Static,Natural Cure,Iron Fist,Neutral,Field,,190,,Base,,,,,,,,,,X
+922,Pawmot,Electric,Fighting,Volt Absorb,Natural Cure,Iron Fist,Neutral,Field,,80,Level 18,Base,,,,,,,,,,X
+923,Pawmot,Electric,Fighting,Volt Absorb,Natural Cure,Iron Fist,Neutral,Field,,45,"Let's Go, 1000 Steps",Base,,,,,,,,,,X
+924,Tandemaus,Normal,,Run Away,Pickup,Own Tempo,None,Field,Fairy,150,,Base,,,,,,,,,,X
+925,Maushold,Normal,,Friend Huard,Cheek Pouch,Technician,None,Field,Fairy,75,Level 25,Base,,,,,,,,,,X
+926,Fidough,Fairy,,Own Tempo,,Klutz,Neutral,Field,Mineral,190,,Base,,,,,,,,,,X
+927,Dashbun,Fairy,,Well-Baked Body,,Aroma Veil,Neutral,Field,Mineral,90,Level 26,Base,,,,,,,,,,X
+928,Smoliv,Grass,Normal,Early Bird,,Harvest,Neutral,Grass,,255,,Base,,,,,,,,,,X
+929,Dolliv,Grass,Normal,Early Bird,,Harvest,Neutral,Grass,,120,Level 25,Base,,,,,,,,,,X
+930,Arboliva,Grass,Normal,Seed Sower,,Harvest,Neutral,Grass,,45,Level 35,Base,,,,,,,,,,X
+931,Squawkabilly,Normal,Flying,Intimidate,Hustle,Sheer Force,Neutral,Flying,,190,N,Base,,,,,,,,,,X
+932,Nacli,Rock,,Purifying Salt,Sturdy,Clear Body,Neutral,Mineral,,255,,Base,,,,,,,,,,X
+933,Naclstack,Rock,,Purifying Salt,Sturdy,Clear Body,Neutral,Mineral,,120,Level 24,Base,,,,,,,,,,X
+934,Gargancl,Rock,,Purifying Salt,Sturdy,Clear Body,Neutral,Mineral,,45,Level 38,Base,,,,,,,,,,X
+935,Charcadet,Fire,,Flash Fire,,Flame Body,Neutral,Human-Like,,90,,Base,,,,,,,,,,X
+936,Armarouge,Fire,Psychic,Flash Fire,,Flame Body,Neutral,Human-Like,,25,Auspicious Armor,Base,,,,,,,,,,X
+937,Ceruledge,Fire,Ghost,Flash Fire,,Flame Body,Neutral,Human-Like,,25,Malicious Armor,Base,,,,,,,,,,X
+938,Tadbulb,Electric,,Own Tempo,Static,Damp,Neutral,Water 1,,190,,Base,,,,,,,,,,X
+939,Bellibolt,Electric,,Electromorphosis,Static,Damp,Neutral,Water 1,,50,Thunder Stone,Base,,,,,,,,,,X
+940,Wattrel,Flying,Electric,Wind Power,Volt Absorb,Competitive,Neutral,Water 1,Flying,180,,Base,,,,,,,,,,X
+941,Kilowattrel,Flying,Electric,Wind Power,Volt Absorb,Competitive,Neutral,Water 1,Flying,90,Level 25,Base,,,,,,,,,,X
+942,Maschiff,Dark,,Intimidate,Run Away,Stakeout,Neutral,Field,,150,,Base,,,,,,,,,,X
+943,Mabosstiff,Dark,,Intimidate,Guard Dog,Stakeout,Neutral,Field,,75,Level 30,Base,,,,,,,,,,X
+944,Shroodle,Poison,Normal,Unburden,Pickpocket,Prankster,Neutral,Field,,190,,Base,,,,,,,,,,X
+945,Grafaiai,Poison,Normal,Unburden,Pickpocket,Prankster,Neutral,Field,,90,Level 28,Base,,,,,,,,,,X
+946,Bramblin,Grass,Ghost,Wind Rider,,Infiltrator,Neutral,Grass,,190,,Base,,,,,,,,,,X
+947,Brambleghast,Grass,Ghost,Wind Rider,,Infiltrator,Neutral,Grass,,45,"Let's Go, 1000 Steps",Base,,,,,,,,,,X
+948,Toedscool,Grass,Ground,Mycelium Might,,,Neutral,Grass,,190,,Base,,,,,,,,,,X
+949,Toedscruel,Grass,Ground,Mycelium Might,,,Neutral,Grass,,90,Level 30,Base,,,,,,,,,,X
+950,Klawf,Rock,,Anger Shell,Shell Armor,Regenerator,Neutral,Water 3,,120,N,Base,,,,,,,,,,X
+951,Capsakid,Grass,Fire,Chlorophyll,Insomnia,Klutz,Neutral,Grass,,190,,Base,,,,,,,,,,X
+952,Scovillain,Grass,Fire,Chlorophyll,Insomnia,Moody,Neutral,Grass,,75,Fire Stone,Base,,,,,,,,,,X
+953,Rellor,Bug,,Compound Eyes,,Shed Skin,Neutral,Bug,,190,,Base,,,,,,,,,,X
+954,Rabsca,Bug,Psychic,Synchronize,,Telepathy,Neutral,Bug,,45,"Level, Let's Go 1000 Steps",Base,,,,,,,,,,X
+955,Flittle,Psychic,,Anticipation,Frisk,Speed Boost,Neutral,Flying,,120,,Base,,,,,,,,,,X
+956,Espathra,Psychic,,Opportunist,Frisk,Speed Boost,Neutral,Flying,,60,Level 35,Base,,,,,,,,,,X
+957,Tinkatink,Fairy,Steel,Mold Breaker,Own Tempo,Pickpocket,F (100%),Fairy,,190,,Base,,,,,,,,,,X
+958,Tinkatuff,Fairy,Steel,Mold Breaker,Own Tempo,Pickpocket,F (100%),Fairy,,90,Level 24,Base,,,,,,,,,,X
+959,Tinkaton,Fairy,Steel,Mold Breaker,Own Tempo,Pickpocket,F (100%),Fairy,,45,Level 38,Base,,,,,,,,,,X
+960,Wiglett,Water,,Gooey,Rattled,Sand Veil,Neutral,Water 3,,255,,Base,,,,,,,,,,X
+961,Wugtrio,Water,,Gooey,Rattled,Sand Veil,Neutral,Water 3,,50,Level 26,Base,,,,,,,,,,X
+962,Bombirdier,Flying,Dark,Big Pecks,Keen Eye,Rocky Payload,Neutral,Flying,,25,N,Base,,,,,,,,,,X
+963,Finizen,Water,,Water Veil,,,Neutral,Field,Water 2,200,,Base,,,,,,,,,,X
+964,Palafin,Water,,Zero to Hero,,,Neutral,Field,Water 2,45,"Level 38, Multiplayer",Base,,,,,,,,,,X
+965,Varoom,Poison,Steel,Overcoat,,Slow Start,Neutral,Mineral,,190,,Base,,,,,,,,,,X
+966,Revaroom,Poison,Steel,Overcoat,,Filter,Neutral,Mineral,,75,Level 40,Base,,,,,,,,,,X
+967,Cyclizar,Dragon,Normal,Shed Skin,,Regenerator,Neutral,Field,,190,N,Base,,,,,,,,,,X
+968,Orthworm,Steel,,Earth Eater,,Sand Veil,Neutral,Field,,25,N,Base,,,,,,,,,,X
+969,Glimmet,Poison,Rock,Toxic Debris,,Corrosion,Neutral,Mineral,,70,,Base,,,,,,,,,,X
+970,Glimmora,Poison,Rock,Toxic Debris,,Corrosion,Neutral,Mineral,,25,Level 35,Base,,,,,,,,,,X
+971,Greavard,Ghost,,Pickup,,Fluffy,Neutral,Field,,120,,Base,,,,,,,,,,X
+972,Houndstone,Ghost,,Sand Rush,,Fluffy,Neutral,Field,,60,"Level 30, Night",Base,,,,,,,,,,X
+973,Flamigo,Flying,Fighting,Scrappy,Tangled Feet,Costar,Neutral,Flying,,100,N,Base,,,,,,,,,,X
+974,Cetoddle,Ice,,Thick Fat,Snow Cloak,Sheer Force,Neutral,Field,,150,,Base,,,,,,,,,,X
+975,Cetitan,Ice,,Thick Fat,Slush Rush,Sheer Force,Neutral,Field,,50,Ice Stone,Base,,,,,,,,,,X
+976,Veluza,Water,Psychic,Mold Breaker,,Sharpness,Neutral,Water 2,,100,N,Base,,,,,,,,,,X
+977,Dondozo,Water,,Unaware,Oblivious,Water Veil,Neutral,Water 2,,25,N,Base,,,,,,,,,,X
+978,Tatsugiri,Dragon,Water,Commander,,Storm Drain,Neutral,Water 2,,100,N,Base,,,,,,,,,,X
+979,Annihilape,Fighting,Ghost,Vital Spirit,Inner Focus,Defiant,Neutral,Field,,45,Use Rage Fist 20 times,Base,,,,,,,,,,X
+980,Clodsire,Poison,Ground,Poison Point,Water Absorb,Unaware,Neutral,Water 1,Field,90,Level 20,Base,,,,,,,,,,X
+981,Farigaraf,Normal,Psychic,Cud Chew,Armor Tail,Sap Sipper,Neutral,Field,,45,"Level, knows Twin Beam",Base,,,,,,,,,,X
+982,Dudunsparce,Normal,,Serene Grace,Run Away,Rattled,Neutral,Field,,45,"Level, knows Hyper Drill",Base,,,,,,,,,,X
+983,Kingambit,Dark,Steel,Defiant,Supreme Overlord,Pressure,Neutral,Human-Like,,25,"Level, Defeat 3 Bisharp packs",Base,,,,,,,,,,X
+984,Great Tusk,Ground,Fighting,Protosynthesis,,,None,-,,30,N,Base,,,,,,,,,,X
+985,Scream Tail,Fairy,Psychic,Protosynthesis,,,None,-,,50,N,Base,,,,,,,,,,X
+986,Brute Bonnet,Grass,Dark,Protosynthesis,,,None,-,,50,N,Base,,,,,,,,,,X
+987,Flutter Mane,Ghost,Fairy,Protosynthesis,,,None,-,,30,N,Base,,,,,,,,,,X
+988,Slither Wing,Bug,Fighting,Protosynthesis,,,None,-,,30,N,Base,,,,,,,,,,X
+989,Sandy Shocks,Electric,Ground,Protosynthesis,,,None,-,,30,N,Base,,,,,,,,,,X
+990,Iron Treads,Ground,Steel,Quark Drive,,,None,-,,30,N,Base,,,,,,,,,,X
+991,Iron Bundle,Ice,Water,Quark Drive,,,None,-,,50,N,Base,,,,,,,,,,X
+992,Iron Hands,Fighting,Electric,Quark Drive,,,None,-,,50,N,Base,,,,,,,,,,X
+993,Iron Jugulis,Dark,Flying,Quark Drive,,,None,-,,30,N,Base,,,,,,,,,,X
+994,Iron Moth,Fire,Poison,Quark Drive,,,None,-,,30,N,Base,,,,,,,,,,X
+995,Iron Thorns,Rock,Electric,Quark Drive,,,None,-,,30,N,Base,,,,,,,,,,X
+996,Frigibax,Dragon,Ice,Thermal Exchange,,Ice Body,Neutral,Dragon,Mineral,45,,Base,,,,,,,,,,X
+997,Arctibax,Dragon,Ice,Thermal Exchange,,Ice Body,Neutral,Dragon,Mineral,25,Level 35,Base,,,,,,,,,,X
+998,Baxcalibur,Dragon,Ice,Thermal Exchange,,Ice Body,Neutral,Dragon,Mineral,10,Level 54,Base,,,,,,,,,,X
+999,Gimmighoul (Chest),Ghost,,Rattled,,,None,-,,45,,Base,,,,,,,,,,X
+1000,Gholdengo,Ghost,Steel,Good as Gold,,,None,-,,45,"Level, 999 Gimmighoul Coins",Base,,,,,,,,,,X
+1001,Wo-Chien,Dark,Grass,Tablets of Ruin,,,None,-,,6,N,Base,,,,,,,,,,X
+1002,Chien-Pao,Dark,Ice,Sword of Ruin,,,None,-,,6,N,Base,,,,,,,,,,X
+1003,Ting-Lu,Dark,Ground,Vessle of Ruin,,,None,-,,6,N,Base,,,,,,,,,,X
+1004,Chi-Yu,Dark,Fire,Beads of Ruin,,,None,-,,6,N,Base,,,,,,,,,,X
+1005,Roaring Moon,Dragon,Dark,Protosynthesis,,,None,-,,10,N,Base,,,,,,,,,,X
+1006,Iron Valiant,Fighting,Fairy,Quark Drive,,,None,-,,10,N,Base,,,,,,,,,,X
+1007,Koraidon,Fighting,Dragon,Orichalcum Pulse,,,None,-,,3,N,Base,,,,,,,,,,X
+1008,Miraidon,Electric,Dragon,Hadron Engine,,,None,-,,3,N,Base,,,,,,,,,,X
+1009,Walking Wake,Water,Dragon,Protosynthesis,,,None,-,,5,N,Base,,,,,,,,,,
+1010,Iron Leaves,Grass,Psychic,Quark Drive,,,None,-,,5,N,Base,,,,,,,,,,
+1011,Ogerpon,,,,,,,,,,N,Base,,,,,,,,,,
+1012,Okidogi,,,,,,,,,,N,Base,,,,,,,,,,
+1013,Munkidori,,,,,,,,,,N,Base,,,,,,,,,,
+1014,Fezandipiti,,,,,,,,,,N,Base,,,,,,,,,,
+1015,Terapagos,,,,,,None,,,,N,Base,,,,,,,,,,
+,Dipplin,Grass,Dragon,Supersweet Syrup,Gluttony,,,,,,,Base,,,,,,,,,,
+,Archaludon,Steel,Dragon,Stamina,Sturdy,,,,,,,Base,,,,,,,,,,
+,Raging Bolt,,,,,,,,,,,Base,,,,,,,,,,
+,Iron Crown,,,,,,,,,,,Base,,,,,,,,,,
+,Paradox Entei,,,,,,,,,,,Base,,,,,,,,,,
+,Paradox Terrakion,,,,,,,,,,,Base,,,,,,,,,,
