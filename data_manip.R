@@ -149,7 +149,3 @@ return_breeding_steps <- function(df, paths, start_pkmn, finish_pkmn) {
   }
   return(all_pkmn_path)
 }
-
-# Test Group
-
-get_pkmn_by_gen()
