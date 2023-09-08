@@ -4,6 +4,12 @@ library('rlist')
 
 # Functions to create lookup tables for paths
 
+# Filter table to only include selected gen/game data
+filter_pkmn_data <- function(df, generation) {
+  new_df <- df[df[generation]=='X',]
+  return (new_df)
+}
+
 # Get list of unique egg group possibilities
 get_egg_group_list <- function (df) {
     # Get list of all egg group combinations
@@ -133,7 +139,4 @@ return_breeding_steps <- function(df, paths, start_pkmn, finish_pkmn) {
 # Test Group
 
 df <- read.csv('pokemon.csv')
-obj <- get_egg_group_steps(df)[[1]]
-result <- get_shortest_path(df, "Pikachu", "Grimer")
-result2 <- return_breeding_steps(df, result, 'Pikachu','Grimer')
-
+new_df <- filter_pkmn_data(df, 'GenII')
