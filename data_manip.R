@@ -109,14 +109,13 @@ return_breeding_steps <- function(df, paths, start_pkmn, finish_pkmn) {
   # Only need length to determine path(s)
   start_l <- length(df[df$Pokemon == start_pkmn,'EggGroupList'][[1]])
   finish_l <- length(df[df$Pokemon == finish_pkmn,'EggGroupList'][[1]])
-  print(start_l)
   all_pkmn_path <- c()
 
   # Get each group of pkmn for each element of path
   for (path in paths) {
     # Init path
     pkmn_path <- c()
-    for (i in start_l:length(path)-1) {
+    for (i in start_l:(length(path)-1)) {
       # Get Pokemon in group for each step in path
       group1 <- path[[i]]
       group2 <- path[[i+1]]
@@ -126,7 +125,7 @@ return_breeding_steps <- function(df, paths, start_pkmn, finish_pkmn) {
       pkmn_path <- c(pkmn_path, list(pkmn_in_group))
     }
     # Add pkmn to path
-    all_pkmn_path <- c(all_pkmn_path, pkmn_path)
+    all_pkmn_path <- c(all_pkmn_path, list(pkmn_path))
   }
   return(all_pkmn_path)
 }
