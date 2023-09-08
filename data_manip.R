@@ -6,8 +6,22 @@ library('rlist')
 
 # Filter table to only include selected gen/game data
 filter_pkmn_data <- function(df, generation) {
-  new_df <- df[df[generation]=='X',]
+  new_df <- df[df[generation]=='X' & df$EggGroupI != '-'
+               & df['Gender'] != 'None',]
   return (new_df)
+}
+
+# Export list of Pkmn by game/generation
+get_pkmn_by_gen <- function() {
+  # Import direct from csv
+  df <- read.csv('pokemon.csv')
+  generation_list <- c('GenII', 'GenIII', 'GenIV', 'GenV', 'GenVI',
+                       'GenVI','SunMoon','ORAS','SwSh','BDSP','SV')
+  for (item in generation_list) {
+    new_df <- filter_pkmn_data(df, item)
+    file_name <- paste0('gen_data/', item, '.csv')
+    write.csv(new_df[c('Nat','Pokemon')], file_name)
+  }
 }
 
 # Get list of unique egg group possibilities
@@ -138,5 +152,4 @@ return_breeding_steps <- function(df, paths, start_pkmn, finish_pkmn) {
 
 # Test Group
 
-df <- read.csv('pokemon.csv')
-new_df <- filter_pkmn_data(df, 'GenII')
+get_pkmn_by_gen()
