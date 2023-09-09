@@ -149,3 +149,56 @@ return_breeding_steps <- function(df, paths, start_pkmn, finish_pkmn) {
   }
   return(all_pkmn_path)
 }
+
+# Returns breeding egg groups and steps as human readable text
+return_steps_as_text <- function(df, start_pkmn, finish_pkmn) {
+  
+  # Get egg group paths
+  egg_group_lists <- get_shortest_path(df, start_pkmn, finish_pkmn)
+  print(egg_group_lists)
+  print(length(egg_group_lists[[1]]))
+  if (length(egg_group_lists[[1]]) <= 2) {
+    final_UI_string <- paste0("<div class='container'>
+                              <div class='row'>
+                              <h2>", start_pkmn, " and ",
+                              finish_pkmn, " are directly compatible.</h2>
+                              </div>
+                              </div>")
+  } else {
+    # Get pkmn by egg group paths
+    pkmn_lists <- return_breeding_steps(df, egg_group_lists, start_pkmn, finish_pkmn)
+    print(egg_group_lists)
+    print(pkmn_lists)
+    
+    # Get minimum number of breeding steps
+    actual_steps <- length(pkmn_lists[[1]])
+    length_of_list <- length(egg_group_lists[[1]])
+    print(actual_steps)
+    print(length_of_list)
+    
+    # Init HTML string for UI
+    final_UI_string <- "<div class='container'>"
+    
+    # Iterate to generate text
+    for (i in 1:length(egg_group_lists)) {
+      text_egg_group_steps <- paste(egg_group_lists[[i]][(length_of_list-actual_steps):length_of_list], collapse=' -> ')
+      text_egg_group_steps <- paste0("Path ", i, ": ", text_egg_group_steps)
+      final_UI_string <- paste0(final_UI_string, "<div class='row'><h2>", text_egg_group_steps, "</h2></div>")
+      for (j in 1:length(pkmn_lists[[i]])) {
+        pkmn_sublist <- paste(pkmn_lists[[i]][[j]], collapse=', ')
+        pkmn_sublist <- paste0("<div class='row'><h3>Step ", j, ": Breed into..</h3></div><div class='row'><p>", pkmn_sublist, "</p></div>")
+        print(pkmn_sublist)
+        final_UI_string <- paste0(final_UI_string, pkmn_sublist)
+      }
+    }
+    
+    final_UI_string <- paste0(final_UI_string, "</div>")  
+  }
+  
+  return (final_UI_string)
+}
+
+df <- read.csv('Pokemon.csv')
+
+result <- return_steps_as_text(df, 'Caterpie', 'Ralts')
+print(result)
