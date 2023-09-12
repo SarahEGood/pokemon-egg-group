@@ -5,9 +5,13 @@ library('rlist')
 # Functions to create lookup tables for paths
 
 # Filter table to only include selected gen/game data
-filter_pkmn_data <- function(df, generation) {
+filter_pkmn_data <- function(df, generation, hidden_ability="") {
   new_df <- df[df[generation]=='X' & df$EggGroupI != '-'
                & df['Gender'] != 'None',]
+  # Filter to hidden ability if able
+  if (!is.null(hidden_ability) & hidden_ability != "") {
+    new_df <- new_df[new_df["HiddenAbility"] == hidden_ability,]
+  }
   return (new_df)
 }
 
@@ -20,14 +24,18 @@ get_pkmn_by_gen <- function() {
   for (item in generation_list) {
     new_df <- filter_pkmn_data(df, item)
     file_name <- paste0('gen_data/', item, '.csv')
-    write.csv(new_df[c('Nat','Pokemon')], file_name)
+    write.csv(new_df[c('Nat','Pokemon',"HiddenAbility")], file_name)
   }
 }
 
 # Get list of unique egg group possibilities
-get_egg_group_list <- function (df) {
+get_egg_group_list <- function (df, hidden_ability=NULL) {
     # Get list of all egg group combinations
-    egg_groups <- df %>% select('Pokemon', 'EggGroupI', 'EggGroupII')
+    egg_groups <- df %>% select('Pokemon', 'EggGroupI', 'EggGroupII', 'HiddenAbility')
+    # Filter to only pkmn with hidden ability (if selected)
+    if (!is.null(hidden_ability) & hidden_ability != "") {
+      egg_groups <- egg_groups[egg_groups$HiddenAbility == hidden_ability,]
+    }
     # Remove NA values
     egg_groups <- subset(egg_groups, egg_groups$EggGroupI != "-" & !is.na(egg_groups$EggGroupI) & egg_groups$EggGroupI != "")
     # Listify egg groups
@@ -39,14 +47,20 @@ get_egg_group_list <- function (df) {
 }
 
 # Get shortest path between each egg group
-get_shortest_path <- function(df, start_pkmn, finish_pkmn) {
+get_shortest_path <- function(df, start_pkmn, finish_pkmn, hidden_ability=NULL) {
   # Note for later: Filter generation in previous step
   # Load data
-  obj <- get_egg_group_list(df)
+  obj <- get_egg_group_list(df, hidden_ability = hidden_ability)
   df <- obj[[1]]
+  df_test2 <<- df
   all_groups <- obj[[2]]
   single_groups <- as.list(read.csv('egg_groups.csv'))
+  # Filter to hidden ability if exists
+  if (!is.null(hidden_ability) & hidden_ability != "") {
+    df <- df[df$HiddenAbility == hidden_ability,]
+  }
   # Get Pkmn egg group
+  df_test <<- df
   start <- df[df$Pokemon == start_pkmn,'EggGroupList'][[1]]
   finish <- df[df$Pokemon == finish_pkmn,'EggGroupList'][[1]]
   # Remove nulls (if Pokemon belongs to single egg group)
@@ -60,6 +74,8 @@ get_shortest_path <- function(df, start_pkmn, finish_pkmn) {
   if (length(unique(unlist(c(start, finish)))) < length(unlist(c(start, finish)))) {
     overlap_flag <- TRUE
   }
+  # Counter for cases where a path doesn't exist (i.e. too specific of params)
+  termination_counter = 1
   # If groups don't immediately overlap, search for path
   while (!overlap_flag) {
     # Init new paths var (so as not to duplicate shorter paths)
@@ -107,6 +123,13 @@ get_shortest_path <- function(df, start_pkmn, finish_pkmn) {
     # Assign new paths to main variable
     paths <- new_paths
     # Remove paths that contain 
+    # break loop if a path can't be found after 7 iterations
+    if (termination_counter > 6 & overlap_flag == FALSE) {
+      print(paste("counter: ", termination_counter))
+      return (NULL)
+    } else {
+      termination_counter <- termination_counter + 1
+    }
   }
   print("Loop has broken")
   # Remove paths except for ones that have a finishing egg group
@@ -122,9 +145,12 @@ get_shortest_path <- function(df, start_pkmn, finish_pkmn) {
 # df = pokemon dataframe
 # paths = paths from get_shortest_path()
 # start_pkmn and finish_pkmn = starting and finishing pkmn
-return_breeding_steps <- function(df, paths, start_pkmn, finish_pkmn) {
-  obj <- get_egg_group_list(df)
+return_breeding_steps <- function(df, paths, start_pkmn, finish_pkmn, hidden_ability=NULL) {
+  obj <- get_egg_group_list(df, hidden_ability=hidden_ability)
   df <- obj[[1]]
+  if (!is.null(hidden_ability) & hidden_ability != "") {
+    df <- df[df$HiddenAbility == hidden_ability,]
+  }
   # Get Egg Groups amount for each pkmn
   # Only need length to determine path(s)
   start_l <- length(df[df$Pokemon == start_pkmn,'EggGroupList'][[1]])
@@ -151,10 +177,22 @@ return_breeding_steps <- function(df, paths, start_pkmn, finish_pkmn) {
 }
 
 # Returns breeding egg groups and steps as human readable text
-return_steps_as_text <- function(df, start_pkmn, finish_pkmn) {
+return_steps_as_text <- function(df, start_pkmn, finish_pkmn, hidden_ability = NULL) {
   
   # Get egg group paths
-  egg_group_lists <- get_shortest_path(df, start_pkmn, finish_pkmn)
+  egg_group_lists <- get_shortest_path(df, start_pkmn, finish_pkmn, hidden_ability)
+  if (!isTruthy(egg_group_lists)) {
+    final_UI_string <- paste0("<div class='container'>
+                              <div class='row'>
+                              <h2>No path between ", start_pkmn, " and ",
+                              finish_pkmn, " exists.</h2>
+                              </div>
+                              <div class='row'>
+                              <p>Your search criteria was probably too specific.</p>
+                              </div>
+                              </div>")
+    return (final_UI_string)
+  }
   print(egg_group_lists)
   print(length(egg_group_lists[[1]]))
   if (length(egg_group_lists[[1]]) <= 2) {
@@ -200,5 +238,5 @@ return_steps_as_text <- function(df, start_pkmn, finish_pkmn) {
 
 df <- read.csv('Pokemon.csv')
 
-result <- return_steps_as_text(df, 'Caterpie', 'Ralts')
+result <- return_steps_as_text(df, 'Gloom', 'Koffing', hidden_ability = 'Stench')
 print(result)
