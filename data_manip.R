@@ -236,7 +236,7 @@ return_steps_as_text <- function(df, start_pkmn, finish_pkmn, hidden_ability = N
   return (final_UI_string)
 }
 
-df <- read.csv('Pokemon.csv')
+#df <- read.csv('pokemon.csv')
 
-result <- return_steps_as_text(df, 'Gloom', 'Koffing', hidden_ability = 'Stench')
-print(result)
+#result <- return_steps_as_text(df, 'Gloom', 'Koffing', hidden_ability = 'Stench')
+#print(result)
