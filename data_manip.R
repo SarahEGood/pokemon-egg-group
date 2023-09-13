@@ -40,8 +40,6 @@ get_egg_group_list <- function (df, hidden_ability=NULL) {
     if (!is.null(hidden_ability) && (hidden_ability != "")) {
       egg_groups <- egg_groups[egg_groups$HiddenAbility == hidden_ability,]
     }
-    # Filter to pkmn that can be female
-    egg_groups <- egg_groups[egg_groups$Gender != 'M (100%)',]
     # Remove NA values
     egg_groups <- subset(egg_groups, egg_groups$EggGroupI != "-"
                          & !is.na(egg_groups$EggGroupI)
@@ -175,17 +173,19 @@ return_egggroup_num <- function(df, pkmn) {
 return_breeding_steps <- function(df, paths, start_pkmn, finish_pkmn, hidden_ability=NULL) {
   obj <- get_egg_group_list(df, hidden_ability=hidden_ability)
   df <- obj[[1]]
-  # Filter out male-only pkmn and filter to hidden ability
-  df <- df[df$Gender != 'M (100%)',]
-  if (!is.null(hidden_ability) && (hidden_ability != "")) {
-    df <- df[df$HiddenAbility == hidden_ability,]
-  }
+
   # Get Egg Groups amount for each pkmn
   # Only need length to determine path(s)
   start_l <- return_egggroup_num(df, start_pkmn)
   finish_l <- return_egggroup_num(df, finish_pkmn)
   print(paste(start_l, finish_l))
   all_pkmn_path <- c()
+  
+  # Filter out male-only pkmn and filter to hidden ability
+  df <- df[!(df$Gender %in% c('M (100%)', 'F (100%)')),]
+  if (!is.null(hidden_ability) && (hidden_ability != "")) {
+    df <- df[df$HiddenAbility == hidden_ability,]
+  }
 
   # Get each group of pkmn for each element of path
   for (path in paths) {
@@ -267,7 +267,7 @@ return_steps_as_text <- function(df, start_pkmn, finish_pkmn, hidden_ability = N
 
 df <- read.csv('pokemon.csv')
 
-result <- return_steps_as_text(df, 'Spearow', 'Bulbasaur', hidden_ability="")
+result <- return_steps_as_text(df, 'Spearow', 'Nidoran ♀', hidden_ability="")
 print(result)
 
 #result <- return_steps_as_text(df, 'Gloom', 'Koffing', hidden_ability = 'Stench')
