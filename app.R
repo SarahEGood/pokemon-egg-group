@@ -59,6 +59,8 @@ server <- function(input, output, session) {
   pkmn_frame <- read.csv(paste0('gen_data/', 'GenII.csv'))
   ha_list <- c(NULL)
   pkmn_list <- pkmn_frame$Pokemon
+  pkmn_list_finish <- pkmn_frame[pkmn_frame$Gender != "M (100%)", 'Pokemon']
+  pkmn_list_start <- pkmn_frame[pkmn_frame$Gender != "F (100%)", 'Pokemon']
   # Create placeholder for path
   pkmn_path <- ""
   
@@ -68,10 +70,13 @@ server <- function(input, output, session) {
     ha_list <- sort(unique(pkmn_frame$HiddenAbility))
     ha_list <- c(NULL, ha_list)
     pkmn_list <- pkmn_frame$Pokemon
+    # Filter male only species out for finish list
+    pkmn_list_finish <- pkmn_frame[pkmn_frame$Gender != "M (100%)", 'Pokemon']
+    pkmn_list_start <- pkmn_frame[pkmn_frame$Gender != "F (100%)", 'Pokemon']
     updateSelectInput(session, "start_pkmn",
-                      choices = pkmn_list)
+                      choices = pkmn_list_start)
     updateSelectInput(session, "finish_pkmn",
-                      choices = pkmn_list)
+                      choices = pkmn_list_finish)
     updateSelectInput(session, "hidden_ability",
                       choices = ha_list,
                       selected  = NULL)
@@ -86,13 +91,16 @@ server <- function(input, output, session) {
       print(input$hidden_ability)
       print(isTruthy(input$hidden_ability))
       pkmn_list <- pkmn_frame[pkmn_frame$HiddenAbility == input$hidden_ability, 'Pokemon']
+      pkmn_list_finish <- pkmn_frame[(pkmn_frame$Gender != "M (100%)") && (pkmn_frame$HiddenAbility == input$hidden_ability), 'Pokemon']
     } else {
       pkmn_list <- pkmn_frame$Pokemon
+      pkmn_list_start <- pkmn_frame[pkmn_frame$Gender != "F (100%)", 'Pokemon']
+      pkmn_list_finish <- pkmn_frame[pkmn_frame$Gender != "M (100%)", 'Pokemon']
     }
     updateSelectInput(session, "start_pkmn",
-                      choices = pkmn_list)
+                      choices = pkmn_list_start)
     updateSelectInput(session, "finish_pkmn",
-                      choices = pkmn_list)
+                      choices = pkmn_list_finish)
   })
 
   observeEvent(input$generate, {
