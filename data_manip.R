@@ -9,7 +9,10 @@ filter_pkmn_data <- function(df, generation, hidden_ability="") {
   new_df <- df[df[generation]=='X' & df$EggGroupI != '-'
                & df['Gender'] != 'None',]
   # Filter to hidden ability if able
-  if (!is.null(hidden_ability) && hidden_ability >= length(1)) {
+  print(paste('Gen is ', generation))
+  print(!(generation %in% c('GenII', 'GenIII', 'GenIV')))
+  if ((!is.null(hidden_ability) && (hidden_ability != "")
+      && !(generation %in% c('GenII', 'GenIII', 'GenIV')))) {
     new_df <- new_df[new_df["HiddenAbility"] == hidden_ability,]
   }
   return (new_df)
@@ -33,7 +36,7 @@ get_egg_group_list <- function (df, hidden_ability=NULL) {
     # Get list of all egg group combinations
     egg_groups <- df %>% select('Pokemon', 'EggGroupI', 'EggGroupII', 'HiddenAbility')
     # Filter to only pkmn with hidden ability (if selected)
-    if (!is.null(hidden_ability) && hidden_ability >= length(1)) {
+    if (!is.null(hidden_ability) && (hidden_ability != "")) {
       egg_groups <- egg_groups[egg_groups$HiddenAbility == hidden_ability,]
     }
     # Remove NA values
@@ -56,7 +59,7 @@ get_shortest_path <- function(df, start_pkmn, finish_pkmn, hidden_ability=NULL) 
   all_groups <- obj[[2]]
   single_groups <- as.list(read.csv('egg_groups.csv'))
   # Filter to hidden ability if exists
-  if (!is.null(hidden_ability) && hidden_ability >= length(1)) {
+  if (!is.null(hidden_ability) && (hidden_ability != "")) {
     df <- df[df$HiddenAbility == hidden_ability,]
   }
   # Get Pkmn egg group
@@ -167,7 +170,7 @@ return_egggroup_num <- function(df, pkmn) {
 return_breeding_steps <- function(df, paths, start_pkmn, finish_pkmn, hidden_ability=NULL) {
   obj <- get_egg_group_list(df, hidden_ability=hidden_ability)
   df <- obj[[1]]
-  if (!is.null(hidden_ability) && hidden_ability >= length(1)) {
+  if (!is.null(hidden_ability) && (hidden_ability != "")) {
     df <- df[df$HiddenAbility == hidden_ability,]
   }
   # Get Egg Groups amount for each pkmn
@@ -255,10 +258,10 @@ return_steps_as_text <- function(df, start_pkmn, finish_pkmn, hidden_ability = N
   return (final_UI_string)
 }
 
-df <- read.csv('pokemon.csv')
+#df <- read.csv('pokemon.csv')
 
-result <- return_steps_as_text(df, 'Charizard', 'Pidgeotto', hidden_ability="")
-print(result)
+#result <- return_steps_as_text(df, 'Charizard', 'Pidgeotto', hidden_ability="")
+#print(result)
 
-result <- return_steps_as_text(df, 'Gloom', 'Koffing', hidden_ability = 'Stench')
-print(result)
+#result <- return_steps_as_text(df, 'Gloom', 'Koffing', hidden_ability = 'Stench')
+#print(result)
