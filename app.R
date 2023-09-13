@@ -106,6 +106,7 @@ server <- function(input, output, session) {
         # Filter to selected generation
         df_generation <- filter_pkmn_data(df, input$generation,
                                             hidden_ability = input$hidden_ability)
+        print(input$hidden_ability)
         
         # Get HTML for pkmn paths
         result_html <- return_steps_as_text(df_generation, input$start_pkmn,
