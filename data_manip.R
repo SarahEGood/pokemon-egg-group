@@ -71,11 +71,16 @@ get_shortest_path <- function(df, start_pkmn, finish_pkmn, hidden_ability=NULL) 
   finish <- finish[nzchar(finish)]
   # Set up while loop
   steps <- 1
-  paths <- c(list(start))
+  if (length(start) > 1) {
+    paths <- c(list(start[[1]]), list(start[[2]]))
+  } else {
+    paths <- c()
+  }
   overlap_flag <- FALSE
   # Check if groups overlap; skip entire loop if true
   if (length(unique(unlist(c(start, finish)))) < length(unlist(c(start, finish)))) {
     overlap_flag <- TRUE
+    paths <- c('direct')
   }
   # Counter for cases where a path doesn't exist (i.e. too specific of params)
   termination_counter = 1
@@ -136,12 +141,26 @@ get_shortest_path <- function(df, start_pkmn, finish_pkmn, hidden_ability=NULL) 
   }
   print("Loop has broken")
   # Remove paths except for ones that have a finishing egg group
-  if (length(finish) == 1) {
+  if ('direct' %in% paths) {
+    return (paths)
+  } else if (length(finish) == 1) {
     paths <- paths[sapply(paths, function(x) finish[[1]] %in% x)]
   } else {
     paths <- paths[sapply(paths, function(x) (finish[[1]] %in% x | finish[[2]] %in% x))]
   }
   return (paths)
+}
+
+# Determine if cols values are empty or not
+return_egggroup_num <- function(df, pkmn) {
+  egg_grps <- df[df$Pokemon == pkmn,'EggGroupList'][[1]]
+  egg_grp_num <- 0
+  for (grp in egg_grps) {
+    if (grp > length(0)) {
+      egg_grp_num <- egg_grp_num + 1
+    }
+  }
+  return (egg_grp_num)
 }
 
 # Returns the actual lists of pokemon for each path
@@ -156,15 +175,17 @@ return_breeding_steps <- function(df, paths, start_pkmn, finish_pkmn, hidden_abi
   }
   # Get Egg Groups amount for each pkmn
   # Only need length to determine path(s)
-  start_l <- length(df[df$Pokemon == start_pkmn,'EggGroupList'][[1]])
-  finish_l <- length(df[df$Pokemon == finish_pkmn,'EggGroupList'][[1]])
+  start_l <- return_egggroup_num(df, start_pkmn)
+  finish_l <- return_egggroup_num(df, finish_pkmn)
+  print(paste(start_l, finish_l))
   all_pkmn_path <- c()
 
   # Get each group of pkmn for each element of path
   for (path in paths) {
     # Init path
     pkmn_path <- c()
-    for (i in start_l:(length(path)-1)) {
+    for (i in 1:(length(path)-1)) {
+      print(i)
       # Get Pokemon in group for each step in path
       group1 <- path[[i]]
       group2 <- path[[i+1]]
@@ -184,7 +205,7 @@ return_steps_as_text <- function(df, start_pkmn, finish_pkmn, hidden_ability = N
   
   # Get egg group paths
   egg_group_lists <- get_shortest_path(df, start_pkmn, finish_pkmn, hidden_ability)
-  if (!isTruthy(egg_group_lists)) {
+  if (is.null(egg_group_lists)) {
     final_UI_string <- paste0("<div class='container'>
                               <div class='row'>
                               <h2>No path between ", start_pkmn, " and ",
@@ -195,16 +216,14 @@ return_steps_as_text <- function(df, start_pkmn, finish_pkmn, hidden_ability = N
                               </div>
                               </div>")
     return (final_UI_string)
-  }
-  print(egg_group_lists)
-  print(length(egg_group_lists[[1]]))
-  if (length(egg_group_lists[[1]]) <= 2) {
+  } else if ('direct' %in% egg_group_lists) {
     final_UI_string <- paste0("<div class='container'>
                               <div class='row'>
                               <h2>", start_pkmn, " and ",
                               finish_pkmn, " are directly compatible.</h2>
                               </div>
                               </div>")
+    return (final_UI_string)
   } else {
     # Get pkmn by egg group paths
     pkmn_lists <- return_breeding_steps(df, egg_group_lists, start_pkmn, finish_pkmn)
@@ -239,7 +258,10 @@ return_steps_as_text <- function(df, start_pkmn, finish_pkmn, hidden_ability = N
   return (final_UI_string)
 }
 
-df <- read.csv('pokemon.csv')
+#df <- read.csv('pokemon.csv')
 
-result <- return_steps_as_text(df, 'Gloom', 'Koffing')
-print(result)
+#result <- return_steps_as_text(df, 'Charizard', 'Pidgeotto', hidden_ability="")
+#print(result)
+
+#result <- return_steps_as_text(df, 'Gloom', 'Koffing', hidden_ability = 'Stench')
+#print(result)
