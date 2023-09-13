@@ -10,7 +10,7 @@ Nat,Pokemon,TypeI,TypeII,AbilityI,AbilityII,HiddenAbility,Gender,EggGroupI,EggGr
 9,Blastoise,Water,,Torrent,,Rain Dish,M (87.5%),Monster,Water 1,45,Lv. 36,Base,X,X,X,X,X,X,X,X,X,
 10,Caterpie,Bug,,Shield Dust,,Run Away,Neutral,Bug,,255,,Base,X,X,X,X,X,X,X,X,X,
 11,Metapod,Bug,,Shed Skin,,,Neutral,Bug,,120,Lv. 7,Base,X,X,X,X,X,X,X,X,X,
-12,Butterfree,Bug,Flying,Compoundeyes,,Tinted Lens,Neutral,Bug,,45,Lv. 10,Base,X,X,X,X,X,X,X,X,X,
+12,Butterfree,Bug,Flying,Compound Eyes,,Tinted Lens,Neutral,Bug,,45,Lv. 10,Base,X,X,X,X,X,X,X,X,X,
 13,Weedle,Bug,Poison,Shield Dust,,Run Away,Neutral,Bug,,255,,Base,X,X,X,X,X,X,X,,X,
 14,Kakuna,Bug,Poison,Shed Skin,,,Neutral,Bug,,120,Lv. 7,Base,X,X,X,X,X,X,X,,X,
 15,Beedrill,Bug,Poison,Swarm,,Sniper,Neutral,Bug,,45,Lv. 10,Base,X,X,X,X,X,X,X,,X,
@@ -25,8 +25,8 @@ Nat,Pokemon,TypeI,TypeII,AbilityI,AbilityII,HiddenAbility,Gender,EggGroupI,EggGr
 22,Fearow,Normal,Flying,Keen Eye,,Sniper,Neutral,Flying,,90,Lv. 20,Base,X,X,X,X,X,X,X,,X,
 23,Ekans,Poison,,Intimidate,Shed Skin,Unnerve,Neutral,Field,Dragon,255,,Base,X,X,X,X,X,X,X,,X,
 24,Arbok,Poison,,Intimidate,Shed Skin,Unnerve,Neutral,Field,Dragon,90,Lv. 22,Base,X,X,X,X,X,X,X,,X,
-25,Pikachu,Electric,,Static,,Lightningrod,Neutral,Field,Fairy,190,Friendship,Base,X,X,X,X,X,X,X,X,X,X
-26,Raichu,Electric,,Static,,Lightningrod,Neutral,Field,Fairy,75,Thunderstone,Base,X,X,X,X,X,X,X,X,X,X
+25,Pikachu,Electric,,Static,,Lightning Rod,Neutral,Field,Fairy,190,Friendship,Base,X,X,X,X,X,X,X,X,X,X
+26,Raichu,Electric,,Static,,Lightning Rod,Neutral,Field,Fairy,75,Thunderstone,Base,X,X,X,X,X,X,X,X,X,X
 26,Alolan Raichu,Electric,Psychic,Surge Surfer,,,Neutral,Field,Fairy,75,Thunderstone (Alola Only),Alolan,,,,,,,,,,
 27,Sandshrew,Ground,,Sand Veil,,Sand Rush,Neutral,Field,,255,,Base,X,X,X,X,X,X,X,X,X,
 27,Alolan Sandshrew,Ice,Steel,Snow Cloak,,Slush Rush,Neutral,Field,,255,,Alolan,,,,,,X,X,X,,
@@ -53,8 +53,8 @@ Nat,Pokemon,TypeI,TypeII,AbilityI,AbilityII,HiddenAbility,Gender,EggGroupI,EggGr
 45,Vileplume,Grass,Poison,Chlorophyll,,Effect Spore,Neutral,Grass,,45,Leaf Stone,Base,X,X,X,X,X,X,X,X,X,
 46,Paras,Bug,Grass,Effect Spore,Dry Skin,Damp,Neutral,Bug,Grass,190,,Base,X,X,X,X,X,X,X,,X,
 47,Parasect,Bug,Grass,Effect Spore,Dry Skin,Damp,Neutral,Bug,Grass,75,Lv. 24,Base,X,X,X,X,X,X,X,,X,
-48,Venonat,Bug,Poison,Compoundeyes,Tinted Lens,Run Away,Neutral,Bug,,190,,Base,X,X,X,X,X,X,X,,X,X
-49,Venomoth,Bug,Poison,Shield Dust,Tinted Lens,Wonderskin,Neutral,Bug,,75,Lv. 31,Base,X,X,X,X,X,X,X,,X,X
+48,Venonat,Bug,Poison,Compound Eyes,Tinted Lens,Run Away,Neutral,Bug,,190,,Base,X,X,X,X,X,X,X,,X,X
+49,Venomoth,Bug,Poison,Shield Dust,Tinted Lens,Wonder Skin,Neutral,Bug,,75,Lv. 31,Base,X,X,X,X,X,X,X,,X,X
 50,Diglett,Ground,,Sand Veil,Arena Trap,Sand Force,Neutral,Field,,255,,Base,X,X,X,X,X,X,X,X,X,X
 50,Alolan Diglett,Ground,Steel,Sand Veil,Tangling Hair,Sand Force,Neutral,Field,,255,,Alolan,,,,,,X,X,X,,X
 51,Dugtrio,Ground,,Sand Veil,Arena Trap,Sand Force,Neutral,Field,,50,Lv. 26,Base,X,X,X,X,X,X,X,X,X,X
@@ -129,8 +129,8 @@ Nat,Pokemon,TypeI,TypeII,AbilityI,AbilityII,HiddenAbility,Gender,EggGroupI,EggGr
 102,Exeggcute,Grass,Psychic,Chlorophyll,,Harvest,Neutral,Grass,,90,,Base,X,X,X,X,X,X,X,X,X,
 103,Exeggutor,Grass,Psychic,Chlorophyll,,Harvest,Neutral,Grass,,45,Leaf Stone,Base,X,X,X,X,X,X,X,X,X,
 103,A. Exeggutor,Grass,,Frisk,,Harvest,Neutral,Grass,,45,Leaf Stone (Alola Only),Alolan,,,,,,X,X,X,,
-104,Cubone,Ground,,Rock Head,Lightningrod,Battle Armor,Neutral,Monster,,190,,Base,X,X,X,X,X,X,X,X,X,
-105,Marowak,Ground,,Rock Head,Lightningrod,Battle Armor,Neutral,Monster,,75,Lv. 28,Base,X,X,X,X,X,X,X,X,X,
+104,Cubone,Ground,,Rock Head,Lightning Rod,Battle Armor,Neutral,Monster,,190,,Base,X,X,X,X,X,X,X,X,X,
+105,Marowak,Ground,,Rock Head,Lightning Rod,Battle Armor,Neutral,Monster,,75,Lv. 28,Base,X,X,X,X,X,X,X,X,X,
 105,A. Marowak,Ghost,Fire,Cursed Body,Lightning Rod,Rock Head,Neutral,Monster,,75,"Level 28 (Night, Alola Only)",Alolan,,,,,,X,X,X,,
 106,Hitmonlee,Fighting,,Limber,Reckless,Unburden,M (100%),Human-Like,,45,Lv. 20 (Atk>Def),Base,X,X,X,X,X,X,X,X,X,
 107,Hitmonchan,Fighting,,Keen Eye,Iron Fist,Inner Focus,M (100%),Human-Like,,45,Lv. 20 (Atk<Def),Base,X,X,X,X,X,X,X,X,X,
@@ -138,15 +138,15 @@ Nat,Pokemon,TypeI,TypeII,AbilityI,AbilityII,HiddenAbility,Gender,EggGroupI,EggGr
 109,Koffing,Poison,,Levitate,Neutralizing Gas,Stench,Neutral,Amorphous,,190,,Base,X,X,X,X,X,X,X,X,X,
 110,Weezing,Poison,,Levitate,Neutralizing Gas,Stench,Neutral,Amorphous,,60,Lv. 35,Base,X,X,X,X,X,X,X,X,X,
 110,G. Weezing,Poison,Fairy,Levitate,Neutralizing Gas,Misty Surge,Neutral,Amorphous,,60,Level 35 (Galar Only),Galarian,,,,,,,,X,,
-111,Rhyhorn,Ground,Rock,Lightningrod,Rock Head,Reckless,Neutral,Monster,Field,120,,Base,X,X,X,X,X,X,X,X,X,
-112,Rhydon,Ground,Rock,Lightningrod,Rock Head,Reckless,Neutral,Monster,Field,60,Lv. 42,Base,X,X,X,X,X,X,X,X,X,
+111,Rhyhorn,Ground,Rock,Lightning Rod,Rock Head,Reckless,Neutral,Monster,Field,120,,Base,X,X,X,X,X,X,X,X,X,
+112,Rhydon,Ground,Rock,Lightning Rod,Rock Head,Reckless,Neutral,Monster,Field,60,Lv. 42,Base,X,X,X,X,X,X,X,X,X,
 113,Chansey,Normal,,Natural Cure,Serene Grace,Healer,F (100%),Fairy,,30,Morn/Day Fr. h/ Oval Stone,Base,X,X,X,X,X,X,X,X,X,X
 114,Tangela,Grass,,Chlorophyll,Leaf Guard,Regenerator,Neutral,Grass,,45,,Base,X,X,X,X,X,X,X,X,X,
 115,Kangaskhan,Normal,,Early Bird,Scrappy,Inner Focus,F (100%),Monster,,45,N,Base,X,X,X,X,X,X,X,X,X,
 116,Horsea,Water,,Swift Swim,Sniper,Damp,Neutral,Water 1,Dragon,225,,Base,X,X,X,X,X,X,X,X,X,
 117,Seadra,Water,,Poison Point,Sniper,Damp,Neutral,Water 1,Dragon,75,Lv. 32,Base,X,X,X,X,X,X,X,X,X,
-118,Goldeen,Water,,Swift Swim,Water Veil,Lightningrod,Neutral,Water 2,,225,,Base,X,X,X,X,X,X,X,X,X,
-119,Seaking,Water,,Swift Swim,Water Veil,Lightningrod,Neutral,Water 2,,60,Lv. 33,Base,X,X,X,X,X,X,X,X,X,
+118,Goldeen,Water,,Swift Swim,Water Veil,Lightning Rod,Neutral,Water 2,,225,,Base,X,X,X,X,X,X,X,X,X,
+119,Seaking,Water,,Swift Swim,Water Veil,Lightning Rod,Neutral,Water 2,,60,Lv. 33,Base,X,X,X,X,X,X,X,X,X,
 120,Staryu,Water,,Illuminate,Natural Cure,Analytic,None,Water 3,,225,,Base,X,X,X,X,X,X,X,X,X,
 121,Starmie,Water,Psychic,Illuminate,Natural Cure,Analytic,None,Water 3,,60,Water Stone,Base,X,X,X,X,X,X,X,X,X,
 122,Mr. Mime,Psychic,Fairy,Soundproof,Filter,Technician,Neutral,Human-Like,,45,Level w/ Mimic,Base,X,X,X,X,X,X,X,X,X,
@@ -207,7 +207,7 @@ Nat,Pokemon,TypeI,TypeII,AbilityI,AbilityII,HiddenAbility,Gender,EggGroupI,EggGr
 169,Crobat,Poison,Flying,Inner Focus,,Infiltrator,Neutral,Flying,,90,Friendship,Base,X,X,X,X,X,X,X,X,X,
 170,Chinchou,Water,Electric,Volt Absorb,Illuminate,Water Absorb,Neutral,Water 2,,190,,Base,X,X,X,X,X,X,X,X,X,
 171,Lanturn,Water,Electric,Volt Absorb,Illuminate,Water Absorb,Neutral,Water 2,,75,Lv. 27,Base,X,X,X,X,X,X,X,X,X,
-172,Pichu,Electric,,Static,,Lightningrod,Neutral,-,,190,,Base,X,X,X,X,X,X,X,X,X,X
+172,Pichu,Electric,,Static,,Lightning Rod,Neutral,-,,190,,Base,X,X,X,X,X,X,X,X,X,X
 173,Cleffa,Fairy,,Cute Charm,Magic Guard,Friend Guard,F (75%),-,,150,,Base,X,X,X,X,X,X,X,X,X,
 174,Igglybuff,Normal,Fairy,Cute Charm,,Friend Guard,F (75%),-,,170,,Base,X,X,X,X,X,X,X,X,X,X
 175,Togepi,Fairy,,Hustle,Serene Grace,Super Luck,M (87.5%),-,,190,,Base,X,X,X,X,X,X,X,X,X,
@@ -228,7 +228,7 @@ Nat,Pokemon,TypeI,TypeII,AbilityI,AbilityII,HiddenAbility,Gender,EggGroupI,EggGr
 190,Aipom,Normal,,Run Away,Pickup,Skill Link,Neutral,Field,,45,,Base,X,X,X,X,X,X,X,,X,
 191,Sunkern,Grass,,Chlorophyll,Solar Power,Early Bird,Neutral,Grass,,235,,Base,X,X,X,X,X,X,X,,X,X
 192,Sunflora,Grass,,Chlorophyll,Solar Power,Early Bird,Neutral,Grass,,120,Sun Stone,Base,X,X,X,X,X,X,X,,X,X
-193,Yanma,Bug,Flying,Speed Boost,Compoundeyes,Frisk,Neutral,Bug,,75,,Base,X,X,X,X,X,X,X,,X,
+193,Yanma,Bug,Flying,Speed Boost,Compound Eyes,Frisk,Neutral,Bug,,75,,Base,X,X,X,X,X,X,X,,X,
 194,Wooper,Water,Ground,Damp,Water Absorb,Unaware,Neutral,Water 1,Field,255,,Base,X,X,X,X,X,X,X,X,X,X
 194,P. Wooper,Poison,Ground,Poison Point,Water Absorb,Unaware,Neutral,Water 1,Field,255,,Paldean,,,,,,,,,,X
 195,Quagsire,Water,Ground,Damp,Water Absorb,Unaware,Neutral,Water 1,Field,90,Lv. 20,Base,X,X,X,X,X,X,X,X,X,X
@@ -338,7 +338,7 @@ Nat,Pokemon,TypeI,TypeII,AbilityI,AbilityII,HiddenAbility,Gender,EggGroupI,EggGr
 287,Slakoth,Normal,,Truant,,,Neutral,Field,,255,,Base,,X,X,X,X,X,X,,X,X
 288,Vigoroth,Normal,,Vital Spirit,,,Neutral,Field,,120,Lv. 18,Base,,X,X,X,X,X,X,,X,X
 289,Slaking,Normal,,Truant,,,Neutral,Field,,45,Lv. 36,Base,,X,X,X,X,X,X,,X,X
-290,Nincada,Bug,Ground,Compoundeyes,,Run Away,Neutral,Bug,,255,,Base,,X,X,X,X,X,X,X,X,
+290,Nincada,Bug,Ground,Compound Eyes,,Run Away,Neutral,Bug,,255,,Base,,X,X,X,X,X,X,X,X,
 291,Ninjask,Bug,Flying,Speed Boost,,Infiltrator,Neutral,Bug,,120,Lv. 20,Base,,X,X,X,X,X,X,X,X,
 292,Shedinja,Bug,Ghost,Wonder Guard,,,None,Mineral,,45,Lv. 20 t/ Empty Space,Base,,X,X,X,X,X,X,X,X,
 293,Whismur,Normal,,Soundproof,,Rattled,Neutral,Monster,Field,190,,Base,,X,X,X,X,X,X,X,X,
@@ -357,8 +357,8 @@ Nat,Pokemon,TypeI,TypeII,AbilityI,AbilityII,HiddenAbility,Gender,EggGroupI,EggGr
 306,Aggron,Steel,Rock,Sturdy,Rock Head,Heavy Metal,Neutral,Monster,,45,Lv. 42,Base,,X,X,X,X,X,X,X,X,
 307,Meditite,Fighting,Psychic,Pure Power,,Telepathy,Neutral,Human-Like,,180,,Base,,X,X,X,X,X,X,,X,X
 308,Medicham,Fighting,Psychic,Pure Power,,Telepathy,Neutral,Human-Like,,90,Lv. 37,Base,,X,X,X,X,X,X,,X,X
-309,Electrike,Electric,,Static,Lightningrod,Minus,Neutral,Field,,120,,Base,,X,X,X,X,X,X,X,X,
-310,Manectric,Electric,,Static,Lightningrod,Minus,Neutral,Field,,45,Lv. 26,Base,,X,X,X,X,X,X,X,X,
+309,Electrike,Electric,,Static,Lightning Rod,Minus,Neutral,Field,,120,,Base,,X,X,X,X,X,X,X,X,
+310,Manectric,Electric,,Static,Lightning Rod,Minus,Neutral,Field,,45,Lv. 26,Base,,X,X,X,X,X,X,X,X,
 311,Plusle,Electric,,Plus,,Lightning Rod,Neutral,Fairy,,200,N,Base,,X,X,X,X,X,X,,X,
 312,Minun,Electric,,Minus,,Volt Absorb,Neutral,Fairy,,200,N,Base,,X,X,X,X,X,X,,X,
 313,Volbeat,Bug,,Illuminate,Swarm,Prankster,M (100%),Bug,Human-Like,150,N,Base,,X,X,X,X,X,X,,X,
@@ -515,7 +515,7 @@ Nat,Pokemon,TypeI,TypeII,AbilityI,AbilityII,HiddenAbility,Gender,EggGroupI,EggGr
 461,Weavile,Dark,Ice,Pressure,,Pickpocket,Neutral,Field,,45,Nite Level h/ Razor Claw,Base,,,X,X,X,X,X,X,X,X
 462,Magnezone,Electric,Steel,Magnet Pull,Sturdy,Analytic,None,Mineral,,30,Level a/ Mt. Coronet,Base,,,X,X,X,X,X,X,X,X
 463,Lickilicky,Normal,,Own Tempo,Oblivious,Cloud Nine,Neutral,Monster,,30,Level w/ Rollout,Base,,,X,X,X,X,X,X,X,
-464,Rhyperior,Ground,Rock,Lightningrod,Solid Rock,Regenerator,Neutral,Monster,Field,30,Trade h/ Protector,Base,,,X,X,X,X,X,X,X,
+464,Rhyperior,Ground,Rock,Lightning Rod,Solid Rock,Regenerator,Neutral,Monster,Field,30,Trade h/ Protector,Base,,,X,X,X,X,X,X,X,
 465,Tangrowth,Grass,,Chlorophyll,Leaf Guard,Regenerator,Neutral,Grass,,30,Level w/ Ancientpower,Base,,,X,X,X,X,X,X,X,
 466,Electivire,Electric,,Motor Drive,,Vital Spirit,M (75%),Human-Like,,30,Trade h/ Electrizer,Base,,,X,X,X,X,X,X,X,
 467,Magmortar,Fire,,Flame Body,,Vital Spirit,M (75%),Human-Like,,30,Trade h/ Magmarizer,Base,,,X,X,X,X,X,X,X,
@@ -576,8 +576,8 @@ Nat,Pokemon,TypeI,TypeII,AbilityI,AbilityII,HiddenAbility,Gender,EggGroupI,EggGr
 519,Pidove,Normal,Flying,Big Pecks,Super Luck,Rivalry,Neutral,Flying,,255,,Base,,,,X,X,X,X,X,,
 520,Tranquill,Normal,Flying,Big Pecks,Super Luck,Rivalry,Neutral,Flying,,120,Lv. 21,Base,,,,X,X,X,X,X,,
 521,Unfezant,Normal,Flying,Big Pecks,Super Luck,Rivalry,Neutral,Flying,,45,Lv. 32,Base,,,,X,X,X,X,X,,
-522,Blitzle,Electric,,Lightningrod,Motor Drive,Sap Sipper,Neutral,Field,,190,,Base,,,,X,X,X,X,,,
-523,Zebstrika,Electric,,Lightningrod,Motor Drive,Sap Sipper,Neutral,Field,,75,Lv. 27,Base,,,,X,X,X,X,,,
+522,Blitzle,Electric,,Lightning Rod,Motor Drive,Sap Sipper,Neutral,Field,,190,,Base,,,,X,X,X,X,,,
+523,Zebstrika,Electric,,Lightning Rod,Motor Drive,Sap Sipper,Neutral,Field,,75,Lv. 27,Base,,,,X,X,X,X,,,
 524,Roggenrola,Rock,,Sturdy,,Sand Force,Neutral,Mineral,,255,,Base,,,,X,X,X,X,X,,
 525,Boldore,Rock,,Sturdy,,Sand Force,Neutral,Mineral,,120,Lv. 25,Base,,,,X,X,X,X,X,,
 526,Gigalith,Rock,,Sturdy,,Sand Force,Neutral,Mineral,,45,Trade,Base,,,,X,X,X,X,X,,
@@ -656,8 +656,8 @@ Nat,Pokemon,TypeI,TypeII,AbilityI,AbilityII,HiddenAbility,Gender,EggGroupI,EggGr
 592,Frillish,Water,Ghost,Water Absorb,Cursed Body,Damp,Neutral,Amorphous,,190,,Base,,,,X,X,X,X,X,,
 593,Jellicent,Water,Ghost,Water Absorb,Cursed Body,Damp,Neutral,Amorphous,,60,Lv. 40,Base,,,,X,X,X,X,X,,
 594,Alomomola,Water,,Healer,Hydration,Regenerator,Neutral,Water 1,Water 2,75,N,Base,,,,X,X,X,X,,,X
-595,Joltik,Bug,Electric,Compoundeyes,Unnerve,Swarm,Neutral,Bug,,190,,Base,,,,X,X,X,X,X,,
-596,Galvantula,Bug,Electric,Compoundeyes,Unnerve,Swarm,Neutral,Bug,,75,Lv. 36,Base,,,,X,X,X,X,X,,
+595,Joltik,Bug,Electric,Compound Eyes,Unnerve,Swarm,Neutral,Bug,,190,,Base,,,,X,X,X,X,X,,
+596,Galvantula,Bug,Electric,Compound Eyes,Unnerve,Swarm,Neutral,Bug,,75,Lv. 36,Base,,,,X,X,X,X,X,,
 597,Ferroseed,Grass,Steel,Iron Barbs,,,Neutral,Grass,Mineral,255,,Base,,,,X,X,X,X,X,,
 598,Ferrothorn,Grass,Steel,Iron Barbs,,Anticipation,Neutral,Grass,Mineral,90,Lv. 40,Base,,,,X,X,X,X,X,,
 599,Klink,Steel,,Plus,Minus,Clear Body,None,Mineral,,130,,Base,,,,X,X,X,X,X,,
