@@ -27,7 +27,7 @@ get_pkmn_by_gen <- function() {
   for (item in generation_list) {
     new_df <- filter_pkmn_data(df, item)
     file_name <- paste0('gen_data/', item, '.csv')
-    write.csv(new_df[c('Nat','Pokemon',"HiddenAbility")], file_name)
+    write.csv(new_df[c('Nat','Pokemon',"HiddenAbility", "Gender")], file_name)
   }
 }
 
