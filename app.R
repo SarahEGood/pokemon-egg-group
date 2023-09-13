@@ -73,7 +73,8 @@ server <- function(input, output, session) {
     updateSelectInput(session, "finish_pkmn",
                       choices = pkmn_list)
     updateSelectInput(session, "hidden_ability",
-                      choices = ha_list)
+                      choices = ha_list,
+                      selected  = NULL)
   })
 
   # When selecting hidden ability, filter to only Pkmn with that ability
@@ -103,14 +104,22 @@ server <- function(input, output, session) {
             footer = NULL
         ))
     } else {
+      print(input$hidden_ability)
         # Filter to selected generation
         df_generation <- filter_pkmn_data(df, input$generation,
                                             hidden_ability = input$hidden_ability)
+        print(input$hidden_ability)
         
         # Get HTML for pkmn paths
-        result_html <- return_steps_as_text(df_generation, input$start_pkmn,
-                                            input$finish_pkmn,
-                                            hidden_ability = input$hidden_ability)
+        if (!(input$generation %in% c('GenII','GenIII','GenIV'))) {
+          result_html <- return_steps_as_text(df_generation, input$start_pkmn,
+                                              input$finish_pkmn,
+                                              hidden_ability = input$hidden_ability)
+        } else {
+          result_html <- return_steps_as_text(df_generation, input$start_pkmn,
+                                              input$finish_pkmn)
+        }
+        
         output$test <- renderUI({
           HTML(result_html)
         })
