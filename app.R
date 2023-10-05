@@ -7,21 +7,22 @@ source("data_manip.R")
 
 ui <- fluidPage(
   tags$script(src = "https://kit.fontawesome.com/7b969bf8cd.js"),
-  titlePanel("Pokemon Breeding Path Generator"),
-  #sidebarLayout(
+  fluidRow(
+    titlePanel("Pokemon Breeding Path Generator"),
+    #sidebarLayout(
     sidebarPanel(
-        selectInput(
-            "generation",
-            "Select Generation/Game:",
-            c("Gen II"="GenII", "Gen III"="GenIII", "Gen IV"="GenIV",
-            "Gen V"="GenV", "Gen VI"= "GenVI",
-            "Sun & Moon (GenVII)" = "SunMoon",
-            "Omega Ruby/Alpha Sapphire (GenVII)"="ORAS",
-            "Sword & Shield (Gen VIII)"="SwSh",
-            "Brilliant Diamond/Shining Pearl (Gen VIII)"="BDSP",
-            "Scarlet/Violet (Gen IX)"="SV"),
-            selected="GenII"
-        ),
+      selectInput(
+        "generation",
+        "Select Generation/Game:",
+        c("Gen II"="GenII", "Gen III"="GenIII", "Gen IV"="GenIV",
+          "Gen V"="GenV", "Gen VI"= "GenVI",
+          "Sun & Moon (GenVII)" = "SunMoon",
+          "Omega Ruby/Alpha Sapphire (GenVII)"="ORAS",
+          "Sword & Shield (Gen VIII)"="SwSh",
+          "Brilliant Diamond/Shining Pearl (Gen VIII)"="BDSP",
+          "Scarlet/Violet (Gen IX)"="SV"),
+        selected="GenII"
+      ),
       selectInput(
         "start_pkmn",
         "Select starting Pokemon",
@@ -35,21 +36,36 @@ ui <- fluidPage(
       conditionalPanel(
         condition = "!(['GenII','GenIII','GenIV'].includes(input.generation))",
         selectInput(
-                "hidden_ability",
-                "Select hidden ability (if applicable)",
-                choices = c(NULL),
-                selected = NULL
-          )
+          "hidden_ability",
+          "Select hidden ability (if applicable)",
+          choices = c(NULL),
+          selected = NULL
+        )
       ),
       actionButton("generate", "Generate")
+    ),
+    mainPanel(
+      fluidRow(
+        uiOutput("test")
+      )
+      
     )
-  #)
-  ,
-  mainPanel(
-    fluidRow(
-      uiOutput("test")
-    )
-    
+    ),
+  fluidRow(
+    column(8, align="center", offset=2,
+           # Icons for links out
+           div(class = 'footer',
+               style = "padding-top: 5px; font-size: 11px",
+               includeHTML("footer.html")),
+           a(tags$i(class="fa-solid fa-house", style = "font-size:3rem;"),
+             href = "http://sarahegood.com/"),
+           a(tags$i(class="fa-brands fa-github", style = "font-size:3rem;"),
+             href = "https://github.com/SarahEGood/ca_shiny_app"),
+           a(tags$i(class="fa-brands fa-linkedin", style = "font-size:3rem;"),
+             href = "https://www.linkedin.com/in/segood/"),
+           a(tags$i(class="fa-brands fa-mastodon", style = "font-size:3rem;"),
+             href = "https://tech.lgbt/@sarahegood")
+           )
   )
 )
 
