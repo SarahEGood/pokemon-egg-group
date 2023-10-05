@@ -60,7 +60,7 @@ ui <- fluidPage(
            a(tags$i(class="fa-solid fa-house", style = "font-size:3rem;"),
              href = "http://sarahegood.com/"),
            a(tags$i(class="fa-brands fa-github", style = "font-size:3rem;"),
-             href = "https://github.com/SarahEGood/ca_shiny_app"),
+             href = "https://github.com/SarahEGood/pokemon-egg-group"),
            a(tags$i(class="fa-brands fa-linkedin", style = "font-size:3rem;"),
              href = "https://www.linkedin.com/in/segood/"),
            a(tags$i(class="fa-brands fa-mastodon", style = "font-size:3rem;"),
